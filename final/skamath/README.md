@@ -47,7 +47,7 @@
 
 * **Total Entries in category :** 39
 
-* **Percentage participation in category :** 1.52
+* **Percentage participation in category :** 2.23
 
 
 #### Category : Fmn
@@ -71,15 +71,1396 @@
 
 * **Total Entries in category :** 17
 
-* **Percentage participation in category :** 0.66
+* **Percentage participation in category :** 0.97
+
+
+#### Category : Meetbot
+* jflory7's meeting titled "Fedora CommOps (2016-08-09)" ended in #fedora-meeting
+* The topic of jflory7's "Fedora CommOps (2016-08-09)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(4) Alpha Release Public Availability (starting: Tue 2016-08-23)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(3) Software String Freeze Reached (starting: Tue 2016-08-09)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(2) Bodhi activation point (starting: Tue 2016-08-09)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(1) Alpha Freeze (00:00 UTC) (starting: Tue 2016-08-09)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-25/f-25-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-08-09)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 Update guide for writing a new article based on what's actually happening in 2016 now"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== General Community Blog housekeeping ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=2010&preview=1&_ppp=fd152f9b67"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(6) "Fedora 24 Release Party in Singapore!""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(5) "Event Report: WWFS-FWD'2016, Kolkata""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=2046&preview=1&_ppp=59a3f27ea5"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=2070&preview=1&_ppp=e2b457c3a4"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(4) "Heroes of Fedora 23 bonus: Test Days""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(3) "Docs Project Update from Flock 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=2082&preview=1&_ppp=bc4959e009"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=2039&preview=1&_ppp=cf4754d9a2"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(2) "Woman in Tech - Fedora Campus Presence""
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 Follow up with nardasev ASAP on whether this one is still good to publish post-Flock"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=2022&preview=1&_ppp=c0b0909f55"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(1) "Flock 2016 Preview: Speaker Interviews""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=2060"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (August 4 - August 9): 177"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/flock-update-day-2/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(7) "Flock update Day 2""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=2057"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (August 3 - August 9): 191"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/interview-thomas-cameron-senior-principal-cloud-evangelist-red-hat/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(6) "Interview with Thomas Cameron – Senior Principal Cloud Evangelist at Red Hat""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=2050"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (August 3 - August 9): 186"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/flock-update-day-1/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(5) "Flock update Day 1""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1610"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (August 2 - August 9): 84"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/getting-started-fedora-qa-part-3/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(4) "Getting started with Fedora QA (Part 3)""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (July 28 - August 9): 567"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1609"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/getting-started-fedora-qa-part-2/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(3) "Getting started with Fedora QA (Part 2)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1992"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (July 27 - August 9): 114"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/new-taskotron-tasks/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(2) "New Taskotron tasks""
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1984"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Total Views (July 26 - August 9): 75"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/elections-retrospective-july-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "(1) "Elections Retrospective, July 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-08-09)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 proposed an idea in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Revisiting the CommOps wiki page and looking at modernizing / updating for current time"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/flock-planning@lists.fedoraproject.org/thread/EKIYEBLQJQU37X6VPTHQ5GU7SA2CNTGD/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Flock_bid_process"
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-08-09)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 Close ticket#80"
+* jflory7 noted agreement in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Will close ticket as "wontfix" due to other potential issues that could come by doing this (e.g. social engineering / spammers) - hasn't affected most teams so will handle on an individual basis for any edge cases that do come along. Further discussion can fit into on-boarding tickets for individual teams."
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/80"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: ""Create 'wiki-editors' FAS group""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== Ticket #80 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 File tickets for Python SIG, add feedback for Ambassadors from workshop"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/49"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== Tickets #34, 49 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 bee2502 Take workshop feedback and parse it into more accessiblr data (e.g. tickets / commits / CommBlog posts / metrics / etc.)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Workshop is done, but some work needs to be done on post-workshop processing (e.g. turning notes into tickets / commits / posts / other things as necessary. jflory7 and bee2502 will work on taking the feedback from the workshop and converting it into more accessible data."
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/79"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: ""Flock 2016 CommOps Workshop""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== Ticket #79 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-08-09)" meeting changed to "Tickets" in #fedora-meeting
+* bee2502 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "Bee UTC+2 Metrics, GSoC , Elections"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "No longer relevant... be more on top of things for Alpha!"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Write an article stub announcing Fedora 25's existence, separate from Rawhide today ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 Review emails for pending posts on the CommBlog"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Review emails for pending posts on the CommBlog ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "jflory7 Work with bee2502 on writing a report / update on the Flock 2016 CommOps workshop"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "No longer relevant to do so... a post-workshop report would be better"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Work on drafting an article about the Flock 2016 CommOps workshop for Community Blog ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-08-09)" meeting in #fedora-meeting: "skamath file a ticket on fedmsg repo for the mailman bug"
+* jflory7's meeting titled "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" ended in #fedora-flock-openqa
+* jflory7 linked to more information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "https://docs.google.com/presentation/d/1ANub0RZtqnLaBDzpiQRUkZdnf7n75Pn9H16gb0wZg68/"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Shout-out to skamath for helping generate these statistics!"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Individually: attending Fedora events, engaging in mailing lists, IRC, meetings, etc., and look for consistency over just activity"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "What to take away: community matters for retaining contributors, defining and refining on-boarding series, encourage interactions and create a feedback mechanism"
+* The topic of jflory7's "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting changed to "Conclusion / Open Discussion" in #fedora-flock-openqa
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Trend also continued at FOSDEM 2015"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "A: Using the Fedora badge for FOSDEM 2014 enabled us to look at these contributors"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Q: "What did you use to measure activity specific from FOSDEM 2014?""
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Long-term activity from FOSDEM 2014 badge scanners: noticeable trend from pre- and post-FOSDEM contributions"
+* jflory7 linked to more information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "https://networksfordata.wordpress.com/2016/03/08/fedora-at-fosdem/"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Not only great for newcmers but also lead to increase in activity in attendees"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Performed some data analytics understanding impact of attending events like FOSDEM and contributionactivity"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Meeting community in person at events"
+* The topic of jflory7's "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting changed to "Impact of attending Fedora events" in #fedora-flock-openqa
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Consistency should be measured / valued perhaps more than short, intense bursts of activity early on in a contributor's "lifecycle""
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Patterns in activity of long-time contributors: consistency > activity"
+* The topic of jflory7's "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting changed to "Studying other long-term Fedora contributors" in #fedora-flock-openqa
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Licensed to Push (Pagure), hot topic (mailing lists), etc."
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "General on-boarding badges for all sub-projects:"
+* jflory7 linked to more information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "=== On-boarding Master Ticket ==="
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "CommOps has been helping create a defined on-boarding process for different Fedora teams"
+* jflory7 raised a point of information in the "I contributed! But what now? - Speaker: Bhagyashree (Bee) Padalkar (bee2502)" meeting in #fedora-flock-openqa: "Need for mentors, much debated issue, not as feasible"
+* jflory7's meeting titled "Fedora CommOps (2016-07-26)" ended in #fedora-meeting
+* jflory7 noted agreement in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Due to Flock starting on Tuesday of next week, there will be no weekly CommOps meeting on Aug 2 2016 - we will meet next on Aug 9 2016"
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "jflory7 Write an article stub announcing Fedora 25's existence, separate from Rawhide today"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(4) Software String Freeze Reached (due: Tue 2016-08-09)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(3) Bodhi activation point (due: Tue 2016-08-09)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(2) Alpha Freeze (00:00 UTC) (due: Tue 2016-08-09)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(1) Branch Fedora 25 from Rawhide (due: Tue 2016-07-26)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-25/f-25-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 called for help in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Know of something happening in Fedora? Need to get the word out for something new coming? Want to share what's happening in your side of the project? Write an article for the Community Blog! Hop in #fedora-commops for more info."
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "jflory7 Review emails for pending posts on the CommBlog"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(3) (4) More articles pending review as of this morning on the mailing list"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=d2dc51b4a5"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(2) "Getting started with Fedora QA (Part 3)" - scheduled @ 2016-08-02, 8:15 UTC"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=2e0765c409"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(1) "Getting started with Fedora QA (Part 2)" - scheduled @ 2016-07-28, 8:15 UTC"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1880"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Total Views (July 25): 133"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/introduction-to-modularity/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(5) "Introduction to Modularity""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1943"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Total Views (July 20 - July 25): 64"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/council-elections-interview-langdon-white/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(4) "Council Elections: Interview with Langdon White (langdon)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1905"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Total Views (July 19 - July 25): 126"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/2016-july-elections-interviews/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(3) "2016 July Elections: Interviews""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1847"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Total Views (July 18 - July 25): 73"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fesco-elections-interview-dominik-mierzejewski/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(2) "FESCo Elections: Interview with Dominik Mierzejewski (rathann)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1791"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Total Views (July 18 - July 25): 91"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/new-guidelines-fedora-ambassadors-design/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "(1) "New guidelines for Fedora Ambassadors and Design""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/442"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/441"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/434"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Functionality for putting out usernames is bugged and not working as expected. Once bug is resolved, tickets for Mailman and Pagure should be technically feasible again. skamath is looking into this and will write the Mailman badge YAML once the bug is resolved."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/49"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== Tickets #34, 49 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://en.wikipedia.org/wiki/Wikipedia:Categorization"
+* jflory7 noted agreement in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Due to concerns over long-term vision of wiki with regards to Hubs and other future resources, coming up with a plan of action for the wiki will be deferred until after Flock. In the meanwhile, understanding how we use the wiki is possible and anyone with ideas is encouraged to leave a note in the ticket."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/25"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: ""Begin initiative to consolidate subgroup wiki pages""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== Ticket #25 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "We will do some more planning about the workshop right after this meeting. :) More information coming very soon!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://etherpad.gnome.org/p/flock-2016-commops-workshop"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "More planning and brainstorming targeted for the next 48 hours. As a workshop, the schedule or preparation doesn't have to be as rigid as a talk, but some general organization and plotting of final details should be wrapped up in the next couple of days (Flock is next week, after all)... :)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/79"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: ""Flock 2016 CommOps Workshop""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== Ticket #79 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "jflory7 Work on drafting an article about the Flock 2016 CommOps workshop for Community Blog"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Work on drafting an article about the Flock 2016 CommOps workshop for Community Blog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "This ticket is on the discussion agenda for today as well."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== [IN PROGRESS] commops Review ticket #25, add any feedback / ideas / thoughts towards reorganizing the wiki by subgroups / time periods ( https://fedorahosted.org/fedora-commops/ticket/25 ) ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/attachment/ticket/442/licensed-to-push-01.yml"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "skamath file a ticket on fedmsg repo for the mailman bug"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "the infra team has confirmed that the mailman JSON returned is bugged when it comes to usernames."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "skamath uploaded YAML files to #442, but there are pending challenges with Mailman / Pagure-related badges due to how data is put out from those platforms - it's via emails instead of usernames, which makes it difficult to query since mailing list / git emails can differ from FAS emails. Solutions being looked into."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== [COMPLETE] skamath / jflory7 Work on creating the YAML rules files for fedbadges#441 (Hot Topic) and fedbadges#442 (Licensed to Push) ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "commops Interested attendees for Flock 2016 workshop (either in-person or remote), please add yourselves to the "Attendees" section on the wiki page"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== [IN PROGRESS] commops Interested attendees for Flock 2016 workshop (either in-person or remote), please add yourselves to the "Attendees" section on the wiki page ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-07-19/commops.2016-07-19-15.57.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "jflory7 Review and edit July 2016 Election retrospective post by jkurik after CommOps meeting"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "The elections for FESCo and Fedora Council, July 2016, have concluded, and the results are available in the above two email threads. Congratulations to all winning candidates and thanks all candidates for running!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/announce@lists.fedoraproject.org/thread/U4LYT24W53L4EE3CT7AKJAF2THPPY2CT/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/announce@lists.fedoraproject.org/thread/5CNNSJT5JGJFSH7PZNGXSMFET4HFUUDB/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== "July 2016 Elections - Result announcement" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "The annual Fedora contributor conference, Flock, begins on August 2 and lasts to August 5 next week in Kraków, Poland. Stay tuned in IRC and on the Community Blog for more news and updates about the happenings starting next week!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "https://flocktofedora.org/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "=== Flock 2016 begins next week ==="
+* The topic of jflory7's "Fedora CommOps (2016-07-26)" meeting changed to "Announcements" in #fedora-meeting
+* bee2502 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Bhagyashree ; UTC +2 ; CommOps, GSoC , Metrics, Elections"
+* downey raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Michael Downey; UTC-5; CommOps, Marketing, Diversity, GSoC, *"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Diversity, Join, and more"
+* skamath raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30; CommOps, Metrics, GSoC, etc"
+* c0mrad3 raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Tummala Dhanvi ; UTC+5:30; CommOps, Security, GSoC, *"
+* trishnag raised a point of information in the "Fedora CommOps (2016-07-26)" meeting in #fedora-meeting: "Trishna Guha; UTC +5:30; Cloud, CommOps, Infrastructure"
+* jflory7's meeting titled "Fedora CommOps (2016-07-19)" ended in #fedora-meeting
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(4) Alpha Freeze (00:00 UTC) (due: Tue 2016-08-09)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(3) Branch Fedora 25 from Rawhide (due: Tue 2016-07-26)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(2) Change Checkpoint: Completion deadline (testable) (due: Tue 2016-07-26)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(1) Change Checkpoint: Proposal submission deadline (Self-contained changes) (due: Tue 2016-07-19)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(1) Change Checkpoint: Proposal submission deadline (Self-contained changes) (due: Tue 2016-07-19)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-25/f-25-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Release Schedule" in #fedora-meeting
+* downey linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1866&preview=1&_ppp=a2ce682762"
+* downey linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1866&preview_id=1866&preview=true maybe?"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=b148d8324e"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(3) "Getting started with Fedora QA part 3""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=61f4d445c3"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(2) "Getting started with 'update-testing' Fedora QA part 2""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1866&preview=true"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(1) "Now Available: The Ultimate Fedora T-Shirt!""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1847"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 18 - July 19): 20"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fesco-elections-interview-dominik-mierzejewski/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(11) "FESCo Elections: Interview with Dominik Mierzejewski (rathann)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1791"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 18 - July 19): 18"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/new-guidelines-fedora-ambassadors-design/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(10) "New guidelines for Fedora Ambassadors and Design""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1842"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 15 - July 19): 36"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fesco-elections-interview-with-josh-boyer-jwboyer-jwb/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(9) "FESCo Elections: Interview with Josh Boyer (jwboyer / jwb)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1801"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 15 - July 19): 88"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/council-elections-interview-justin-w-flory-jflory7/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(8) "Council Elections: Interview with Justin W. Flory (jflory7)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1830"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 15 - July 19): 34"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fesco-elections-interview-with-haikel-guemar/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(7) "FESCo Elections: Interview with Haïkel Guémar (hguemar / number80)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1771"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 15 - July 19): 707"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/port-python-package/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(6) "Fedora needs you to port a Python package!""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1731"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 13 - July 19): 67"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-24-party-bangalore-india/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(5) "Fedora 24 Release Party: Bangalore, India""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1809"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 13 - July 19): 42"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fesco-elections-interview-stephen-gallagher-sgallagh/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(4) "FESCo Elections: Interview with Stephen Gallagher (sgallagh)""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1806"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 13 - July 19): 28"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fosco-brainstorm-meeting-2016-07-18/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(3) "You're invited: FOSCo Brainstorm Meeting, 2016-07-18, 13:00 UTC""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1703"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 13 - July 19): 45"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-24-party-sfvlug-event-report/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(2) "Fedora 24 Release Party: SFVLUG Event Report""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1667"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Total Views (July 12 - July 19): 36"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/hosting-fedora-test-day/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "(1) "Hosting your own Fedora Test Day""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Other tickets from previous times (CommOps, Modularity, eventually Infrastructure) will need art assets from the Design Team. Once completed, many of these badges can be pushed."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/442"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/441"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/434"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "CommOps badge (#57) and Modularity WG (#69) badges are in progress in the Badges Team Trac, blocking on artwork (YAML files are written and ready)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/49"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== Tickets #34, 49 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "jflory7 Work on drafting an article about the Flock 2016 CommOps workshop for Community Blog"
+* GIANT_CRAB linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/User:Downey hmmm, odd"
+* sayan raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Sayan Chowdhury;UTC+5:30; Infrastructure, Cloud, CommOps, Marketing, Ambassadors etc."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://etherpad.gnome.org/p/flock-2016-commops-workshop"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "CommOps workshop at Flock happening next month. Two hour slot where we can present and work on existing tasks and action items. This is also a place for the community to bring ideas and wishes for us to help work on building a better project together. bee2502 and jflory7 working on initial notes and plans. Ideas, feedback, and participation are welcome!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/79"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: ""Flock 2016 CommOps Workshop""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== Ticket #79 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "commops Review ticket #25, add any feedback / ideas / thoughts towards reorganizing the wiki by subgroups / time periods ( https://fedorahosted.org/fedora-commops/ticket/25 )"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [IN PROGRESS] commops Review ticket #25, add any feedback / ideas / thoughts towards reorganizing the wiki by subgroups / time periods ( https://fedorahosted.org/fedora-commops/ticket/25 ) ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Zodbot#Meeting_Functions"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Update the meeting functions per feedback from Modularity WG ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/new-guidelines-fedora-ambassadors-design/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Take feedback and make final revisions to wiki page, send to Ambassadors mailing list, send separate email specifically to regional storytellers / treasurers ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "skamath / jflory7 Work on creating the YAML rules files for fedbadges#441 (Hot Topic) and fedbadges#442 (Licensed to Push)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [INCOMPLETE] skamath / jflory7 Work on creating the YAML rules files for fedbadges#441 (Hot Topic) and fedbadges#442 (Licensed to Push) ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/attachment/ticket/464/0001-Add-commops-dialed-in-mapping-to-oldschool-cron-scri.patch"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Patch the script for awarding past members the new badge ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "commops Interested attendees for Flock 2016 workshop (either in-person or remote), please add yourselves to the "Attendees" section on the wiki page"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [IN PROGRESS] commops Interested attendees (either in-person or remote), please add yourselves to the "Attendees" section on the wiki page ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "skamath needs to migrate the tool to use statscache so statistics can take a while."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== skamath Figure out how to add statistics to the CommOps retrospective wiki ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/F24_CommOps_retrospective"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [COMPLETE] commops Add thoughts and feedback about CommOps performance this release to the retrospective page ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://fedora-fedmsg.readthedocs.io/en/latest/topics.html#pagure-git-receive"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [COMPLETE] skamath File a Pagure issue about adding listeners for tracking activity in forks via fedmsg ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Followed up for updates with jkurik, we helped handle publishing candidate interviews again – hopefully to do a post for all interviews and candidates today"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 / bee2502 Check in with jkurik about July Election cycle ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-07-12/commops.2016-07-12-15.55.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Fedora Women Day is an annual event starting this year, organized by the Diversity team and the Diversity Adviser, tatica. Events were held across the globe to help celebrate the contributions that Fedora women are making every day in the project. Special thanks to Amita, trishnag, jonatoni, giannisk, tatica, and the many others involved in helping organize these events!"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== Fedora Women Day events happening across the globe ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "UnixStickers recently announced the sale of Fedora t-shirts in black or white varieties. If you want a Fedora shirt of your very own or for a friend, visit the page and grab one of your very own!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "http://www.unixstickers.com/tshirts-and-hoodies/t-shirts/the-ultimate-fedora-linux-t-shirt"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== You get a Fedora shirt! And you get a Fedora shirt! And you! ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "The Fedora Outreach Steering Committee (FOSCo) is a work in progress by the current Fedora Ambassador Steering Committee (FAmSCo). On Monday, they held a public brainstorming session on how to begin moving forward on forming the group and determining next steps. cwickert is working on publishing a report / explanation about the discussion topics from the meeting soon."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fosco-brainstorm-meeting-2016-07-18/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== "You’re invited: FOSCo Brainstorm Meeting, 2016-07-18, 13:00 UTC" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "The call has been put out for support with migrating Python 2 packages to Python 3. Learn more about how to get involved (or show others how to get involved) with the porting effort in the article on the Community Blog."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/port-python-package/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== "Fedora needs you to port a Python package!" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "The updated guidelines for communication between Ambassadors and Design team members was updated last week. This article details some of the changes and provides information on where to learn more about the updated guidelines."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/new-guidelines-fedora-ambassadors-design/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== "New guidelines for Fedora Ambassadors and Design" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "The July 2016 Elections for the Fedora Council (1) and Fedora Engineering Steering Committee (4) are now open. Anyone with cla_done can vote for the Council, anyone with CLA+1 can vote for FESCo. Voting closes at 23:59:00 UTC on July 25th. Interviews with most candidates are published on the Community Blog. Get your votes in soon!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/category/elections/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "https://admin.fedoraproject.org/voting/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "=== Fedora July 2016 Elections now open ==="
+* The topic of jflory7's "Fedora CommOps (2016-07-19)" meeting changed to "Announcements" in #fedora-meeting
+* devyani7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Devyani Kota; UTC +5:30; Infrastructure, Hubs, CommOps"
+* downey raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Michael Downey; UTC -5; Everything until I figure out what I can do best :)"
+* skamath raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30; CommOps, Metrics, GSoC, etc"
+* trishnag raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Trishna Guha; UTC +5:30; Cloud, Infrastructure, CommOps"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Diversity, Join, Infrastructure-fi, and more"
+* GIANT_CRAB raised a point of information in the "Fedora CommOps (2016-07-19)" meeting in #fedora-meeting: "Woo Huiren; GMT+0800; Ambassador, common ops"
+* jflory7's meeting titled "Fedora CommOps (2016-07-12)" ended in #fedora-meeting
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/F24_CommOps_retrospective"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "The CommOps Fedora 24 retrospective wiki page is now up. Anyone who has contributed or participated in CommOps this release cycle is HIGHLY encouraged to add feedback to the page with their thoughts and opinions about our performance as a team this release. Please take 10 - 20 minutes to add your own thoughts and ideas to the page this week. This helps us improve and grow as a team."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-25/f-25-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 called for help in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Writers for the Community Blog wanted! Working on cool stuff in Fedora? Want to get the word out about future changes? Need to get more opinions or eyes on a topic? Consider writing a short post for the Community Blog! Check out #fedora-commops for more info!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=fdff785ddf"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(5) "Getting started with Fedora QA part 3""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=408e25d891"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(4) "Getting started with 'update-testing' Fedora QA part 2""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1771&preview=1&_ppp=65368d7db4"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(3) "Fedora Needs You to Port a Python Package!""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1731&preview=1&_ppp=b9ec742d59"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(2) "Fedora 24 Release Party: Bangalore, India" – 2016-07-14"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1703&preview=1&_ppp=74bfe46cd0"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(1) "Fedora 24 Release Party: SFVLUG Event Report" – 2016-07-13"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1667"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Total Views (July 12): 6"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/hosting-fedora-test-day/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(3) "Hosting your own Fedora Test Day""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1676"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Total Views (July 8 - July 12): 80"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/southeast-linux-fest-self-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(2) "Southeast Linux Fest (SELF) 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1697"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Total Views (July 7 - July 12): 155"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/heroes-of-fedora-hof-f23-final/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "(1) "Heroes of Fedora (HoF) – F23 Final""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "commops Review ticket #25, add any feedback / ideas / thoughts towards reorganizing the wiki by subgroups / time periods ( https://fedorahosted.org/fedora-commops/ticket/25 )"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "jflory7 Update the meeting functions per feedback from Modularity WG"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Zodbot#Meeting_Functions"
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "jflory7 Take feedback and make final revisions to wiki page, send to Ambassadors mailing list, send separate email specifically to regional storytellers / treasurers"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Ambassadors/Design"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: ""Centralizing Ambassadors / Events resources and utilities""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== Ticket #71 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "skamath / jflory7 Work on creating the YAML rules files for fedbadges#441 (Hot Topic) and fedbadges#442 (Licensed to Push)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedora-fedmsg.readthedocs.io/en/latest/topics.html#id537"
+* skamath linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://apps.fedoraproject.org/datagrepper/reference"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedora-fedmsg.readthedocs.io/en/latest/topics.html#mailman"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/442"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/441"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/434"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "jflory7 Patch the script for awarding past members the new badge"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "CommOps badge (#57) and Modularity WG (#69) badges are in progress in the Badges Team Trac, blocking on artwork (YAML files are written and ready)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/49"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== Tickets #34, 49 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "commops Interested attendees (either in-person or remote), please add yourselves to the "Attendees" section on the wiki page"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "jflory7 is still working on structuring the workshop and will share further updates to the list. A CommBlog post later this month wouldn't be a bad idea to get the word out too."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/79"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: ""Flock 2016 CommOps Workshop""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== Ticket #79 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "skamath Figure out how to add statistics to the CommOps retrospective wiki"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== skamath Figure out how to add statistics to the CommOps retrospective wiki ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/F24_CommOps_retrospective"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Add personal thoughts to F24 CommOps retrospective ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "commops Add thoughts and feedback about CommOps performance this release to the retrospective page"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== [IN PROGRESS] commops Add thoughts and feedback about CommOps performance this release to the retrospective page ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FOSCo_status#Other_considerations"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Take a look at the FOSCo status page closer, see if there's anything to add from CommOps / Marketing perspective ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/southeast-linux-fest-self-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Review and schedule SELF 2016 CommBlog post due:2016-07-12T12:00 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "skamath File a Pagure issue about adding listeners for tracking activity in forks via fedmsg"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== skamath File a Pagure issue about adding listeners for tracking activity in forks via fedmsg ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/69#comment:4"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Update Ticket #69 about Modularity WG on-boarding badge ticket ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Article published today, good number coming out this week, still some more in the queue of being edited"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Continue working through Community Blog queue after receiving feedback from authors ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-07-05/commops.2016-07-05-15.56.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "If you are attending Flock, make sure you are registered on flocktofedora.org for organizing / planning purposes (and so you can get your swag on arrival)! If you are no longer able to attend but are registered, please email flock-staff@fedoraproject.org to notify the team."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== Flock pre-registration deadline: 2016 July 13 17:00 UTC ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "jflory7 / bee2502 Check in with jkurik about July Election cycle"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "The Nomination period of Elections to Council and FESCo is now over. Nominees can now start with their own campaign, to attract people in the Fedora community. Like last time, all interviews will be published on the Community Blog."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/announce@lists.fedoraproject.org/thread/Z5VUZ2BR4TN25QQJDPUEHUSNBGNC3QPS/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== "Fedora Elections July 2016 - Campaign period has started" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "The Southeast Linux Fest (SELF) is an annual Linux conference in the southeast region of the United States. The Fedora Ambassadors of North America attended this event as representatives of the project. Learn more in the event report."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/southeast-linux-fest-self-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== "Southeast Linux Fest (SELF) 2016" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Every release of Fedora, there's testers who help make sure the next release is tested and functioning as expected. The Heroes of Fedora series looks at who contributed to Fedora 23 Final testing by looking at Bodhi feedback on updates, release validation tests, and bug reports."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/heroes-of-fedora-hof-f23-final/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "=== "Heroes of Fedora (HoF) – F23 Final" ==="
+* The topic of jflory7's "Fedora CommOps (2016-07-12)" meeting changed to "Announcements" in #fedora-meeting
+* x3mboy raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "x3mboy"
+* skamath raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30; CommOps, GSoC, Metrics"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-12)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Join SIG, Infrastructure-fi, etc."
+* jflory7's meeting titled "Fedora CommOps (2016-07-05)" ended in #fedora-meeting
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Congrats, you survived the Fedora 24 release cycle! commops++"
+* skamath noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "skamath Figure out how to add statistics to the CommOps retrospective wiki"
+* skamath noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "skamath Figure out how to add statistics to the wiki"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "jflory7 Add personal thoughts to F24 CommOps retrospective"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "commops Add thoughts and feedback about CommOps performance this release to the retrospective page"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/F24_CommOps_retrospective"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "The CommOps Fedora 24 retrospective wiki page is now up. Anyone who has contributed or participated in CommOps this release cycle is HIGHLY encouraged to add feedback to the page with their thoughts and opinions about our performance as a team this release. Please take 10 - 20 minutes to add your own thoughts and ideas to the page this week. This helps us improve and grow as a team."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 called for help in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Writers for the Community Blog wanted! Working on cool stuff in Fedora? Want to get the word out about future changes? Need to get more opinions or eyes on a topic? Consider writing a short post for the Community Blog! Check out #fedora-commops for more info!"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "jflory7 Take a look at the FOSCo status page closer, see if there's anything to add from CommOps / Marketing perspective https://fedoraproject.org/wiki/FOSCo_status"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "In progress by author, will revisit once complete."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1703&preview=1&_ppp=c68c8b0fae"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "(4) "Fedora 24 Release Party: San Fernando Valley Linux Users Group (2016) Event Report – Van Nuys, California""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Scheduled: 2016-07-07, 08:15 UTC"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1697&preview=1&_ppp=e29bced019"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "(3) "Heroes of Fedora (HoF) – F23 Final""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Already reviewed, waiting for follow-up from author"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1667&preview=1&_ppp=fbcb9c9051"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "(2) "Hosting your own Fedora Test Day""
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "jflory7 Review and schedule SELF 2016 CommBlog post due:2016-07-12T12:00"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1676&preview=1&_ppp=7b7b5413f2"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "(1) "Southeast Linux Fest 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1691"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Total Views (June 30 - July 5): 49"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-design-suite-best-basics/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "(1) "Fedora Design Suite considered “best of the basics”""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 proposed an idea in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Send directly to regional storytellers and treasurers"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Share the link with the Ambassadors mailing list"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Write a Community Blog article about the process"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Wiki page written up detailing communication process between Ambassadors and Design team, based on feedback from mizmo and gnokii. Page was sent off to the Design Team mailing list and awaits review from Design members. Once approved, next action is to socialize it with Ambassadors and specific regional leaders, i.e. storytellers and treasurers."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Ambassadors/Design"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: ""Centralizing Ambassadors / Events resources and utilities""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== Ticket #71 ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Infrastructure will be up next, but an interesting challenge. Already have badges for FAS sponsorships, so other ideas (e.g. mailing list and Pagure activity) will be more useful not only to Infra but many other sub-projects. Next steps for Infra might be studying fedmsg and writing the YAML files, testing how expensive the operations are, etc."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Modularity WG responded and left feedback on the ticket in fedbadges for their on-boarding badge. This is an ongoing process, and hopefully the ticket can be triaged and awaiting artwork by the end of the week."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "CommOps ticket is still in progress and awaiting artwork to be designed before it is closed out in Trac."
+* jflory7 proposed an idea in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Creating NEW pages for sub-projects / sub-groups is helpful to contributors short-term and also later on for the Hubs team when it comes time for creating sub-$THING hubs"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "For existing sub-projects / sub-groups, most have wiki pages already about getting started, but they are all different from each other in how they are formatted or organized. Hubs should help unify this information for us."
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "skamath File a Pagure issue about adding listeners for tracking activity in forks via fedmsg"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Tracking activity and contributions in Pagure forks in fedmsg will be helpful measuring contributions and taking a look at activity"
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "jflory7 Update Ticket #69 about Modularity WG on-boarding badge ticket"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/466"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/69"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "#49: "[Onboarding Series] CommOps!""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== Tickets #34, 69 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/79"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: ""Flock 2016 CommOps Workshop""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== Ticket #79 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Tickets" in #fedora-meeting
+* skamath raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "jflory7 skamath and bee2502 have root access to commops.fedorainfracloud.org and should be able to deploy metrics tasks/crons there"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== skamath Work on generating data from CommOps contributions and shaping interpretations from the data for the retrospective (cc: bee2502 to help relate this to GSoC work, possibly?) ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/F24_CommOps_retrospective"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Work on getting a wiki page created for the CommOps F23 retrospective ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/466"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [COMPLETE] skamath File a Badges ticket for the Modularity WG on-boarding badge, write basic YAML file for awarding the badge based on previous badge ticket (#464) ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "jflory7 Continue working through Community Blog queue after receiving feedback from authors"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [IN PROGRESS] jflory7 Get on top of editing this week and schedule some of these articles for this / next week, reply back to authors waiting for a response ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Ambassadors/Design"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Write up an initial draft of a wiki page outlining the process for Ambassadors specifically to request assets from the Design Team, include plans to reach out to regional Ambassadors from all regions with this information later ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/78"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Follow up in #fedora-flock about Fedocal for Flock or if any previous action items need follow-up ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Flock_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/79"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Move forward with making final plans for vFAD or reconsider plans for Flock workshop (???) ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-06-28/commops.2016-06-28-15.55.html"
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "http://sumantrom.blogspot.in/2016/07/fedora-24-release-party-post-event.html"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Reminder that Flock, Fedora's annual contributor conference, is coming up at the beginning of next month."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://flocktofedora.org/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== Flock 2016: August 2-5, 2016 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-24-have-a-party/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "There are Fedora 24 release parties happening all over the world both this month and the end of last month. You can see reports or event pages from Ambassadors at all of the above links. See if there are any release parties happening in your region! If you're interested in organizing one, check out this post on the Community Blog."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://nmilosev.svbtle.com/fedora-24-release-party-novi-sad"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "http://www.abdelmartinez.com/2016/07/fedora-24-release-party-panama-report.html"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://www.facebook.com/events/1141198245938476/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://www.facebook.com/events/1625975777730164/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://yoseft7.wordpress.com/2016/07/03/f24-release-party-pa/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "http://danielammorais.com/2016/07/04/fedora-24-release-party-in-sao-paulo/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "http://athosribeiro.com/post/fedora24-rp-sp/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== Fedora 24 release parties in progress ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "With the recent release of Fedora 24, Fedora 22 will officially enter End Of Life (EOL) status on July 19th, 2016. After July 19th, all packages in the Fedora 22 repositories will no longer receive security, bugfix, or enhancement updates, and no new packages will be added to the Fedora 22 collection."
+* jflory7 linked to more information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "https://fedoramagazine.org/fedora-22-end-of-life-2016-july/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "=== "Fedora 22: End Of Life, 2016 July 19" ==="
+* The topic of jflory7's "Fedora CommOps (2016-07-05)" meeting changed to "Announcements" in #fedora-meeting
+* bee2502 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "bee2502 ; UTC +2 ; Metrics,GSoC"
+* c0mrad3 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Tummala Dhanvi ; UTC 5:30 ; CommOps, Docs, Security, GSoC *"
+* skamath raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Sachin S. Kamath ; UTC +5.30 ; CommOps, GSoC, Metrics, Onboarding and more .."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Diversity, Join, Infrastructure-fi, and more"
+* trishnag raised a point of information in the "Fedora CommOps (2016-07-05)" meeting in #fedora-meeting: "Trishna Guha; UTC +5:30; Infrastructure, Cloud, CommOps"
+* jflory7_'s meeting titled "Fedora CommOps (2016-06-28)" ended in #fedora-meeting
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Closing Thoughts" in #fedora-meeting
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "skamath Work on generating data from CommOps contributions and shaping interpretations from the data for the retrospective (cc: bee2502 to help relate this to GSoC work, possibly?)"
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "jflory7 Work on getting a wiki page created for the CommOps F23 retrospective"
+* jflory7_ proposed an idea in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "I wanted to borrow something from the Marketing release schedule for CommOps. At the end of every Fedora release, the Marketing team writes a retrospective about how they felt things went during the release, what worked well, what didn't work so well, what can be improved, things that were awesome and worth noting, etc. I'd like to do something similar to this for CommOps to see how we, as contributors, felt about how this release went."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7_ proposed an idea in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "A series about contributors and their experiences in the project, how they got involved, to get involved, and so on. This could be a recurring series on the Community Blog, similar to to the "How do you Fedora?" series on the Magazine."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=f84ad57ee4"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "(5) "Getting started with Fedora QA part 3""
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=b50b2a4e03"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "(4) "Getting started with 'update-testing' Fedora QA part 2""
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1681&preview=1&_ppp=f5cd19f98b"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "(3) "Fedora 22: End Of Life, 2016 July 19""
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1667&preview=1&_ppp=c49265f3f2"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "(2) "Hosting your own Fedora Test Day""
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1676&preview=1&_ppp=e048ea9a97"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "(1) "Southeast Linux Fest 2016""
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "No new posts published this week!"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "skamath File a Badges ticket for the Modularity WG on-boarding badge, write basic YAML file for awarding the badge based on previous badge ticket (#464)."
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Artwork from decause on CommOps on-boarding badge is uploaded and can be used - will need to add his awesome explanation about the Canadian goose as the CommOps mascot to the ticket for added context."
+* skamath linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/attachment/ticket/464/commopsmailmodbadge.jpg"
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/464"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/57"
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "#57: "[Onboarding Series] CommOps!""
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "#34: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== Tickets #34, 57 ==="
+* jflory7_ noted agreement in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "With the decause's departure, we will opt to postpone our vFAD to a time after Flock or when a new Fedora Community Lead arrives to assist with planning. Instead of the vFAD, we will shift our planning efforts over to focusing on our workshop at Flock, working on getting resources together for it, and putting together an agenda for what will happen in the window. Hopefully also finding a way for remote contributions from those who can't at"
+* jflory7_ proposed an idea in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "At the Flock workshop, we could also revisit the idea of planning our vFAD too and working on details there."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_CommOps_2016"
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/10"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: ""CommOps vFAD 2016""
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== Ticket #10 ==="
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Prepare the hack session ticket and CC dhanesh95 so he gets context to what they are for a CommBlog article ==="
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1681&preview=1&_ppp=f5cd19f98b"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Create a placeholder article for F22 EoL article in CommBlog so we keep on the agenda ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "jflory7 Get on top of editing this week and schedule some of these articles for this / next week, reply back to authors waiting for a response"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [IN PROGRESS] jflory7 Get on top of editing this week and schedule some of these articles for this / next week, reply back to authors waiting for a response ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "jflory7 Write up an initial draft of a wiki page outlining the process for Ambassadors specifically to request assets from the Design Team, include plans to reach out to regional Ambassadors from all regions with this information later"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Write up an initial draft of a wiki page outlining the process for Ambassadors specifically to request assets from the Design Team, include plans to reach out to regional Ambassadors from all regions with this information later ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Red Hat Summit happening now."
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [INCOMPLETE] decause Drop a line to the devel list to have anyone going to Red Hat Summit add their info to the wiki page ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "jflory7 jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "jflory7 Follow up in #fedora-flock about Fedocal for Flock or if any previous action items need follow-up"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Further Flock arrangements will be handled by the Flock staff for now, as far as I can tell? --Jflory7 (talk) 03:29, 28 June 2016 (UTC)"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [CHANGED] decause nail down Flock arrangements and add to fedocal ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "jflory7 Move forward with making final plans for vFAD or reconsider plans for Flock workshop (???)"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== [CHANGED] decause review the vFAD goals / objectives / etc. ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-06-21/commops.2016-06-21-15.57.html"
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "All GSoC students: expect mail tomorrow morning (IST) from kushal."
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "GSoC students: Blog posts are required on a weekly basis now - the slots are a 40 hour work week, and your work should reflect that. Make sure you are communicating and being detailed in your communications."
+* c0mrad3 raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Tummala Dhanvi ; UTC+5:30 ; CommOps, Security, Docs, GSoC, *"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Google Summer of Code 2016 midterm evaluations ended yesterday. Students received a pass/fail rating from their mentor(s) on their project status so far and are moving on the final period of their project proposals. Students, make sure to reach out on the mailing lists, communicate with blog posts, and participate in IRC discussions for the final phase of your projects!"
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://summerofcode.withgoogle.com/how-it-works/"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== Google Summer of Code midterm evaluations ended ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "The Developer Portal for developers using Fedora or wanting to contribute to Fedora has had some new changes. Read up on what's new in the Developer Portal and a little bit of background behind its inception in the Fedora Magazine article."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://fedoramagazine.org/behind-new-fedora-developer-portal/"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== "Behind the new Fedora Developer Portal" ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "On Friday, decause announced on the mailing list that he will be leaving his position at Red Hat to become the Open Source Campaign Manager for a candidate in the US elections. We wish decause well in his future endeavors and will always be happy to see him in Fedora whenever he has the time to stop by. For the time being, the Fedora Community Lead position will remain open."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/commops@lists.fedoraproject.org/thread/CG5JS4DQ3G2TVA5YZX7LBOSXVNCUPTIB/"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "=== "Friends. Features. Freedom. First. Forever." ==="
+* The topic of jflory7_'s "Fedora CommOps (2016-06-28)" meeting changed to "Announcements" in #fedora-meeting
+* trishnag raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "trishnag; UTC +5:30; Infrastructure, Cloud, CommOps"
+* skamath raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30 ; CommOps, GSoC, Metrics, *"
+* dhanesh95 raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Dhanesh B. Sabane, UTC+5:30, CommOps, ML, RPM packaging, Kernel"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-28)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Diversity, Join, and more"
+* ryanlerch's meeting titled "Fedora Design team" ended in #fedora-design
+* ryanlerch linked to more information in the "Fedora Design team" meeting in #fedora-design: "https://fedorahosted.org/design-team/ticket/452"
+* The topic of ryanlerch's "Fedora Design team" meeting changed to "other" in #fedora-design
+* The topic of ryanlerch's "Fedora Design team" meeting changed to "modularization" in #fedora-design
+* gnokii linked to more information in the "Fedora Design team" meeting in #fedora-design: "https://en.wikipedia.org/wiki/Wawel"
+* ryanlerch noted an action in the "Fedora Design team" meeting in #fedora-design: "open ticket for signs for flock"
+* mizmo_ noted an action in the "Fedora Design team" meeting in #fedora-design: "mizmo create ticket for flock signs"
+* mizmo_ noted an action in the "Fedora Design team" meeting in #fedora-design: "open tickets for lanyard badges and tshirt"
+* ryanlerch noted an action in the "Fedora Design team" meeting in #fedora-design: "ryanlerch to open ticket for Flock booklets, and do them"
+* The topic of ryanlerch's "Fedora Design team" meeting changed to "general discussion" in #fedora-design
+* jflory7's meeting titled "Fedora CommOps (2016-06-21)" ended in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Vector is a handy audio/video communication platform that can be used for text, audio, and video conversations. It's all FOSS (based off of Matrix) and has support for iOS and Android devices too. Also works with file transfers if needed during a call and supports end-to-end crypto."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://vector.im/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://matrix.org/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== Vector (based off of Matrix) ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Hack session slated to begin in approximately 45 minutes from the time of this message being sent!"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 Prepare the hack session ticket and CC dhanesh95 so he gets context to what they are for a CommBlog article"
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 Create a placeholder article for F22 EoL article in CommBlog so we keep on the agenda"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "A CommBlog article for F22 EoL would be a good one to have"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Fedora 22 EOL auto closure 	Tue 2016-07-19"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Final Release Public Availability (GA) 	Tue 2016-06-21"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "puiterwijk helped deploy the new CDN from our sponsor for the Community Blog and Fedora Magazine today. As of now, this helps lighten the traffic load on the WordPress machines and helps keep the websites running strong with increased loads!"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 will be spending extra time on CommBlog backlog this week to edit existing drafts and get them out and published"
+* decause raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(6) "Event Report: PearlHacks""
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 Get on top of editing this week and schedule some of these articles for this / next week, reply back to authors waiting for a response"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1602&preview=1&_ppp=dae31f1c4d"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(5) "Event Report: PyCon 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=11ae698d60"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(4) "Getting started with Fedora QA part 3""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=09ca15f4e9"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(3) "Getting started with 'update-testing' Fedora QA part 2""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1676&preview=1&_ppp=60042342dd"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(2) "Southeast Linux Fest 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1667&preview=1&_ppp=cb84ab4de6"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(1) "Hosting your own Fedora Test Day""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1659"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Total Views (June 17 - June 21): 152"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/push-package-updates-stable-bodhi/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(3) "Another way to push package updates to stable in Fedora Bodhi""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1664"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Total Views (June 16 - June 21): 1,693"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/official-fedora-24-will-release-june-21-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(2) "Official: Fedora 24 will release June 21 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1652"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Total Views (June 15 - June 21): 146"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-cloud-fad-2016-report/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "(1) "Fedora Cloud FAD 2016 Report""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 Write up an initial draft of a wiki page outlining the process for Ambassadors specifically to request assets from the Design Team, include plans to reach out to regional Ambassadors from all regions with this information later"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: ""Centralizing Ambassadors / Events resources and utilities""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== Ticket #71 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Will revisit this discussion about integration with Tahrir in the hack session tonight"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Development on this RFE for Tahrir is starting the next week"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://github.com/fedora-infra/tahrir/issues/343"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "There is an RFE already filed for Tahrir to point out "paths" for contributors to earn new badges based on what they have already earned"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "After badge is out, we can write a CommBlog post advertising the badge, explain how it fits into the bigger picture of on-boarding for the project, and how we want to help all other sub-projects have similar paths for on-boarding"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Once badge is published, "core" part of the ticket is completed."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/464"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/57"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "#49: "[Onboarding Series] CommOps!""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== Tickets #34, 49 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Hack session time tonight: 14:30 US EST == 18:30 UTC == 00:00 IST"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 Don't forget to bring up Vector / Matrix.org later on this meeting, during open floor"
+* jflory7 noted agreement in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Based on answers from the poll and in-meeting votes, July 3 - 4 seems like the preferred date for organizing our vFAD to knock out some tasks in our backlog and get ahead on current tickets. Will plan out final details ASAP this week in a hack session."
+* GIANT_CRAB noted agreement in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "July 3-4"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "http://goo.gl/forms/ck9Dcxb9vqo6jqh62"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_CommOps_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/10"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: ""CommOps vFAD 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== Ticket #10 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://pagure.io/pagure/issue/746"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Look into filing a ticket on Pagure for CCing users / lists from a Pagure issue ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "decause Drop a line to the devel list to have anyone going to Red Hat Summit add their info to the wiki page"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== decause Drop a line to the devel list to have anyone going to Red Hat Summit add their info to the wiki page ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Added the info to the relevant ticket on the FAmSCo Trac"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/famsco/ticket/373#comment:23"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Update Ticket #71 with the "WHY" perspective in relation to FOSCo ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://pagure.io/fedora-hubs/issue/203"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [COMPLETE] commops File a ticket on the Pagure repository for Fedora Hubs about creating a News widget that aggregates different sources of information and puts it together for easy consumption by a reader ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/464#comment:2"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Write YAML file for CommOps on-boarding badge based on FAS group sponsorship ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Mixed results, but low response rate on the poll. Will discuss during Ticket #10."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "http://goo.gl/forms/ck9Dcxb9vqo6jqh62"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Create a WhenIsGood and share with CommOps mailing list to decide on vFAD dates of July 2-3 or June 25-26 ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== [COMPLETE] decause Finish "final" version of F24 GA Release Announcement for review after go/no-go meeting on Thursday ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "decause nail down Flock arrangements and add to fedocal"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== decause nail down Flock arrangements and add to fedocal ==="
+* decause raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "jzb/decause decided to do a release party *after* summit (by the time we got the "go" we had little time to prepare, and lots of other prep for RHT Summit.)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== decause Work with jzb to organize the release party in Raleigh, NC area ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "decause review the vFAD goals / objectives / etc."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== decause review the vFAD goals/objectives/etc ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-06-14/commops.2016-06-14-15.58.html"
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* decause raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "GSoC Midterm Evalations will be closing soon, so please read the summer-coding list and meet w/ mentors"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Congratulations to trishnag on her interview on OSDC - make sure to give it a read if you have not yet!"
+* skamath linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://opensource.com/life/16/6/how-community-taught-me-code"
+* skamath raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "GSoC Midterm Evaluations are now open"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "decause recently published his latest work on Opensource.com where he interviewed Parisa Tabriz at PyCon 2016!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://opensource.com/life/16/6/interview-parisa-tabriz-google"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== "Google's security princess talks cybersecurity" ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "skamath's tool evaluates different parts of fedmsg activity to generate statistics about the contributions of specific contributors and where they spend their time in Fedora. You can see some of the data that he has collected so far in the above links. You can find the project source on Pagure!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://github.com/sachinkamath/fedstats-data/tree/master/interns-mid-term"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://docs.google.com/spreadsheets/d/1VatSWdON08MCLZIdJWRVYeFTMXxvo6HzE4GzrpQRdEo/edit#gid=776866005"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://pagure.io/gsoc-stats"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== skamath's super cool statistic generation ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "The Fedora Cloud Working Group finished their Fedora Activity Day this past week. Learn all that was accomplished and what objectives are on the table for the Cloud WG in this article."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-cloud-fad-2016-report/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== "Fedora Cloud FAD 2016 Report" ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedoramagazine.org/upgrading-fedora-23-workstation-to-fedora-24/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://plus.google.com/+fedora/posts/5aqqppyVuHS"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://twitter.com/fedora/status/745255602121674754"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://www.facebook.com/TheFedoraProject/posts/10154250457540480"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "We're in the middle of it today, team! Fedora 24 released hours ago. Today is a very busy day across Fedora. Check out upgrading your own system if you haven't already yet! :)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "https://fedoramagazine.org/fedora-24-released/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "=== "Fedora 24 released!" ==="
+* The topic of jflory7's "Fedora CommOps (2016-06-21)" meeting changed to "Announcements" in #fedora-meeting
+* decause raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "decause; UTC-4; CommOps, GSoC, Council, Budget, Flock, *"
+* c0mrad3 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Tummala Dhanvi; UTC+5:30; CommOps, Security, Docs, GSoC, *"
+* trishnag raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Trishna Guha; UTC+5:30; Infrastructure, Cloud, CommOps etc."
+* skamath raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30 ; GSoC, Metrics, CommOps"
+* linuxmodder raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Corey Sheldon UTC -4  check fas for groups"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Infrastructure-fi, Join, and more"
+* dhanesh95 raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Dhanesh B. Sabane, UTC+5:30, CommOps, ML"
+* GIANT_CRAB raised a point of information in the "Fedora CommOps (2016-06-21)" meeting in #fedora-meeting: "Huiren Woo; GMT+0800; Ambassador, common ops, marketing."
+* jflory7's meeting titled "Fedora CommOps (2016-06-14)" ended in #fedora-meeting
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Parting Thoughts" in #fedora-meeting
+* nirik linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://pagure.io/pagure/issue/746"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "jflory7 Look into filing a ticket on Pagure for CCing users / lists from a Pagure issue"
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Fedora 22 EOL auto closure 	Tue 2016-07-19"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Final Release Public Availability (GA) 	Tue 2016-06-21"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=676163dcfd"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "(4) "Getting started with Fedora QA part 3""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=8a0d20416e"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "(3) "Getting started with 'update-testing' Fedora QA part 2""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1602&preview=1&_ppp=d3705befb7"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "(2) "Event Report: PyCon 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Written by jzb, looking at publishing this week."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://public.etherpad-mozilla.org/p/fad-summary-2016-june"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "(1) "Cloud Working Group FAD""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1608"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Total Views (June 9 - June 14): 510"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/getting-started-fedora-qa-part-1/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "(1) "Getting started with Fedora QA (Part 1)""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause Drop a line to the devel list to have anyone going to Red Hat Summit add their info to the wiki page"
+* decause linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Red_Hat_Summit_2016#Fedora_Booth_Staffing"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* meskarune linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Issue469?action=show&redirect=UbuntuWeeklyNewsletter/Current"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "jflory7 Update Ticket #71 with the "WHY" perspective in relation to FOSCo"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://pagure.io/fedora-hubs/issues"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "commops File a ticket on the Pagure repository for Fedora Hubs about creating a News widget that aggregates different sources of information and puts it together for easy consumption by a reader"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Taking advantage of categories on the Community Blog to aggregate news about each sub-project"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Create a "News" dashboard / widget in Fedora Hubs for at-a-glance news about what's good in the Fedora Project"
+* meskarune linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://wiki.archlinux.org/index.php/ArchWiki:News"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://pagure.io/designassets/tree/master"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: ""Centralizing Ambassadors / Events resources and utilities""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== Ticket #71 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "jflory7 Open a ticket to look into drafting an (automated?) check-in email with members of CommOps to determine activity"
+* linuxmodder proposed an idea in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "instuite a  monthly  mailing like infra has for  weeding out inactive members"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "jflory7 Write YAML file for CommOps on-boarding badge based on FAS group sponsorship"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps/Join"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/464"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/69"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/57"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "#69: "Fedora Modularity onboarding""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "#49: "[Onboarding Series] CommOps!""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== Tickets #34, 49, 69 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "We decided on two "best case" dates for vFAD, will throw out to list with a WhenIsGood to get more input"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "jflory7 Create a WhenIsGood and share with CommOps mailing list to decide on vFAD dates of July 2-3 or June 25-26"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Proposed Dates: July 30-31"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Proposed Dates: July 2-3"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Proposed Dates: June 25-26 (little soon)"
+* GIANT_CRAB linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_KualaLumpur_2016"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "BAD TIMES: June 26-30 (Red Hat Summit), July 15-17 (Fedora Women Day / weekend), end of July (Design FAD / Flock right around corner)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_CommOps_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/10"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: ""CommOps vFAD 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== Ticket #10 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://apps.fedoraproject.org/calendar/meeting/4145/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Create a Fedocal event for the hack session, 2016-06-08 22:00 UTC ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause Finish "final" version of F24 GA Release Announcement for review after go/no-go meeting on Thursday"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== decause ship "final" version for review by EoB thursday of F24 GA Release Announcement ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== decause / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available) ==="
+* decause noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause nail down Flock arrangements and add to fedocal"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== decause nail down Flock arrangements, add them to Fedocal ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause Work with jzb to organize the release party in Raleigh, NC area"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== decause Work with jzb to organize the release party in Raleigh, NC area ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "In-progress; working on getting data back for the survey questions, will work on transferring credentials soon"
+* decause noted an action in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause review the vFAD goals/objectives/etc"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== decause Follow up with tatica and diversity team about LimeSurvey availability ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/commops@lists.fedoraproject.org/thread/L7VXDJD47JSB5O7UUQNUDTGZTSSTA7LB/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Post to the CommOps mailing list about Ticket #71 about creating the Ambassador guidelines for artwork assets based on mizmo's feedback ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/commops@lists.fedoraproject.org/thread/GSZLMED2YQ3HNQVJDH6ETCJCWXZTRCIE/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/10#comment:5"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Write a first draft of objectives / goals for the vFAD on wiki page, share with commops, get feedback, look at finding open dates (cc: decause) ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-badges/ticket/464"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== [COMPLETE] skamath File a ticket in the Fedora Badges Trac for a CommOps on-boarding badge that is dependent on other badges and/or hooks to be awarded; ask in #fedora-commops if assistance is needed ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== decause Follow up with tatica and diversity team about LimeSurvey availability ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-06-07/commops.2016-06-07-15.58.html"
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Yesterday at the Fedora Council meeting, decause gave a report on the status, work, and accomplishments of the CommOps sub-project. Thanks to everyone who helped pull together information and the presentation yesterday! decause++ bee2502++ skamath++ meskarune++ commops++ It's worth a watch if you haven't checked it out already."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://youtu.be/AQWybn1QVKc"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== "Fedora Council Meeting 2016-06-13: Report on CommOps " ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Two upcoming events on the Fedora calendar are Red Hat Summit (June 27-29) and Flock, Fedora's annual contributor conference (August 2-5)."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://flocktofedora.org/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://www.redhat.com/en/summit"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== Events coming soon: Red Hat Summit, Flock ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Due to a remaining blocker bug in F24, the release has been delayed by one week to June 21st, 2016. If all goes well, we should be back again here next week with a new Fedora release on our hands."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/devel@lists.fedoraproject.org/thread/CCPEFDBYMHBNLTNG2CC57KUBBQOO67RD/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "=== Last week: Fedora 24 no-go, delayed to June 21 ==="
+* The topic of jflory7's "Fedora CommOps (2016-06-14)" meeting changed to "Announcements" in #fedora-meeting
+* GIANT_CRAB raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Huiren Woo; UTC+0800; Ambassador, CommonOps, Marketing"
+* sayan raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Sayan Chowdhury;UTC+5:30; Infrastructure, Cloud, CommOps, Marketing, Ambassadors etc."
+* skamath raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30; CommOps, GSoC, Metrics, Badges etc"
+* linuxmodder raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Corey Sheldon (linuxmodder) utc -4 / GPG D2264944 /  Ambassadors, join,security,docs,commops,diversity,mktg,GSoC"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Infrastructure-fi, Join, Diversity, etc."
+* c0mrad3 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Tummala Dhanvi (c0mrad3); UTC+5:30; CommOps, Security, Docs, GSoC, *"
+* decause raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "decause; UTC-4; CommOps, GSoC, Budget, Council, *"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-14)" meeting in #fedora-meeting: "Name; Timezone; Sub-projects/Interest Areas"
+* jflory7's meeting titled "Fedora CommOps (2016-06-07)" ended in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "jflory7 Create a Fedocal event for the hack session, 2016-06-08 22:00 UTC"
+* skamath linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://pagure.io/gsoc-stats/blob/master/f/README.md"
+* skamath linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://docs.google.com/spreadsheets/d/1KzVhspdYYclWcpEmqyyup9PKGW7FWRJn2MaRXcwswFY/edit?usp=sharing"
+* skamath linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://sachinwrites.xyz/2016/06/06/digging-deep-into-datagrepper-more-statistics-features/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== skamath: summer-coding stats tool ==="
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Open Floor" in #fedora-meeting
+* decause_otg linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://pagure.io/fedora-mktg"
+* decause_otg noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "decause ship "final" version for review by EoB thursday of F24 GA Release Announcement"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://pagure.io/designassets/tree/master"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Digital resources (icons, banners, fedoramagazine-images, etc.) would be easier to share across channels"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Printing is a non-trivial thing, it's easy to mess up colors or sizes"
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Tickets - Ticket #71 (revisiting temporarily)" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1602&preview=1&_ppp=cffc2b4a56"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(4) "Event Report: PyCon 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1610&preview=1&_ppp=17e4652e53"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(3) "Getting started with Fedora QA part 3""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1609&preview=1&_ppp=8c73937530"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(2) "Getting started with 'update-testing' Fedora QA part 2""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Scheduled for Thursday, June 9, 8:00 UTC"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1608&preview=1&_ppp=cc40c9d0e6"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(1) "Getting started with Fedora QA (Part 1)""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1615"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Total Views (June 6 - June 7): 71"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-design-team-lead-mairin-duffy-wins-oreilly-open-source-award/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(4) "Fedora Design Team lead Máirín Duffy wins O’Reilly Open Source Award""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1558"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Total Views (June 6 - June 7): 40"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/oscon-2016-expo-hall-booth-report/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(3) "OSCON 2016 Expo Hall Booth Report""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1618"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Total Views (June 4 - June 7): 39"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-cloud-fad-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(2) "Fedora Cloud FAD 2016""
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1582"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Total Views (June 2 - June 7): 53"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/commblog-keeps-100/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "(1) "Fedora CommBlog Keeps it 100""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* skamath linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://pagure.io/group/CommOps"
+* jflory7 noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "jflory7 Post to the CommOps mailing list about Ticket #71 about creating the Ambassador guidelines for artwork assets based on m izmo's feedback"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Sometimes an Ambassador will file a ticket for a random swag idea (without funding or prior discussion by others in region), so it is a difficult situation to resolve for the Design Team"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Design Team Trac tickets have templates for filling out, but not all fields are always filled - this slows down the process and makes it harder for the Design Team to do their work"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Centralizing the vendors that Ambassadors use would also be extremely helpful for the Design Team and help make their life easier"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Different Ambassadors / regions approach this differently - more organization around that would be useful and helpful"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Part of workflow involves vendor interaction (not really a Design Team responsibility), but Design Team should be in the loop."
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/design-team/wiki/GeneralGuidelines"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Design Team strongly prefers being contacted ahead of time by Ambassadors or others for artwork assets - maybe better aim is to help define the process better for Ambassadors for how to get artwork and printed / final products for events"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://pagure.io/designassets/tree/master"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: ""Centralizing Ambassadors / Events resources and utilities""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== Ticket #71 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "skamath will file a ticket for the CommOps on-boarding badge in the Badges Trac, will drop a line in IRC / mailing list about ticket, we will revisit then to work on how we can help the Design Team move forward on this (Badge YAML, sysadmin side, maybe artwork too depending)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/69"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/49"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "#69: "Fedora Modularity onboarding""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== Tickets #34, 49, 69 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "jflory7 Write a first draft of objectives / goals for the vFAD on wiki page, share with commops, get feedback, look at finding open dates (cc: decause)"
+* skamath linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/CommOps#Interest_Areas"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Talk pages on wiki can be useful asynchronous discussion and having a record of logged actions for important pages"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Similar to the Infra team, have a monthly check-in for existing members of CommOps to see if they are still interested in contributing (see: CommOps wiki page members)"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Wiki could take better advantage of categorization of pages"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "CommOps-related git repos and Etherpads could be organized more effectively for keeping tabs on information from IRC discussions, hack sessions, and meeting discussions"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_CommOps_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/10"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: ""CommOps vFAD 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== Ticket #10 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Tickets" in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://apps.fedoraproject.org/calendar/meeting/3918/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Reach out to decause about days / times for Fedora sprints at PyCon for planning a hack session ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/oscon-2016-expo-hall-booth-report/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Follow up with decause and maxamillion to see if where the original content is and if we can pull the source ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71#comment:6"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Update Ticket #71 with the ideas and discussion from this meeting ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/design-team@lists.fedoraproject.org/thread/OGHF2254VRUWUJTE36X3S5X5EQX5MQ5I/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Reach out to the Design Team about centralizing Design / Marketing resources for Fedora and get their thoughts about the discussions from today's meeting on Ticket #71 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "skamath File a ticket in the Fedora Badges Trac for a CommOps on-boarding badge that is dependent on other badges and/or hooks to be awarded; ask in #fedora-commops if assistance is needed"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== skamath File a ticket in the Fedora Badges Trac for a CommOps on-boarding badge that is dependent on other badges and/or hooks to be awarded; ask in #fedora-commops if assistance is needed. ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/oscon-2016-expo-hall-booth-report/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] decause / jflory7 Get article source from maxamillion, decause will make edits, clear with maxamillion, then push ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== decause / jflory7 Get article source from maxamillion, decause will make edits, clear with maxamillion, then push ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "decause / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available)"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== decause / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available) ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "decause nail down Flock arrangements, add them to Fedocal"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== decause nail down Flock arrangements, add them to Fedocal ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "decause Work with jzb to organize the release party in Raleigh, NC area"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== decause Work with jzb to organize the release party in Raleigh, NC area ==="
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_CommOps_2016"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Bring the CommOps vFAD ticket back up to the table, make a wiki page, do the metadata planning-esque type of tasks ==="
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/design-team@lists.fedoraproject.org/thread/OGHF2254VRUWUJTE36X3S5X5EQX5MQ5I/"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Open discussion on the mailing list about Ticket #71 and centralizing Ambassador resources (to get brainstorming going) ==="
+* jflory7_ noted an action in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "decause Follow up with tatica and diversity team about LimeSurvey availability"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== decause Follow up with tatica and diversity team about LimeSurvey availability ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-05-31/commops.2016-05-31-15.56.html"
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Just in case you forgot, Fedora 24 drops in another seven days!"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== Fedora 24 releases June 14 ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Big congrats to mizmo for winning big at the O'Reilly Open Source Conference (OSCON) this year! Check out the article to learn more about the award."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-design-team-lead-mairin-duffy-wins-oreilly-open-source-award/"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== "Fedora Design Team lead Máirín Duffy wins O’Reilly Open Source Award" ==="
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "The Cloud FAD is happening now, from June 7 - 8. The Cloud Working Group will be making decisions, tackling tickets, and writing code to help with topics like automated testing, documentation, and increasing the public cloud provider footprint."
+* jflory7_ linked to more information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-cloud-fad-2016/"
+* jflory7_ raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "=== "Fedora Cloud FAD 2016" ==="
+* The topic of jflory7's "Fedora CommOps (2016-06-07)" meeting changed to "Announcements" in #fedora-meeting
+* devyani7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Devyani Kota; UTC +5.30; GSoC, Hubs, Infrastructure etc"
+* sayan raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Sayan Chowdhury;UTC+5:30; Infrastructure, Cloud, CommOps, Marketing, Ambassadors etc."
+* bee2502 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Bee UTC+5.30 CommOps, GSoC, Metrics"
+* augenauf raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Florian, EST, fedora and especially ask.fedora enthusiast (not an it professional), just regular end user"
+* skamath raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30; GSoC, Metrics, Security"
+* dhanesh95 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Dhanesh B. Sabane. UTC+5:30, CommOps, ML"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-06-07)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Infrastructure, Diversity, Join, and more"
+* jflory7's meeting titled "Fedora CommOps Hack Session (2016-06-03)" ended in #fedora-meeting-3
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "http://imgur.com/s1XtwQC"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://fedoraproject.org/wiki/FAD_Cloud_WG_2016"
+* jflory7 linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://fedoraproject.org/wiki/F24_release_announcement"
+* jflory7 linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://fedorahosted.org/marketing-team/ticket/227"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://github.com/vinta/awesome-python"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://github.com/sindresorhus/awesome"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://infrastructure.fedoraproject.org/infra/docs/badges.rst"
+* decause raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: ""CommBlog Keeps it 100" wallpapers and backgrounds"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "http://imgur.com/a/PvJGZ"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://twitter.com/Remy_D/status/737697932657332224"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://www.oreilly.com/ideas/oreilly-open-source-awards-oscon-austin-2016"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "jflory7 will try to draft up a post about mizmo's award at OSCON to go out near maxamillion's OSCON post on Monday"
+* The topic of jflory7's "Fedora CommOps Hack Session (2016-06-03)" meeting changed to "On to hacking!" in #fedora-meeting-3
+* decause raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "mizmo OSCON Open Source Award Video"
+* decause linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://www.youtube.com/watch?v=QV5R-2wlzUY"
+* jflory7 noted an action in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "jflory7 Write up a SOP on pushing a badge for Fedora Infra if there is not one already (make any improvements if there is one?)"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "Congratulations! You pushed a badge."
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "=== Success! ==="
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "4) In admin interface, grant privileges to appropriate person (IF NOT AN AUTOMATIC BADGE) at bottom of the interface. Use badge name and @fedoraproject.org email for the person who needs privileges"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "3) Enter in the information (e.g. pull the badge name / description from the ticket, enter the correct image location for the badge), hit "Create badge" button"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "2) Go to add badge section"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "1) Log into admin interface on badges.fp.o"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "Once the art assets are on badges-web, you will be ready to make the badge. BEWARE: Creating a badge is easy, but editing it is not! Make sure the information you are entering is right on the first go."
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "=== Adding a badge from badges.fp.o ==="
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "3) Wait for playbook to finish, check if the png is publicly viewable on badges.fp.o"
+* jflory7 linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://infrastructure.fedoraproject.org/cgit/ansible.git/tree/playbooks/manual/push-badges.yml"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "2) Sysadmins with privileges will be able to run the playbook to pull the changes from fedorahosted to batcave - the changes then get synced to the badges-web server"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "1) Log into the `batcave` machine in Fedora Infrastructure and locate the `push-badges` playbook"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "Important to note that just because you push to fedorahosted does not mean the badge is "out there" yet - introducing the powers of Ansible yet again"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "=== Pushing out the badge ==="
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "4) Add the files in git, commit, push (or if you don't have push privileges, make a patch and add it to the ticket to save time...??)"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "Add the files in git, commit, push (or if you don't have push privileges, make a patch and add it to the ticket to save time...??)"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "3) Double-check to make sure the image assets you pulled down are "good" - sometimes the images can be corrupted and this can cause problems later"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "2) Place art assets into their appropriate folder, preferred to name image files the name of the badge for easy indexing later on"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "1) Go to the ticket for a badge and pull the artwork assets (both png and svg) into the `badges` repository"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "=== Taking care of art assets ==="
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "2) Sysadmin privileges on Batcave and badges-web"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "1) Cloned `badges` repository where all badges live: https://git.fedorahosted.org/cgit/badges.git"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "=== Prerequisites ==="
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "Ralph (threebean) explained how to push a badge in Fedora Infrastructure with a screenshare walkthrough"
+* The topic of jflory7's "Fedora CommOps Hack Session (2016-06-03)" meeting changed to "How To Push a Badge 101" in #fedora-meeting-3
+* jflory7 linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://etherpad.gnome.org/p/commops-power-sessions"
+* jflory7 linked to more information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "https://hangouts.google.com/call/en5lzau3tffx3goxsaccqsq5tye"
+* jflory7 raised a point of information in the "Fedora CommOps Hack Session (2016-06-03)" meeting in #fedora-meeting-3: "We're using Google Hangouts for tonight's hack session: please try connecting at the following link!"
+* nirik's meeting titled "Infrastructure (2016-06-02)" ended in #fedora-meeting
+* nirik linked to more information in the "Infrastructure (2016-06-02)" meeting in #fedora-meeting: "https://admin.fedoraproject.org/collectd/bin/graph.cgi?hostname=notifs-backend01.phx2.fedoraproject.org;plugin=fedmsg;plugin_instance=hub;type=queue_length;type_instance=FMNConsumer_backlog;begin=1463806220;end=1464411020"
+* The topic of nirik's "Infrastructure (2016-06-02)" meeting changed to "Open Floor" in #fedora-meeting
+* dgilmore linked to more information in the "Infrastructure (2016-06-02)" meeting in #fedora-meeting: "https://apps.fedoraproject.org/calendar/modularity/2016/6/6/#m3924"
+* threebean linked to more information in the "Infrastructure (2016-06-02)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Modularization/Infra"
+* The topic of nirik's "Infrastructure (2016-06-02)" meeting changed to "Learn about: modularity from a high level - threebean" in #fedora-meeting
+* The topic of nirik's "Infrastructure (2016-06-02)" meeting changed to "Apprentice office hours" in #fedora-meeting
+* nirik raised a point of information in the "Infrastructure (2016-06-02)" meeting in #fedora-meeting: "will look at splitting notifications traffic to another list"
+* The topic of nirik's "Infrastructure (2016-06-02)" meeting changed to "split notifications from scm-commits to new list? - kevin" in #fedora-meeting
+* The topic of nirik's "Infrastructure (2016-06-02)" meeting changed to "supybot-gribble fork: https://github.com/ProgVal/Limnoria plans - kevin" in #fedora-meeting
+* puiterwijk raised a point of information in the "Infrastructure (2016-06-02)" meeting in #fedora-meeting: "two new Basset releases to add trac attachments and user blocking"
+* pingou raised a point of information in the "Infrastructure (2016-06-02)" meeting in #fedora-meeting: "new pagure deployed just before freeze"
+* bee2502_'s meeting titled "gsoc" ended in #fedora-meeting
+* c0mrad3 linked to more information in the "gsoc" meeting in #fedora-meeting: "http://frostyx.cz/posts/copr-rubygems"
+* c0mrad3 linked to more information in the "gsoc" meeting in #fedora-meeting: "https://copr.fedorainfracloud.org/coprs/dhanvi/asciidoctor-mallard/"
+* bee2502_ raised a point of information in the "gsoc" meeting in #fedora-meeting: "c0mrad3 is working on a new tool chain for docs"
+* skamath raised a point of information in the "gsoc" meeting in #fedora-meeting: "ronith created a new repo for the kernel CMA patch, created area for the crash kernel and is  working on the linux kernel CMA patch"
+* skamath raised a point of information in the "gsoc" meeting in #fedora-meeting: "ronith created a new repo for the kernel CMA patch."
+* fhackdroid raised a point of information in the "gsoc" meeting in #fedora-meeting: "fhackdroid  just sharing my experience I am just excited about bringing CI to Pagure"
+* skamath raised a point of information in the "gsoc" meeting in #fedora-meeting: "skamath will be attending the next Commops Hack session to understand the Onboarding steps better"
+* skamath noted an action in the "gsoc" meeting in #fedora-meeting: "skamath talk to decause regarding Onboarding badges"
+* Mathnerd314 raised a point of information in the "gsoc" meeting in #fedora-meeting: "Mathnerd314 worked on refactoring the pull code to make it easier to work with"
+* vivek_ raised a point of information in the "gsoc" meeting in #fedora-meeting: "Vivek Anand; Pagure; Making sure the config keys were working correctly-keys like enable_tickets, enable_new_projects etc. link: https://pagure.io/pagure/pull-request/1007"
+* fhackdroid raised a point of information in the "gsoc" meeting in #fedora-meeting: "fhackdroid worked on integrating PMCI and pagure so that pagure has its own CI, it is near to the first cut"
+* skamath linked to more information in the "gsoc" meeting in #fedora-meeting: "https://pagure.io/gsoc-stats"
+* skamath raised a point of information in the "gsoc" meeting in #fedora-meeting: "skamath has been working on a stats tool to gather weekly information on summer interns. My work can be found in Pagure. I have written the basic documentation in the README file. I am planning to add more features to it and hopefully, switch from datagrepper to statscache this week"
+* bee2502_ raised a point of information in the "gsoc" meeting in #fedora-meeting: "Students discuss their projects and give a quick summary of what they have worked on over the past week."
+* The topic of bee2502_'s "gsoc" meeting changed to "GSoC weekly recap" in #fedora-meeting
+* bee2502_ raised a point of information in the "gsoc" meeting in #fedora-meeting: "Weekly Review meeting for GSOC 2016 students and mentors"
+* The topic of bee2502_'s "gsoc" meeting changed to "Roll Call" in #fedora-meeting
+* jflory7's meeting titled "Fedora CommOps (2016-05-31)" ended in #fedora-meeting
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/PyCon_2016#The_Sprints"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "jflory7 Reach out to decause about days / times for Fedora sprints at PyCon for planning a hack session"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Planning a new hack session time: want to check in with decause about PyCon Fedora sprints and maybe coordinating around that? Need to find out what days and times those are."
+* jflory7 noted agreement in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "The extra 30 minutes to the meeting time was great for fitting more quality discussion in and not rushing through ideas or discussion topics."
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Open Floor" in #fedora-meeting
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Final Release Public Availability (GA) (Tuesday, 2016-06-14)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "The Final Freeze was today! Infrastructure and other important parts of Fedora are in a "release freeze" for the time being."
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Release Schedule" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "jflory7 Follow up with decause and maxamillion to see if where the original content is and if we can pull the source"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/?p=1558&preview=1&_ppp=68845221b1"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "(1) "OSCON 2016 Expo Hall Booth Report" by maxamillion"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1571"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Total Views (May 30 - May 31): 27"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-loves-pycon-2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "(1) "Fedora <3's PyCon 2016""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Community Blog" in #fedora-meeting
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps ]"
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* jflory7 proposed an idea in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Automating with code would be a good idea, but the question is how. A scraper on the Design Team Trac for certain file extensions? Parsing GitHub repos? To be discussed with Design Team."
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Update Ticket #71 with the ideas and discussion from this meeting"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "jflory7 Reach out to the Design Team about centralizing Design / Marketing resources for Fedora and get their thoughts about the discussions from today's meeting on Ticket #71"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Centralizing all the resources together in a single place and making them easily accessible, e.g. a package (questions to ask: what are teams doing now, will they have to change their practices? Is this something they will want to do?)"
+* jflory7 proposed an idea in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Having a Pagure repo to serve as an index for all existing resources (questions to ask: how to maintain it, who will add to it?)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/71"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: ""Centralizing Ambassadors / Events resources and utilities""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== Ticket #71 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Will remove this ticket from agenda for now until we have more information from spot and decause about further plans for the FAD"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_EDU_2016"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Objectives/University_Involvement_Initiative"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/68"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: ""Reconstructing the Campus Ambassadors program and campus outreach""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== Ticket #68 ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "skamath File a ticket in the Fedora Badges Trac for a CommOps on-boarding badge that is dependent on other badges and/or hooks to be awarded; ask in #fedora-commops if assistance is needed. :)"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "http://whenisgood.net/fedora/badges-workshop"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "#69: "Fedora Modularity onboarding""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== Tickets #34, 49, 69 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Tickets" in #fedora-meeting
+* skamath linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "http://planetgsoc.github.io/"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause / jflory7 Get article source from maxamillion, decause will make edits, clear with maxamillion, then push"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [INCOMPLETE] decause input the report, make edits, clear with maxamillion, push before Friday Wheels Up for PyCon ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "maxamillion is logged into the CommBlog and is the "author" of the post in the drafts folder"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [COMPLETE] maxamillion log into commblog, create a draft for the OSCON report, and then review decause's edits ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause / dhanesh95 / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [IN PROGRESS] decause / dhanesh95 / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available) ==="
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause nail down Flock arrangements, add them to Fedocal"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [IN PROGRESS...?] decause nail down Flock arrangements, add them to Fedocal ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause and jflory7 stopped by for a bit to check in with the team and generate some ideas, more info to come."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [COMPLETE] decause / commops stop by the docs office hours tomo to discuss release notes -> release announce flow ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/74#comment:3"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Add info about where to find the pull request for Ticket #74"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause Work with jzb to organize the release party in Raleigh, NC area"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [IN PROGRESS] decause work with jzb to possibly organize a release party in RDU"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "jflory7 Bring the CommOps vFAD ticket back up to the table, make a wiki page, do the metadata planning-esque type of tasks"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Bring the CommOps vFAD ticket back up to the table, make a wiki page, do the metadata planning-esque type of tasks ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Article has gone past its prime publishing period (event was in early April); there are individual Ambassador reports for the event, so this should suffice for the time being."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [CLOSED] jflory7 Write Bitcamp 2016 article on CommBlog and point to individual event reports by other Ambassadors ==="
+* meskarune linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://v.etherpad.org/p/Diversity_Survey"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "jflory7 Open discussion on the mailing list about Ticket #71 and centralizing Ambassador resources (to get brainstorming going)"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Open discussion on the mailing list about Ticket #71 and centralizing Ambassador resources (to get brainstorming going) ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Email draft is started, will be sent out by end of day"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [IN PROGRESS] jflory7 Post to the mailing list with ideas about the FOSS Student Pack, along with links to a planning pad either on the wiki or in an Etherpad ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "tatica has been offline due to illness, so might be a slight delay in getting this one done"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause Follow up with tatica and diversity team about LimeSurvey availability"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [IN PROGRESS] decause follow-up with tatica and diversity team about limesurvey avaiability ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/77"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== [COMPLETE] cprofitt File a ticket for wiki gardening the Python SIG page (others who have noticed things can also chime in, cc: LinuxHippie / dhanesh95) ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-05-24/commops.2016-05-24-15.58.html"
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* devyani7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "devyani7 GSoC update: Working on *EDIT* bookmarks feature that will list down the hub-pages bookmarked by the user, following with the frequently opened ones. Hoping to get this done this week, following which we'll try to provide suggestions to user to change the order of the bookmarks."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "jflory7 GSoC update: Working through Ansible resources and writing experimental playbooks on personal server. Hoping to start working with WordPress multi-site setups this week and also studying Ansible playbooks already in Fedora Infra. Hoping to learn more about differences between 1.0 and 2.0 API soon."
+* skamath linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://pagure.io/gsoc-stats"
+* skamath raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "skamath has started work on the statstool, which can be found on Pagure"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "There is ongoing discussion about how to develop the "story" of Fedora 24 for this past release cycle. This discussion is going to be used in the release announcement for F24. If you have ideas about how to develop this story, chime in on the mailing list thread and add your thoughts! F24 is growing closer fast!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/marketing@lists.fedoraproject.org/thread/HZLH2L27LQTUA6FGDGRKGUN52ALJMPO7/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== Developing the story of Fedora 24 ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "PyCon US 2016 is this week, and many members of the Fedora contributor community can be found there this week. There will be Fedora sprints coming up later on in the week, so stay tuned for any news from the team there. If you're at PyCon, stop by the Fedora table and say hello!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-loves-pycon-2016/"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "https://us.pycon.org/2016/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "=== "Fedora <3's PyCon 2016" ==="
+* The topic of jflory7's "Fedora CommOps (2016-05-31)" meeting changed to "Announcements" in #fedora-meeting
+* devyani7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Devyani Kota; UTC+5.30; Hubs, Infrastructure, CommOps etc."
+* sayan raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Sayan Chowdhury;UTC+5:30; Infrastructure, Cloud, CommOps, Marketing, Ambassadors etc."
+* c0mrad3 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Tummala Dhanvi , UTC+5:30, CommOps, Security, GSoC,*"
+* dhanesh95 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Dhanesh B. Sabane. UTC+5:30, CommOps"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "decause sends his regrets this week; he is attending PyCon and will not be able to make it today"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Justin W. Flory; UTC-4; CommOps, Marketing / Magazine, Ambassadors, Infrastructure, Diversity, etc."
+* skamath raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Sachin S. Kamath; UTC +5.30; Metrics, CommOps, Python, Security"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-31)" meeting in #fedora-meeting: "Name; Timezone; Sub-projects/Interest Areas"
+* pingou's meeting titled "fedora-hubs" ended in #fedora-hubs
+* pingou linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "http://fedora-fedmsg.readthedocs.org/"
+* The topic of pingou's "fedora-hubs" meeting changed to "open-floor" in #fedora-hubs
+* pingou linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/4 is also a particular one, since it breaks one of the core idea of hubs: being read-only"
+* mizmo noted an action in the "fedora-hubs" meeting in #fedora-hubs: "mizmo to fill out #167 with design team needs"
+* mizmo noted an action in the "fedora-hubs" meeting in #fedora-hubs: "mizmo to fill out #142 with commops research"
+* mizmo linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/142"
+* pingou linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/166 and https://pagure.io/fedora-hubs/issue/167 might be interesting ones for radhikak"
+* pingou linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/179 requires work on the auth side of both hubs and fmn"
+* pingou linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/180 requires work on FMN"
+* pingou linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/57 requires pretty much a total rework of the zodbot plugin"
+* mizmo linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issues?tags=flock"
+* mizmo linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/165"
+* sayan linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://github.com/slick666/ircb-bouncer/tree/initial_implementation"
+* sayan linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "http://www.material-ui.com/#/"
+* sayan linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://github.com/waartaa/ircb/issues?q=is%3Aopen+is%3Aissue+milestone%3A0.3"
+* devyani7 linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/11#comment-1021"
+* devyani7 linked to more information in the "fedora-hubs" meeting in #fedora-hubs: "https://pagure.io/fedora-hubs/issue/11"
+* The topic of pingou's "fedora-hubs" meeting changed to "status update" in #fedora-hubs
+* The topic of pingou's "fedora-hubs" meeting changed to "new comers" in #fedora-hubs
+* nirik's meeting titled "Infrastructure (2016-05-26)" ended in #fedora-meeting
+* The topic of nirik's "Infrastructure (2016-05-26)" meeting changed to "Open Floor" in #fedora-meeting
+* nb linked to more information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "The value of drive-through contributions https://lwn.net/SubscriberLink/688560/b76a2332f597f06b/"
+* pingou linked to more information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/teams/infrastructure/infrastructure.2016-05-19-18.00.log.html last week's minutes"
+* The topic of nirik's "Infrastructure (2016-05-26)" meeting changed to "Learn about: oidc tutorial part 2 - patrick" in #fedora-meeting
+* nirik linked to more information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "https://infrastructure.fedoraproject.org/infra/docs/sshaccess.rst"
+* nirik linked to more information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "https://www.scrye.com/wordpress/nirik/2016/03/30/taskwarrior-tips-and-notes/"
+* The topic of nirik's "Infrastructure (2016-05-26)" meeting changed to "Apprentice office hours" in #fedora-meeting
+* threebean linked to more information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/infrastructure@lists.fedoraproject.org/"
+* The topic of nirik's "Infrastructure (2016-05-26)" meeting changed to "Seeking feedback on Modularity plans - threebean" in #fedora-meeting
+* threebean raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "PyCon US is next week!"
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "monday is a holiday in many places, don't expect people to be around as much as normal"
+* puiterwijk raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "flask-oidc is ready for folks to start integrating - patrick"
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "F24 final freeze coming up next week - everyone"
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "ansible 2.1 on batcave01 for a few, reverted back to 2.0 for now - kevin"
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "root passwords changed on all machines - kevin"
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "Mass update/reboot cycle complete. Machines are ready for freeze - kevin/smooge/patrick/tflink"
+* The topic of nirik's "Infrastructure (2016-05-26)" meeting changed to "announcements and information" in #fedora-meeting
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "Fedora Message Notifications (FMN) finally caught back up"
+* nirik raised a point of information in the "Infrastructure (2016-05-26)" meeting in #fedora-meeting: "added +50GB space to bodhi-backend01, should last a bit - kevin"
+* stickster's meeting titled "FAS3 discussion" ended in #fedora-apps
+* pingou raised a point of information in the "FAS3 discussion" meeting in #fedora-apps: "next meeting Friday June 3rd 16:00 UTC"
+* pingou linked to more information in the "FAS3 discussion" meeting in #fedora-apps: "https://pypi.python.org/pypi/cliff"
+* SmootherFrOgZ linked to more information in the "FAS3 discussion" meeting in #fedora-apps: "https://github.com/fedora-infra/fas-client"
+* SmootherFrOgZ linked to more information in the "FAS3 discussion" meeting in #fedora-apps: "https://gist.github.com/laxathom/56eed584ec87c913eee4"
+* SmootherFrOgZ linked to more information in the "FAS3 discussion" meeting in #fedora-apps: "https://fedorahosted.org/design-team/ticket/403"
+* stickster linked to more information in the "FAS3 discussion" meeting in #fedora-apps: "http://etherpad.osuosl.org/fas3-staging-plan"
+* stickster linked to more information in the "FAS3 discussion" meeting in #fedora-apps: "https://fedoraproject.org/wiki/User:Laxathom/Drafts:FAS3.0"
+* stickster raised a point of information in the "FAS3 discussion" meeting in #fedora-apps: "goal is to get FAS3 to staging no later than end of July"
+* decause's meeting titled "Summer Coding" ended in #fedora-meeting
+* decause linked to more information in the "Summer Coding" meeting in #fedora-meeting: "https://apps.fedoraproject.org/datagrepper/raw?user=decause"
+* fhackdroid raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "puiterwijk helped a lot and still helping me to setup pagure on aws instance"
+* mizmo linked to more information in the "Summer Coding" meeting in #fedora-meeting: "https://lists.fedoraproject.org/archives/list/summer-coding@lists.fedoraproject.org/"
+* The topic of decause's "Summer Coding" meeting changed to "Tips" in #fedora-meeting
+* c0mrad3 raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "c0mrad3 got started with working on packaging asciidoctor-mallard https://copr.fedorainfracloud.org/coprs/dhanvi/asciidoctor-mallard/monitor/ and build was successful except for few platforms"
+* The topic of decause's "Summer Coding" meeting changed to "Weekly Reports" in #fedora-meeting
+* devyani7 raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "devyani7; UTC+5.30; Python, Hubs, Infrastructure; Will be working with on Hubs as my GSoC project, hub-pages,widgets and other cool features before Flock. pingone, sayan, decause, lmacken, corey are my mentors."
+* mizmo raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Máirín Duffy, Fedora UX designer, lead designer of Fedora Hubs. I will be mentoring Radhika who is one of the Red Hat summer interns and will be starting later this week. I'm based in Boston, I think we're UTC-4 right now."
+* sayan raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Sayan Chowdhury; UTC+5:30; Infrastructure, Cloud, CommOps, Ambassadors"
+* vivek_ raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Vivek Anand; UTC+5: 30; Pagure; Pingo(u) is my mentor"
+* fhackdroid raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "farhaanbukhsh.wordpress.com"
+* Mathnerd314 raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "allangardner; UTC-6; ostree, rpm-ostree, Project Atomic, Fedora Modularization, and whatever else fits into the schedule"
+* ronith raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "ronit: UTC +5.30; Tinykdump, commops"
+* c0mrad3 raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Tummala Dhanvi (c0mrad3) ; UTC+5:30 ; CommOps, Docs, Security, GSoC, * ; will be working with the fedora docs newer tool chain as my GSoC more about me https://fedoraproject.org/wiki/User:dhanvi; zoglesby is my mentor"
+* bee2502_ raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Bhagyashree ; UTC +5.30 ; CommOps , Metrics , Elections"
+* fhackdroid raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "fhackdroid ; UTC+5.30; Pagure"
+* decause raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "My Summer Coding Work will be primarily about Administration of GSoC and other programs, making sure that all of our students and mentors have a productive and positive experience this year :)"
+* jflory7 raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Justin W. Flory (jflory7); UTC-4; CommOps, Marketing / Magazine, Ambassadors, Diversity, soon-to-be Infrastructure; Working with CommOps and Fedora Infrastructure to create Ansible playbooks for specific services in the Infrastructure and help begin porting to 2.0 API"
+* skamath raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "skamath; UTC +5.30; CommOps, Metrics, Python"
+* decause raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "username; timezone; subprojects/and project work for summer"
+* decause raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "decause; UTC-4; CommOps, Council, GSoC, Budget, *"
+* The topic of decause's "Summer Coding" meeting changed to "introductions" in #fedora-meeting
+* The topic of decause's "Summer Coding" meeting changed to "Fedora Friends" in #fedora-meeting
+* decause linked to more information in the "Summer Coding" meeting in #fedora-meeting: "http://flocktofedora.org"
+* The topic of decause's "Summer Coding" meeting changed to "Flock" in #fedora-meeting
+* jflory7 linked to more information in the "Summer Coding" meeting in #fedora-meeting: "https://admin.fedoraproject.org/accounts/group/view/summer-coding"
+* decause linked to more information in the "Summer Coding" meeting in #fedora-meeting: "http://etherpad.osuosl.org/fedora-gsoc-welcome-2016"
+* jflory7 linked to more information in the "Summer Coding" meeting in #fedora-meeting: "https://github.com/planetGSoC/river5"
+* jflory7 linked to more information in the "Summer Coding" meeting in #fedora-meeting: "https://planetgsoc.github.io/"
+* c0mrad3 linked to more information in the "Summer Coding" meeting in #fedora-meeting: "http://fedoraplanet.org/summer-coding/"
+* decause proposed an idea in the "Summer Coding" meeting in #fedora-meeting: "Questions About the Welcome Kit"
+* decause linked to more information in the "Summer Coding" meeting in #fedora-meeting: "http://etherpad.osuosl.org/fedora-gsoc-welcome-2016"
+* decause linked to more information in the "Summer Coding" meeting in #fedora-meeting: "http://etherpad.osuosl.org/fedora-gsoc-welcome-2016"
+* c0mrad3 linked to more information in the "Summer Coding" meeting in #fedora-meeting: "http://etherpad.osuosl.org/fedora-gsoc-welcome-2016"
+* The topic of decause's "Summer Coding" meeting changed to "Welcome Kit" in #fedora-meeting
+* The topic of decause's "Summer Coding" meeting changed to "Welcome to Summer Coding 2016" in #fedora-meeting
+* c0mrad3 raised a point of information in the "Summer Coding" meeting in #fedora-meeting: "Tummala Dhanvi (c0mrad3) ; UTC+5:30 ; commops,docs,security,gsoc,*"
+* jflory7's meeting titled "Fedora CommOps (2016-05-24)" ended in #fedora-meeting
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Parting Thoughts" in #fedora-meeting
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "commops please vote on the proposal to extend meeting time and chime in with your comments"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "http://pagure.io/fedora-budget"
+* decause called for help in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Ambassadors Please Submit your Q1 Budget reports by Friday"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "http://imgur.com/kBK0udF"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "http://imgur.com/6en0x36"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/design-team/raw-attachment/ticket/431/fedora-python-shirt_white-areas.pdf"
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Open Floor" in #fedora-meeting
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Red_Hat_Summit_2016"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Final Release Public Availability (GA) Tue 2016-06-14"
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause input the report, make edits, clear with maxamillion, push before Friday Wheels Up for PyCon"
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause input the report, make edits, clear with maxamillion, push by Friday"
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "maxamillion log into commblog, create a draft for the OSCON report, and then review decause's edits"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorapeople.org/groups/schedule/f-24/f-24-key-tasks.html"
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Release Schedule" in #fedora-meeting
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(5) "OSCON Event Report by maxamillion""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(4) "Flock Schedule Posted (pointer to FM)""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(3) "Red Hat Summit 2016""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(2) "Fedora Loves PyCon 2016""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(1) "Fedora at Bitcamp 2016""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== Coming Up in CommBlog ==="
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/wp-admin/admin.php?page=stats&view=post&post=1496"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Total Views (May 24): [ no statistics generated yet, just published ]"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-24-have-a-party/"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(1) "Fedora 24: Let's have a party!""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== This Week in CommBlog ==="
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "How This Works: There is a quick blast of information about what was published in the past week with some metrics, followed by posts that are being drafted. After the information blast, the floor is opened for any Community Blog-related discussion. Here we go!"
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Community Blog" in #fedora-meeting
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Red_Hat_Summit_2016"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/PyCon_2016"
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "commops New members, make sure you add your timezone / interests on CommOps wiki [ https://fedoraproject.org/wiki/CommOps"
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Wiki Gardening" in #fedora-meeting
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "jflory7 add tickets agreed to today for power-session onto agenda in the power-sessions etherpad"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/69#comment:2"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(3) A Community Blog article announcing the presence of the Modularity WG, what they are, what they do, how to get involved (penned by one of the WG members)"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(2) Putting together a badge proposal for membership in the Modularity WG (in the form of a ticket on the fedora-badges Trac)"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "(1) Someone can review the contents of their on-boarding wiki page and pass feedback about them in the ticket, as compared to other on-boarding methods in Fedora"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/69"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: ""Fedora Modularity onboarding""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== Ticket #69 ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "EDU FAD can be updated in a hack session to include information about what it is, can be followed by a CommBlog article and mailing list posts"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_EDU_2016"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Objectives/University_Involvement_Initiative"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/68"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: ""Reconstructing the Campus Ambassadors program and campus outreach""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== Ticket #68 ==="
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "http://whenisgood.net/fedora/commops/power-sessions/results/xgtq9g2"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "http://whenisgood.net/fedora/badges-workshop"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "CommOps Team Onboarding Steps > Badges Team Missing Badges > Hubs Team Badges Tracks and Widgets"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/49"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/ticket/34"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "#49: "[Onboarding Series] Infrastructure""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "#39: "[Onboarding Series] [MASTER TICKET] Creating sub-project on-boarding badge series""
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== Tickets #34, 49 ==="
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedorahosted.org/fedora-commops/report/9"
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Tickets" in #fedora-meeting
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause / dhanesh95 / spot look into booking conference rooms in the Tower (Fedora on 9 if it is available)"
+* dhanesh95 linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/FAD_EDU_2016"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [COMPLETE] dhanesh95 Fork a wiki page for the Education FAD from the template linked previously and begin templating the details for the Education FAD to take place over this summer ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause nail down Flock arrangements, add them to Fedocal"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== decause add conf schedule to Fedocal ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause / commops go to docs office hours at 3pm EST (7pm UTC) to talk release notes -> GA Announcement"
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause / commops stop by the docs office hours tomo to discuss release notes -> release announce flow"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== decause / commops stop by the docs office hours tomo to discuss release notes -> release announce flow ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "jflory7 Add info about where to find the pull request for Ticket #74"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [IN PROGRESS] jflory7 Remove Ticket #74 from meeting agenda, add info about where to find the pull request for the ticket ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause work with jzb to possibly organize a release party in RDU"
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://communityblog.fedoraproject.org/fedora-24-have-a-party/"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [COMPLETE] jflory7 Ship F24 Party article today ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "jflory7 Bring the CommOps vFAD ticket back up to the table, make a wiki page, do the metadata planning-esque type of tasks"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Bring the CommOps vFAD ticket back up to the table, make a wiki page, do the metadata planning-esque type of tasks ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "jflory7 Write Bitcamp 2016 article on CommBlog and point to individual event reports by other Ambassadors"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Write Bitcamp 2016 article on CommBlog and point to individual event reports by other Ambassadors ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "jflory7 Open discussion on the mailing list about Ticket #71 and centralizing Ambassador resources (to get brainstorming going)"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Open discussion on the mailing list about Ticket #71 and centralizing Ambassador resources (to get brainstorming going) ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "jflory7 Post to the mailing list with ideas about the FOSS Student Pack, along with links to a planning pad either on the wiki or in an Etherpad"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [INCOMPLETE] jflory7 Post to the mailing list with ideas about the FOSS Student Pack, along with links to a planning pad either on the wiki or in an Etherpad ==="
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "commops socialize the wiki page, start drafting a commblog article to go out before end of June"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== decause talk to spot about scheduling an EDU FAD after budget gets settled ==="
+* jflory7 noted agreement in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Complete! decause purchased 5000 responses, so there is moneydollars in the LimeSurvey account. Next steps is getting it to tatica and Diversity team."
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause follow-up with tatica and diversity team about limesurvey avaiability"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== decause add money dollars to limesurvey due:Friday ==="
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [COMPLETE] decause send out timeslot requests for GSoC ==="
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== [COMPLETE] commops add the 'how it works' link above to the etherpad under resources ==="
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "How This Works: We look at past #action items from the last meeting for quick follow-up. If a task is completed, we move on to the next one. If it isn't, we get an update and re-action it if needed. If no status, we'll try to get a quick update and move forward."
+* decause linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://meetbot.fedoraproject.org/fedora-meeting/2016-05-17/commops.2016-05-17-16.02.html"
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Action items from last meeting" in #fedora-meeting
+* bee2502_ linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoraproject.org/wiki/Meeting:CommOps_2016-05-24"
+* jflory7 noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "cprofitt File a ticket for wiki gardening the Python SIG page (others who have noticed things can also chime in, cc: LinuxHippie / dhanesh95)"
+* decause noted an action in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "nb send decause sponsorship details for SELF, cc jmad"
+* nb raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause plans to come to SELF"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "CORRECTION: All-Hands includes GSoC AND Outreachy and Red Hat interns"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause will be going to PyCon 2016-05-27 to 2016-06-02 and be harder to get a hold of than usual (until the sprints)."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "There will be Fedora sprints at PyCon this year. They're from Thursday, 2016-06-02 to Sunday, 2016-06-05."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== Fedora @ PyCon US ==="
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "The Google Summer of Coding All-Hands meeting will be on Wednesday at 15:00 UTC in #fedora-meeting. This will be the big kick-off, officially, for the summer!"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== Google Summer of Code "All-Hands", 2016-05-25, 15:00 UTC ==="
+* devyani7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Devyani Kota, UTC+5:30; Infrastructure, CommOps, Hubs."
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Flock is Fedora's annual contributor conference where Fedorans across the world get together for talks, sprints, workshops, and more. The schedule for this year's Flock was recently published and you can find out what talks and workshops there will be for this year. Some CommOpsers are giving talks this year!"
+* jflory7 linked to more information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "https://fedoramagazine.org/flock-2016-schedule-now/"
+* jflory7 raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "=== "Flock 2016 schedule is now out" ==="
+* The topic of jflory7's "Fedora CommOps (2016-05-24)" meeting changed to "Announcements" in #fedora-meeting
+* LinuxHippie raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "LinuxHippie, UTC-6; commops, ambassadors"
+* cprofitt raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Charles Profitt, UTC-4; Marketing, Cloud, CommOps, Security"
+* bee2502__ raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "bee2502; UTC +5.30; CommOps, Metrics, Elections , Fedmsg"
+* decause raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "decause; UTC-4; Commops, Council, GSoC, Budget, Flock, *"
+* trishnag raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "Trishna Guha; UTC+5:30; Infrastructure, Cloud, CommOps, Magazine"
+* skamath raised a point of information in the "Fedora CommOps (2016-05-24)" meeting in #fedora-meeting: "skamath; UTC +5.30; CommOps, Metrics, Security"
+
+* **Total Entries in category :** 1375
+
+* **Percentage participation in category :** 78.53
 
 
 #### Category : Mailman
 
-
 * **Total Entries in category :** 10
 
-* **Percentage participation in category :** 0.39
+* **Percentage participation in category :** 0.57
 
 
 #### Category : Trac
@@ -138,7 +1519,7 @@
 
 * **Total Entries in category :** 52
 
-* **Percentage participation in category :** 2.02
+* **Percentage participation in category :** 2.97
 
 
 #### Category : Fedbadges
@@ -185,2208 +1566,19 @@
 
 * **Total Entries in category :** 40
 
-* **Percentage participation in category :** 1.56
+* **Percentage participation in category :** 2.28
 
 
-#### Category : Fedoratagger
-* skamath upvoted "ocmal" on ocaml-libvirt
-* skamath upvoted "libvirt" on ocaml-libvirt
-* skamath upvoted "module" on ocaml-libvirt
-* skamath upvoted "lib" on ocaml-libvirt
-* skamath upvoted "ocaml libvirt" on ocaml-libvirt
-* skamath upvoted "typing" on gtypist
-* skamath upvoted "tutor" on gtypist
-* skamath upvoted "gnu" on gtypist
-* skamath upvoted "keyboard" on gtypist
-* skamath upvoted "type" on gtypist
-* skamath upvoted "php react" on php-react-promise
-* skamath upvoted "library" on php-react-promise
-* skamath upvoted "promise" on php-react-promise
-* skamath upvoted "php" on php-react-promise
-* skamath upvoted "module" on php-react-promise
-* skamath upvoted "soccer" on rcssmonitor
-* skamath upvoted "robots" on rcssmonitor
-* skamath upvoted "simulator" on rcssmonitor
-* skamath upvoted "robocup" on rcssmonitor
-* skamath upvoted "simulation" on rcssmonitor
-* skamath upvoted "backup" on dar
-* skamath upvoted "jack" on arpage
-* skamath upvoted "midi" on arpage
-* skamath upvoted "arpeggiator" on arpage
-* skamath upvoted "scheme" on chicken
-* skamath upvoted "efficient" on chicken
-* skamath upvoted "portable" on chicken
-* skamath upvoted "c" on chicken
-* skamath upvoted "xfce" on xfce4-mixer
-* skamath upvoted "volume" on xfce4-mixer
-* skamath upvoted "desktop" on xfce4-mixer
-* skamath upvoted "sound" on xfce4-mixer
-* skamath upvoted "audio" on xfce4-mixer
-* skamath upvoted "testing" on jasmine-node
-* skamath upvoted "javascript" on jasmine-node
-* skamath upvoted "node" on jasmine-node
-* skamath upvoted "webcam" on xawtv
-* skamath upvoted "video4linux" on xawtv
-* skamath upvoted "tv" on xawtv
-* skamath upvoted "video" on xawtv
-* skamath upvoted "television" on xawtv
-* skamath upvoted "lib" on python-XStatic-Angular-Cookies
-* skamath upvoted "library" on python-XStatic-Angular-Cookies
-* skamath upvoted "cookies" on python-XStatic-Angular-Cookies
-* skamath upvoted "python" on python-XStatic-Angular-Cookies
-* skamath upvoted "qiodevice" on qtiocompressor
-* skamath upvoted "data" on qtiocompressor
-* skamath upvoted "streams" on qtiocompressor
-* skamath upvoted "ratbox" on ircd-ratbox
-* skamath upvoted "irc server" on ircd-ratbox
-* skamath upvoted "server" on jetty-version-maven-plugin
-* skamath upvoted "web server" on jetty-version-maven-plugin
-* skamath upvoted "web" on jetty-version-maven-plugin
-* skamath upvoted "java" on jetty-version-maven-plugin
-* skamath upvoted "lib" on pymodbus
-* skamath upvoted "modbus" on pymodbus
-* skamath upvoted "python" on pymodbus
-* skamath upvoted "library" on pymodbus
-* skamath upvoted "gnu" on bison
-* skamath upvoted "parsing" on bison
-* skamath upvoted "grammar" on bison
-* skamath upvoted "yacc" on bison
-* skamath upvoted "c" on bison
-* skamath upvoted "security" on apg
-* skamath upvoted "generator" on apg
-* skamath upvoted "password" on apg
-* skamath upvoted "programming mlanguage" on malaga
-* skamath upvoted "malaga" on malaga
-* skamath upvoted "development" on malaga
-* skamath upvoted "debug" on yydebug
-* skamath upvoted "java" on yydebug
-* skamath upvoted "yyparse" on yydebug
-* skamath upvoted "jay" on yydebug
-* skamath upvoted "kde" on kdf
-* skamath upvoted "disk usage" on kdf
-* skamath upvoted "gnome" on pychess
-* skamath upvoted "python" on pychess
-* skamath upvoted "games" on pychess
-* skamath upvoted "library" on pychess
-* skamath upvoted "gui" on pychess
-* skamath upvoted "network" on sing
-* skamath upvoted "ping" on sing
-* skamath upvoted "icmp" on sing
-* skamath upvoted "tile" on tcl-tileqt
-* skamath upvoted "tcl" on tcl-tileqt
-* skamath upvoted "widget" on tcl-tileqt
-* skamath upvoted "qt" on tcl-tileqt
-* skamath upvoted "bincue" on mybashburn
-* skamath upvoted "multisession" on mybashburn
-* skamath upvoted "dvd-images" on mybashburn
-* skamath upvoted "flac" on mybashburn
-* skamath upvoted "data dvds" on mybashburn
-* skamath upvoted "module" on trytond-calendar-scheduling
-* skamath upvoted "lib" on trytond-calendar-scheduling
-* skamath upvoted "calender" on trytond-calendar-scheduling
-* skamath upvoted "scheduling" on trytond-calendar-scheduling
-* skamath upvoted "contextual" on perl-DBIx-ContextualFetch
-* skamath upvoted "library" on perl-DBIx-ContextualFetch
-* skamath upvoted "dbix" on perl-DBIx-ContextualFetch
-* skamath upvoted "perl" on perl-DBIx-ContextualFetch
-* skamath upvoted "lib" on perl-DBIx-ContextualFetch
-* skamath upvoted "svg" on svgsalamander
-* skamath upvoted "game development" on svgsalamander
-* skamath upvoted "library" on garcon
-* skamath upvoted "java" on svgsalamander
-* skamath upvoted "vector" on svgsalamander
-* skamath upvoted "menu" on garcon
-* skamath upvoted "garcon" on garcon
-* skamath upvoted "freedesktop" on garcon
-* skamath upvoted "fedora20" on Fedora-Musicians_Guide-20-web-ja-JP
-* skamath upvoted "guide" on Fedora-Musicians_Guide-20-web-ja-JP
-* skamath upvoted "japanese" on Fedora-Musicians_Guide-20-web-ja-JP
-* skamath upvoted "docs" on Fedora-Musicians_Guide-20-web-ja-JP
-* skamath upvoted "library" on libmpd
-* skamath upvoted "lib" on libmpd
-* skamath upvoted "ghc" on ghc-bytestring-trie
-* skamath upvoted "library" on ghc-bytestring-trie
-* skamath upvoted "haskell" on ghc-bytestring-trie
-* skamath upvoted "module" on ghc-bytestring-trie
-* skamath upvoted "lib" on perl-Template-Alloy
-* skamath upvoted "compiler" on ghc-bytestring-trie
-* skamath upvoted "markup" on perl-Template-Alloy
-* skamath upvoted "template" on perl-Template-Alloy
-* skamath upvoted "perl" on perl-Template-Alloy
-* skamath upvoted "3d" on wings
-* skamath upvoted "subdivision modeler" on wings
-* skamath upvoted "wings" on wings
-* skamath upvoted "modeler" on wings
-* skamath upvoted "javascript" on nodejs-showdown
-* skamath upvoted "nodejs" on nodejs-showdown
-* skamath upvoted "markdow" on nodejs-showdown
-* skamath upvoted "node.js" on nodejs-showdown
-* skamath upvoted "perl" on nodejs-showdown
-* skamath upvoted "manipulating" on trytond-party
-* skamath upvoted "tryton" on trytond-party
-* skamath upvoted "eficiency" on trytond-party
-* skamath upvoted "party" on trytond-party
-* skamath upvoted "module" on trytond-party
-* skamath upvoted "terminal" on samefile
-* skamath upvoted "file system" on samefile
-* skamath upvoted "ls" on samefile
-* skamath upvoted "identical files" on samefile
-* skamath upvoted "find" on samefile
-* skamath upvoted "library" on python-rospkg
-* skamath upvoted "python" on python-rospkg
-* skamath upvoted "lib" on python-rospkg
-* skamath upvoted "ros" on python-rospkg
-* skamath upvoted "rospkg" on python-rospkg
-* skamath upvoted "cad/cam" on OCE
-* skamath upvoted "3d modelling" on OCE
-* skamath upvoted "visualization" on OCE
-* skamath upvoted "cae" on OCE
-* skamath upvoted "networking" on perl-HTTP-Exception
-* skamath upvoted "http" on perl-HTTP-Exception
-* skamath upvoted "exceptions" on perl-HTTP-Exception
-* skamath upvoted "perl" on perl-HTTP-Exception
-* skamath upvoted "library" on perl-Term-Animation
-* skamath upvoted "perl" on perl-Term-Animation
-* skamath upvoted "ascii art" on perl-Term-Animation
-* skamath upvoted "module" on perl-Term-Animation
-* skamath upvoted "module" on rubygem-net-http-digest_auth
-* skamath upvoted "library" on rubygem-net-http-digest_auth
-* skamath upvoted "lib" on rubygem-net-http-digest_auth
-* skamath upvoted "authentification" on rubygem-net-http-digest_auth
-* skamath upvoted "ruby" on rubygem-net-http-digest_auth
-* skamath upvoted "ruby" on rubygem-multipart-post
-* skamath upvoted "rubygem" on rubygem-multipart-post
-* skamath upvoted "gem" on rubygem-multipart-post
-* skamath upvoted "greek" on aspell-el
-* skamath upvoted "http" on rubygem-multipart-post
-* skamath upvoted "lib" on rubygem-multipart-post
-* skamath upvoted "spell" on aspell-el
-* skamath upvoted "spell checker" on aspell-el
-* skamath upvoted "dictionary" on aspell-el
-* skamath upvoted "algebra" on linbox
-* skamath upvoted "lib" on linbox
-* skamath upvoted "library" on linbox
-* skamath upvoted "c" on linbox
-* skamath upvoted "c++" on linbox
-* skamath upvoted "symbola" on gdouros-symbola-fonts
-* skamath upvoted "unicode" on gdouros-symbola-fonts
-* skamath upvoted "serif" on gdouros-symbola-fonts
-* skamath upvoted "cursive" on gdouros-symbola-fonts
-* skamath upvoted "sans" on gdouros-symbola-fonts
-* skamath upvoted "tex" on texlive
-* skamath upvoted "office" on texlive
-* skamath upvoted "text processing" on texlive
-* skamath upvoted "latex" on texlive
-* skamath upvoted "texlive" on texlive
-* skamath upvoted "settings" on deja-dup
-* skamath upvoted "gnome" on deja-dup
-* skamath upvoted "data" on deja-dup
-* skamath upvoted "gtk" on deja-dup
-* skamath upvoted "archiving" on deja-dup
-* skamath upvoted "pkcs" on pkcs11-dump
-* skamath upvoted "pki" on pkcs11-dump
-* skamath upvoted "encryption" on pkcs11-dump
-* skamath upvoted "modplugtools" on modplugtools
-* skamath upvoted "module" on perl-Class-DBI-Plugin-Type
-* skamath upvoted "perl" on perl-Class-DBI-Plugin-Type
-* skamath upvoted "lib" on perl-Class-DBI-Plugin-Type
-* skamath upvoted "library" on perl-Class-DBI-Plugin-Type
-* skamath upvoted "pim" on calcurse
-* skamath upvoted "text" on calcurse
-* skamath upvoted "organizer" on calcurse
-* skamath upvoted "calendar" on calcurse
-* skamath upvoted "scheduling" on calcurse
-* skamath upvoted "docs" on docbook-style-xsl
-* skamath upvoted "styles" on docbook-style-xsl
-* skamath upvoted "xml" on docbook-style-xsl
-* skamath upvoted "theme" on docbook-style-xsl
-* skamath upvoted "docbook" on docbook-style-xsl
-* skamath upvoted "code efficiency" on cloog
-* skamath upvoted "z-polyhedra" on cloog
-* skamath upvoted "polyhedra" on cloog
-* skamath upvoted "http" on w3c-libwww
-* skamath upvoted "lib" on w3c-libwww
-* skamath upvoted "internet" on w3c-libwww
-* skamath upvoted "w3c" on w3c-libwww
-* skamath upvoted "c" on w3c-libwww
-* skamath upvoted "tk" on perl-Tk-Text-SuperText
-* skamath upvoted "widget" on perl-Tk-Text-SuperText
-* skamath upvoted "supertext" on perl-Tk-Text-SuperText
-* skamath upvoted "perl" on perl-Tk-Text-SuperText
-* skamath upvoted "apache" on apr-api-docs
-* skamath upvoted "api" on apr-api-docs
-* skamath upvoted "documentation" on apr-api-docs
-* skamath upvoted "portable" on apr-api-docs
-* skamath upvoted "docs" on apr-api-docs
-* skamath upvoted "oma" on syncevolution-gtk
-* skamath upvoted "pda" on syncevolution-gtk
-* skamath upvoted "synchronization" on syncevolution-gtk
-* skamath upvoted "shoutcast server" on icecast
-* skamath upvoted "shoutcast" on icecast
-* skamath upvoted "radio" on icecast
-* skamath upvoted "streaming" on icecast
-* skamath upvoted "library" on perl-String-ShellQuote
-* skamath upvoted "module" on perl-String-ShellQuote
-* skamath upvoted "lib" on perl-String-ShellQuote
-* skamath upvoted "shell escaping" on perl-String-ShellQuote
-* skamath upvoted "jack" on lash
-* skamath upvoted "alsa" on lash
-* skamath upvoted "audio" on lash
-* skamath upvoted "session management" on lash
-* skamath upvoted "perl" on perl-Verilog-Readmem
-* skamath upvoted "module" on perl-Verilog-Readmem
-* skamath upvoted "lib" on perl-Verilog-Readmem
-* skamath upvoted "library" on perl-Verilog-Readmem
-* skamath upvoted "mobile" on WebShell
-* skamath upvoted "ssh" on WebShell
-* skamath upvoted "browser" on WebShell
-* skamath upvoted "ssl server" on WebShell
-* skamath upvoted "idzena" on idzebra
-* skamath upvoted "zebra" on idzebra
-* skamath upvoted "retrieval engine" on idzebra
-* skamath upvoted "text indexing" on idzebra
-* skamath upvoted "lib" on mingw-libosinfo
-* skamath upvoted "mingw" on mingw-libosinfo
-* skamath upvoted "virtualization" on mingw-libosinfo
-* skamath upvoted "python" on python-mechanize
-* skamath upvoted "library" on python-mechanize
-* skamath upvoted "extension" on python-mechanize
-* skamath upvoted "mechanize" on python-mechanize
-* skamath upvoted "module" on python-mechanize
-* skamath upvoted "perl" on perl-Eval-LineNumbers
-* skamath upvoted "eval" on perl-Eval-LineNumbers
-* skamath upvoted "text" on lynx
-* skamath upvoted "lynx" on lynx
-* skamath upvoted "http client" on lynx
-* skamath upvoted "cli" on lynx
-* skamath upvoted "browser" on lynx
-* skamath upvoted "perl" on perl-Module-Find
-* skamath upvoted "finder" on perl-Module-Find
-* skamath upvoted "library" on perl-Module-Find
-* skamath upvoted "lib" on perl-Module-Find
-* skamath upvoted "module" on perl-Module-Find
-* skamath upvoted "quanta" on kdevplatform
-* skamath upvoted "kde" on kdevplatform
-* skamath upvoted "kdevelop" on kdevplatform
-* skamath upvoted "development tools" on kdevplatform
-* skamath upvoted "viewer" on zathura
-* skamath upvoted "office" on zathura
-* skamath upvoted "zathura" on zathura
-* skamath upvoted "zathura" on zathura
-* skamath upvoted "pdf" on zathura
-* skamath upvoted "pax" on pax-utils
-* skamath upvoted "binaries" on pax-utils
-* skamath upvoted "elf" on pax-utils
-* skamath upvoted "utilities" on pax-utils
-* skamath upvoted "development" on perl-Sort-Naturally
-* skamath upvoted "perl sort" on perl-Sort-Naturally
-* skamath upvoted "lib" on perl-Sort-Naturally
-* skamath upvoted "module" on perl-Sort-Naturally
-* skamath upvoted "library" on perl-Sort-Naturally
-* skamath upvoted "event" on perl-Event-RPC
-* skamath upvoted "module" on perl-Event-RPC
-* skamath upvoted "lib" on perl-Event-RPC
-* skamath upvoted "perl" on perl-Event-RPC
-* skamath upvoted "rpc" on perl-Event-RPC
-* skamath upvoted "viewer" on gtksourceview2
-* skamath upvoted "gtk" on gtksourceview2
-* skamath upvoted "library" on gtksourceview2
-* skamath upvoted "mono" on mono-debugger
-* skamath upvoted "debugging" on mono-debugger
-* skamath upvoted "c#" on mono-debugger
-* skamath upvoted "configuration" on perl-ExtUtils-Config
-* skamath upvoted "perl" on perl-ExtUtils-Config
-* skamath upvoted "wrapper" on perl-ExtUtils-Config
-* skamath upvoted "lib" on python-libasyncns
-* skamath upvoted "python" on python-libasyncns
-* skamath upvoted "async" on python-libasyncns
-* skamath upvoted "library" on python-libasyncns
-* skamath upvoted "lib" on libyuv
-* skamath upvoted "yun" on libyuv
-* skamath upvoted "gui" on gxneur
-* skamath upvoted "xneur" on gxneur
-* skamath upvoted "frontend" on gxneur
-* skamath upvoted "gtk" on gxneur
-* skamath upvoted "python" on python-ntplib
-* skamath upvoted "tarball" on javatar
-* skamath upvoted ".tar" on javatar
-* skamath upvoted "archive" on javatar
-* skamath upvoted "tar" on javatar
-* skamath upvoted "java" on javatar
-* skamath upvoted "library" on perl-Test-Regression
-* skamath upvoted "regression" on perl-Test-Regression
-* skamath upvoted "lib" on perl-Test-Regression
-* skamath upvoted "test" on perl-Test-Regression
-* skamath upvoted "module" on perl-Test-Regression
-* skamath upvoted "cpan" on perl-Parse-CPAN-Packages
-* skamath upvoted "extension" on perl-Parse-CPAN-Packages
-* skamath upvoted "module" on perl-Parse-CPAN-Packages
-* skamath upvoted "cpam" on perl-Parse-CPAN-Packages
-* skamath upvoted "lib" on perl-Parse-CPAN-Packages
-* skamath upvoted "afuse" on afuse
-* skamath upvoted "file system" on afuse
-* skamath upvoted "automount" on afuse
-* skamath upvoted "mopac7" on mopac7
-* skamath upvoted "suite" on mopac7
-* skamath upvoted "extra" on xemacs-packages-extra
-* skamath upvoted "xemacs" on xemacs-packages-extra
-* skamath upvoted "lisp" on xemacs-packages-extra
-* skamath upvoted "octave" on octave-dicom
-* skamath upvoted "dicom" on octave-dicom
-* skamath upvoted "nodejs" on nodejs-tiletype
-* skamath upvoted "node" on nodejs-tiletype
-* skamath upvoted "javascript" on nodejs-tiletype
-* skamath upvoted "python" on python-random2
-* skamath upvoted "module" on python-random2
-* skamath upvoted "lib" on python-random2
-* skamath upvoted "plugin" on python-random2
-* skamath upvoted "library" on python-random2
-* skamath upvoted "perl" on perl-Regexp-Common-net-CIDR
-* skamath upvoted "regex" on perl-Regexp-Common-net-CIDR
-* skamath upvoted "regular expressions" on perl-Regexp-Common-net-CIDR
-* skamath upvoted "ipv4" on perl-Regexp-Common-net-CIDR
-* skamath upvoted "cidr" on perl-Regexp-Common-net-CIDR
-* skamath upvoted "http" on nodejs-fresh
-* skamath upvoted "testing" on nodejs-fresh
-* skamath upvoted "nodejs" on nodejs-fresh
-* skamath upvoted "node.js" on nodejs-fresh
-* skamath upvoted "library" on rubygem-transaction-simple
-* skamath upvoted "gem" on rubygem-transaction-simple
-* skamath upvoted "rubygem" on rubygem-transaction-simple
-* skamath upvoted "ruby" on rubygem-transaction-simple
-* skamath upvoted "module" on perl-Font-AFM
-* skamath upvoted "library" on perl-Font-AFM
-* skamath upvoted "adobe" on perl-Font-AFM
-* skamath upvoted "adobe font metrics" on perl-Font-AFM
-* skamath upvoted "font" on perl-Font-AFM
-* skamath upvoted "bytecode" on serp
-* skamath upvoted "jvm" on serp
-* skamath upvoted "module" on perl-PerlIO-utf8_strict
-* skamath upvoted "perl" on perl-PerlIO-utf8_strict
-* skamath upvoted "utf8" on perl-PerlIO-utf8_strict
-* skamath upvoted ".net" on gudev-sharp
-* skamath upvoted "mono" on gudev-sharp
-* skamath upvoted "c#" on gudev-sharp
-* skamath upvoted "gudev" on gudev-sharp
-* skamath upvoted "pyastspi" on pyatspi
-* skamath upvoted "lib" on pyatspi
-* skamath upvoted "python" on pyatspi
-* skamath upvoted "library" on pyatspi
-* skamath upvoted "lib" on perl-Color-Library
-* skamath upvoted "perl" on perl-Color-Library
-* skamath upvoted "color" on perl-Color-Library
-* skamath upvoted "library" on perl-Color-Library
-* skamath upvoted "http" on perl-HTTP-CookieJar
-* skamath upvoted "perl" on perl-HTTP-CookieJar
-* skamath upvoted "cookie" on perl-HTTP-CookieJar
-* skamath upvoted "cpan" on perl-HTTP-CookieJar
-* skamath upvoted "python" on python-cryptography-vectors
-* skamath upvoted "crypto" on python-cryptography-vectors
-* skamath upvoted "vectors" on python-cryptography-vectors
-* skamath upvoted "perl" on perl-File-Path-Tiny
-* skamath upvoted "lib" on perl-File-Path-Tiny
-* skamath upvoted "rmdir" on perl-File-Path-Tiny
-* skamath upvoted "mkdir" on perl-File-Path-Tiny
-* skamath upvoted "firewire" on libavc1394
-* skamath upvoted "library" on libavc1394
-* skamath upvoted "ieee-1394" on libavc1394
-* skamath upvoted "ieee 1394" on libavc1394
-* skamath upvoted "3d modeling" on openscad
-* skamath upvoted "3d printing" on openscad
-* skamath upvoted "csg modeling" on openscad
-* skamath upvoted "3d print" on openscad
-* skamath upvoted "kde" on kf5-kjs
-* skamath upvoted "cad" on openscad
-* skamath upvoted "json" on perl-JSON-Tiny
-* skamath upvoted "perl" on perl-JSON-Tiny
-* skamath upvoted "kf5" on kf5-kjs
-* skamath upvoted "javascript" on kf5-kjs
-* skamath upvoted "lib" on perl-JSON-Tiny
-* skamath upvoted "library" on perl-JSON-Tiny
-* skamath upvoted "module" on perl-JSON-Tiny
-* skamath upvoted "perl" on perl-Schedule-Cron-Events
-* skamath upvoted "events" on perl-Schedule-Cron-Events
-* skamath upvoted "cron" on perl-Schedule-Cron-Events
-* skamath upvoted "nodejs" on nodejs-wrappy
-* skamath upvoted "callback" on nodejs-wrappy
-* skamath upvoted "node.js" on nodejs-wrappy
-* skamath upvoted "perl" on perl-DBIx-Simple
-* skamath upvoted "database module" on perl-DBIx-Simple
-* skamath upvoted "lib" on perl-DBIx-Simple
-* skamath upvoted "library" on perl-DBIx-Simple
-* skamath upvoted "plugin" on perl-DBIx-Simple
-* skamath upvoted "ruby" on rubygem-taskjuggler
-* skamath upvoted "rubygem" on rubygem-taskjuggler
-* skamath upvoted "gem" on rubygem-taskjuggler
-* skamath upvoted "task" on rubygem-taskjuggler
-* skamath upvoted "project" on rubygem-taskjuggler
-* skamath upvoted "touchpad" on libinput
-* skamath upvoted "input device" on libinput
-* skamath upvoted "synaptic" on libinput
-* skamath upvoted "device handling" on libinput
-* skamath upvoted "library" on libinput
-* skamath upvoted "c++" on dataquay
-* skamath upvoted "dataquay" on dataquay
-* skamath upvoted "qt" on dataquay
-* skamath upvoted "rdf" on dataquay
-* skamath upvoted "memory" on perl-Test-Memory-Cycle
-* skamath upvoted "reference" on perl-Test-Memory-Cycle
-* skamath upvoted "check" on perl-Test-Memory-Cycle
-* skamath upvoted "perl" on perl-Test-Memory-Cycle
-* skamath upvoted "cpan" on perl-Variable-Magic
-* skamath upvoted "lib" on perl-Variable-Magic
-* skamath upvoted "magic?" on perl-Variable-Magic
-* skamath upvoted "extention" on perl-Variable-Magic
-* skamath upvoted "ext" on perl-Variable-Magic
-* skamath upvoted "inxi" on inxi
-* skamath upvoted "system info" on inxi
-* skamath upvoted "osk" on iok
-* skamath upvoted "keyboard" on iok
-* skamath upvoted "i18n" on iok
-* skamath upvoted "sugar" on sugar-distance
-* skamath upvoted "pairing" on ltunify
-* skamath upvoted "cli" on ltunify
-* skamath upvoted "logitech unifying receiver" on ltunify
-* skamath upvoted "module" on perl-Nagios-Plugin-WWW-Mechanize
-* skamath upvoted "golang" on golang-github-mitchellh-mapstructure
-* skamath upvoted "go" on golang-github-mitchellh-mapstructure
-* skamath upvoted "library" on perl-Nagios-Plugin-WWW-Mechanize
-* skamath upvoted "lib" on perl-Nagios-Plugin-WWW-Mechanize
-* skamath upvoted "web" on perl-Nagios-Plugin-WWW-Mechanize
-* skamath upvoted "mapnik" on mapnik
-* skamath upvoted "gems" on rubygem-request_store
-* skamath upvoted "gen" on rubygem-request_store
-* skamath upvoted "ruby" on rubygem-request_store
-* skamath upvoted "rubygem" on rubygem-request_store
-* skamath upvoted "gem" on rubygem-request_store
-* skamath upvoted "lib" on php-horde-Horde-Text-Flowed
-* skamath upvoted "flowed" on php-horde-Horde-Text-Flowed
-* skamath upvoted "horde" on php-horde-Horde-Text-Flowed
-* skamath upvoted "module" on php-horde-Horde-Text-Flowed
-* skamath upvoted "mysql" on libodb-mysql
-* skamath upvoted "library" on libodb-mysql
-* skamath upvoted "lib" on libodb-mysql
-* skamath upvoted "odb" on libodb-mysql
-* skamath upvoted "twitter" on qtweetlib
-* skamath upvoted "qt" on qtweetlib
-* skamath upvoted "perl" on perl-Module-Package-Au
-* skamath upvoted "module" on perl-Module-Package-Au
-* skamath upvoted "lib" on perl-Module-Package-Au
-* skamath upvoted "library" on perl-Module-Package-Au
-* skamath upvoted "configuration files" on perl-AppConfig
-* skamath upvoted "perl" on perl-AppConfig
-* skamath upvoted "lib" on perl-AppConfig
-* skamath upvoted "library" on perl-AppConfig
-* skamath upvoted "module" on perl-AppConfig
-* skamath upvoted "development" on jnr-x86asm
-* skamath upvoted "assembler" on jnr-x86asm
-* skamath upvoted "java" on jnr-x86asm
-* skamath upvoted "binary" on wv
-* skamath upvoted "document" on wv
-* skamath upvoted "microsoft word" on wv
-* skamath upvoted "converter" on wv
-* skamath upvoted "html" on wv
-* skamath upvoted "deprecated" on ORBit
-* skamath upvoted "corba" on ORBit
-* skamath upvoted "gnome" on ORBit
-* skamath upvoted "development" on ORBit
-* skamath upvoted "gnome1" on ORBit
-* skamath upvoted "util" on fedfs-utils
-* skamath upvoted "fedfs" on fedfs-utils
-* skamath upvoted "module" on fedfs-utils
-* skamath upvoted "tools" on fedfs-utils
-* skamath upvoted "logicgame" on findthatword
-* skamath upvoted "word" on findthatword
-* skamath upvoted "game" on findthatword
-* skamath upvoted "python" on python-mozbase
-* skamath upvoted "library" on python-mozbase
-* skamath upvoted "mozilla" on python-mozbase
-* skamath upvoted "lib" on python-mozbase
-* skamath upvoted "module" on python-mozbase
-* skamath upvoted "braille" on liblouis
-* skamath upvoted "a11y" on liblouis
-* skamath upvoted "liblouis +" on liblouis
-* skamath upvoted "translation" on liblouis
-* skamath's rank changed to 48
-* skamath upvoted "virtualization" on vhybridize
-* skamath upvoted "vhy" on vhybridize
-* skamath upvoted "vy" on vhybridize
-* skamath upvoted "vhybridize" on vhybridize
-* skamath upvoted "lib" on perl-Class-MethodMaker
-* skamath upvoted "module" on perl-Class-MethodMaker
-* skamath upvoted "library" on perl-Class-MethodMaker
-* skamath upvoted "media" on mediatomb
-* skamath upvoted "audio" on mediatomb
-* skamath upvoted "media server" on mediatomb
-* skamath upvoted "streaming" on mediatomb
-* skamath upvoted "python" on python-icalendar
-* skamath upvoted "lib" on python-icalendar
-* skamath upvoted "library" on python-icalendar
-* skamath upvoted "extension" on python-icalendar
-* skamath upvoted "q+" on herqq
-* skamath upvoted "herqq" on herqq
-* skamath upvoted "qq" on herqq
-* skamath upvoted "upnp" on herqq
-* skamath upvoted "library" on python-openid
-* skamath upvoted "openid" on python-openid
-* skamath upvoted "python" on python-openid
-* skamath upvoted "lib" on python-openid
-* skamath upvoted "module" on python-openid
-* skamath upvoted "web" on Fedora-Musicians_Guide-19-web-en-US
-* skamath upvoted "english" on Fedora-Musicians_Guide-19-web-en-US
-* skamath upvoted "documentation" on Fedora-Musicians_Guide-19-web-en-US
-* skamath upvoted "musicians" on Fedora-Musicians_Guide-19-web-en-US
-* skamath upvoted "guide" on Fedora-Musicians_Guide-19-web-en-US
-* skamath upvoted "jboss" on jboss-transaction-1.1-api
-* skamath upvoted "dictionary" on hyphen-kn
-* skamath upvoted "thesaurus" on hyphen-kn
-* skamath upvoted "kannada" on hyphen-kn
-* skamath upvoted "hyphenation" on hyphen-kn
-* skamath upvoted "lookup" on emacs-lookup
-* skamath upvoted "hardware" on ufraw
-* skamath upvoted "raw" on ufraw
-* skamath upvoted "photography" on ufraw
-* skamath upvoted "images" on ufraw
-* skamath upvoted "cameras" on ufraw
-* skamath upvoted "bibliography" on bibutils
-* skamath upvoted "latex" on bibutils
-* skamath upvoted "tools" on bibutils
-* skamath upvoted "conversion" on bibutils
-* skamath upvoted "tryton" on trytond-sale-opportunity
-* skamath upvoted "audio" on jackctlmmc
-* skamath upvoted "midi" on jackctlmmc
-* skamath upvoted "midi machine control" on jackctlmmc
-* skamath upvoted "mmc" on jackctlmmc
-* skamath upvoted "music" on jackctlmmc
-* skamath upvoted "file" on perl-File-Spec-Native
-* skamath upvoted "spec" on perl-File-Spec-Native
-* skamath upvoted "native" on perl-File-Spec-Native
-* skamath upvoted "perl" on perl-File-Spec-Native
-* skamath upvoted "sinhala" on hunspell-si
-* skamath upvoted "spell checker" on hunspell-si
-* skamath upvoted "dictionary" on hunspell-si
-* skamath upvoted "hunspell" on hunspell-si
-* skamath upvoted "huspell" on hunspell-si
-* skamath upvoted "bontmia" on bontmia
-* skamath upvoted "backup" on bontmia
-* skamath upvoted "finance" on homebank
-* skamath upvoted "account" on homebank
-* skamath upvoted "accounting" on homebank
-* skamath upvoted "budget" on homebank
-* skamath upvoted "checkbook" on homebank
-* skamath upvoted "pynag" on pynag
-* skamath upvoted "nagios" on pynag
-* skamath upvoted "monitoring" on pynag
-* skamath upvoted "jpegls" on CharLS
-* skamath upvoted "charls" on CharLS
-* skamath upvoted "metadata" on exiv2
-* skamath upvoted "xmp" on exiv2
-* skamath upvoted "exiv2" on exiv2
-* skamath upvoted "lib" on exiv2
-* skamath upvoted "iptc" on exiv2
-* skamath upvoted "javascript" on nodejs-simple-fmt
-* skamath upvoted "nodejs" on nodejs-simple-fmt
-* skamath upvoted "module" on rapidjson
-* skamath upvoted "js" on rapidjson
-* skamath upvoted "lib" on rapidjson
-* skamath upvoted "json" on rapidjson
-* skamath upvoted "library" on rapidjson
-* skamath upvoted "extension" on perl-Role-Basic
-* skamath upvoted "perl" on perl-Role-Basic
-* skamath upvoted "library" on perl-Role-Basic
-* skamath upvoted "plugin" on perl-Role-Basic
-* skamath upvoted "lib" on perl-Role-Basic
-* skamath upvoted "mathematics" on xcalc
-* skamath upvoted "calculator" on xcalc
-* skamath upvoted "nnet" on octave-nnet
-* skamath upvoted "neural network" on octave-nnet
-* skamath upvoted "octave" on octave-nnet
-* skamath upvoted "development" on ant
-* skamath upvoted "build" on ant
-* skamath upvoted "java" on ant
-* skamath upvoted "library" on perl-Log-Contextual
-* skamath upvoted "extension" on perl-Log-Contextual
-* skamath upvoted "log" on perl-Log-Contextual
-* skamath upvoted "logging" on perl-Log-Contextual
-* skamath upvoted "perl" on perl-Log-Contextual
-* skamath upvoted "icons" on elementary-xfce-icon-theme
-* skamath upvoted "icon" on elementary-xfce-icon-theme
-* skamath upvoted "customization" on elementary-xfce-icon-theme
-* skamath upvoted "xfce" on elementary-xfce-icon-theme
-* skamath upvoted "lru" on nodejs-lru-cache
-* skamath upvoted "cache" on nodejs-lru-cache
-* skamath upvoted "module" on nodejs-lru-cache
-* skamath upvoted "node.js" on nodejs-lru-cache
-* skamath upvoted "nodejs" on nodejs-lru-cache
-* skamath upvoted "networking" on websocketpp
-* skamath upvoted "socket" on websocketpp
-* skamath upvoted "web" on websocketpp
-* skamath upvoted "socketpp" on websocketpp
-* skamath upvoted "library" on websocketpp
-* skamath upvoted "jboss" on generic-jms-ra
-* skamath upvoted "chai" on nodejs-chai-connect-middleware
-* skamath upvoted "js" on nodejs-chai-connect-middleware
-* skamath upvoted "extension" on nodejs-chai-connect-middleware
-* skamath upvoted "javascript" on nodejs-chai-connect-middleware
-* skamath upvoted "library" on nodejs-chai-connect-middleware
-* skamath upvoted "notifications" on notification-daemon-engine-nodoka
-* skamath upvoted "nodoca" on notification-daemon-engine-nodoka
-* skamath upvoted "notification_daemon" on notification-daemon-engine-nodoka
-* skamath upvoted "engine" on notification-daemon-engine-nodoka
-* skamath upvoted "nodoka" on notification-daemon-engine-nodoka
-* skamath upvoted "cascading style sheets" on python-cssutils
-* skamath upvoted "python" on python-cssutils
-* skamath upvoted "css" on python-cssutils
-* skamath upvoted "cssutils" on python-cssutils
-* skamath upvoted "texttools" on nfoview
-* skamath upvoted "gtk" on nfoview
-* skamath upvoted "ascii" on nfoview
-* skamath upvoted "viewer" on nfoview
-* skamath upvoted "nfo" on nfoview
-* skamath upvoted "socat" on socat
-* skamath upvoted "relay" on socat
-* skamath upvoted "netcat" on socat
-* skamath upvoted "xorg" on dmz-cursor-themes
-* skamath upvoted "x" on dmz-cursor-themes
-* skamath upvoted "theme" on dmz-cursor-themes
-* skamath upvoted "netlabel" on netlabel_tools
-* skamath upvoted "cursor" on dmz-cursor-themes
-* skamath upvoted "packet marking" on netlabel_tools
-* skamath upvoted "notification" on stalonetray
-* skamath upvoted "tray" on stalonetray
-* skamath upvoted "desktop" on stalonetray
-* skamath upvoted "nodejs" on nodejs-chai
-* skamath upvoted "chai" on nodejs-chai
-* skamath upvoted "infomas" on infomas-asl
-* skamath upvoted "java annotation" on infomas-asl
-* skamath upvoted "asl" on infomas-asl
-* skamath upvoted "nose" on python-nose-progressive
-* skamath upvoted "extension" on python-nose-progressive
-* skamath upvoted "unit test" on python-nose-progressive
-* skamath upvoted "python" on python-nose-progressive
-* skamath upvoted "gobject" on libzeitgeist
-* skamath upvoted "index" on libzeitgeist
-* skamath upvoted "library" on libzeitgeist
-* skamath upvoted "lib" on libzeitgeist
-* skamath upvoted "zeitgeist" on libzeitgeist
-* skamath upvoted "fedora 19" on Fedora-Release_Notes-19-web-en-US
-* skamath upvoted "notes" on Fedora-Release_Notes-19-web-en-US
-* skamath upvoted "release" on Fedora-Release_Notes-19-web-en-US
-* skamath upvoted "synopsis" on synopsis
-* skamath upvoted "public" on metromap
-* skamath upvoted "subway" on metromap
-* skamath upvoted "path-finding" on metromap
-* skamath upvoted "navigation" on metromap
-* skamath upvoted "moscow" on metromap
-* skamath upvoted "drupal" on drupal7-date_ical
-* skamath upvoted "manipulating" on drupal7-date_ical
-* skamath upvoted "ical" on drupal7-date_ical
-* skamath upvoted "eficency" on drupal7-date_ical
-* skamath upvoted "drupal7" on drupal7-date_ical
-* skamath upvoted "plexus" on plexus-utils
-* skamath upvoted "java" on plexus-utils
-* skamath upvoted "development" on plexus-utils
-* skamath upvoted "lib" on rubygem-rails_warden
-* skamath upvoted "warden" on rubygem-rails_warden
-* skamath upvoted "module" on rubygem-rails_warden
-* skamath upvoted "ruby on rails" on rubygem-rails_warden
-* skamath upvoted "ruby" on rubygem-rails_warden
-* skamath upvoted "ham radio" on aprsd
-* skamath upvoted "aprs" on aprsd
-* skamath upvoted "packet radio" on aprsd
-* skamath upvoted "ibus" on ibus-table-chinese
-* skamath upvoted "chinese" on ibus-table-chinese
-* skamath upvoted "iso" on xbiso
-* skamath upvoted "dvd" on xbiso
-* skamath upvoted "extension" on libsigsegv
-* skamath upvoted "library" on libsigsegv
-* skamath upvoted "lib" on libsigsegv
-* skamath upvoted "module" on libsigsegv
-* skamath upvoted "segv" on libsigsegv
-* skamath upvoted "password" on pdfcrack
-* skamath upvoted "recovery" on pdfcrack
-* skamath upvoted "pdf" on pdfcrack
-* skamath upvoted "astronomy" on spacechart
-* skamath upvoted "chart" on spacechart
-* skamath upvoted "mapping" on spacechart
-* skamath upvoted "star" on spacechart
-* skamath upvoted "gnu" on spacechart
-* skamath upvoted "tdd" on perl-Test-WWW-Mechanize
-* skamath upvoted "web" on perl-Test-WWW-Mechanize
-* skamath upvoted "www" on perl-Test-WWW-Mechanize
-* skamath upvoted "perl" on perl-Test-WWW-Mechanize
-* skamath upvoted "test driven development" on perl-Test-WWW-Mechanize
-* skamath upvoted "perl" on perl-constant
-* skamath upvoted "security" on nss-softokn
-* skamath upvoted "library" on nss-softokn
-* skamath upvoted "module" on nss-softokn
-* skamath upvoted "networking" on nss-softokn
-* skamath upvoted "lib" on nss-softokn
-* skamath upvoted "java" on nodejs-muffin
-* skamath upvoted "library" on nodejs-muffin
-* skamath upvoted "node.js" on nodejs-muffin
-* skamath upvoted "plugin" on nodejs-muffin
-* skamath upvoted "javascript" on nodejs-muffin
-* skamath upvoted "library" on perl-HTML-Strip
-* skamath upvoted "module" on perl-HTML-Strip
-* skamath upvoted "perl" on perl-HTML-Strip
-* skamath upvoted "lib" on perl-HTML-Strip
-* skamath upvoted "html" on perl-HTML-Strip
-* skamath upvoted "gtk" on arandr
-* skamath upvoted "displays" on arandr
-* skamath upvoted "xrandr" on arandr
-* skamath upvoted "resolution" on arandr
-* skamath upvoted "rubygem" on rubygem-raindrops
-* skamath upvoted "monitoring" on rubygem-raindrops
-* skamath upvoted "rack" on rubygem-raindrops
-* skamath upvoted "real-time" on rubygem-raindrops
-* skamath upvoted "ruby" on rubygem-raindrops
-* skamath upvoted "fonts" on stix-fonts
-* skamath upvoted "sitx" on stix-fonts
-* skamath upvoted "install" on maven-install-plugin
-* skamath upvoted "maven" on maven-install-plugin
-* skamath upvoted "plugin" on maven-install-plugin
-* skamath upvoted "module" on perl-File-ShareDir-ProjectDistDir
-* skamath upvoted "mod" on perl-File-ShareDir-ProjectDistDir
-* skamath upvoted "extention" on perl-File-ShareDir-ProjectDistDir
-* skamath upvoted "library" on perl-File-ShareDir-ProjectDistDir
-* skamath upvoted "share" on perl-File-ShareDir-ProjectDistDir
-* skamath upvoted "horde" on php-horde-Horde-Xml-Element
-* skamath upvoted "php" on php-horde-Horde-Xml-Element
-* skamath upvoted "perl" on php-horde-Horde-Xml-Element
-* skamath upvoted "xml" on php-horde-Horde-Xml-Element
-* skamath upvoted "perl" on perl-B-Hooks-OP-Check-StashChange
-* skamath upvoted "stashchange" on perl-B-Hooks-OP-Check-StashChange
-* skamath upvoted "hooks" on perl-B-Hooks-OP-Check-StashChange
-* skamath upvoted "opcode" on perl-B-Hooks-OP-Check-StashChange
-* skamath upvoted "namespace" on perl-B-Hooks-OP-Check-StashChange
-* skamath upvoted "cup" on java_cup
-* skamath upvoted "interpreter" on java_cup
-* skamath upvoted "java" on java_cup
-* skamath upvoted "extension" on perl-Graphics-ColorNames-WWW
-* skamath upvoted "lib" on perl-Graphics-ColorNames-WWW
-* skamath upvoted "library" on perl-Graphics-ColorNames-WWW
-* skamath upvoted "perl" on perl-Graphics-ColorNames-WWW
-* skamath upvoted "module" on perl-Graphics-ColorNames-WWW
-* skamath upvoted "plugin" on perl-Tree-Simple
-* skamath upvoted "module" on perl-Tree-Simple
-* skamath upvoted "library" on perl-Tree-Simple
-* skamath upvoted "tree" on perl-Tree-Simple
-* skamath upvoted "extension" on perl-Tree-Simple
-* skamath upvoted "mingw" on mingw-portablexdr
-* skamath upvoted "mingw xdr" on mingw-portablexdr
-* skamath upvoted "critic" on perl-Test-Perl-Critic-Progressive
-* skamath upvoted "library" on perl-Test-Perl-Critic-Progressive
-* skamath upvoted "perl" on perl-Test-Perl-Critic-Progressive
-* skamath upvoted "lib" on perl-Test-Perl-Critic-Progressive
-* skamath upvoted "perl critic" on perl-Test-Perl-Critic-Progressive
-* skamath upvoted "xfce4" on xfce4-genmon-plugin
-* skamath upvoted "xfce" on xfce4-genmon-plugin
-* skamath upvoted "monitor plugin" on xfce4-genmon-plugin
-* skamath upvoted "lib" on php-horde-Horde-Auth
-* skamath upvoted "module" on php-horde-Horde-Auth
-* skamath upvoted "php" on php-horde-Horde-Auth
-* skamath upvoted "horde" on php-horde-Horde-Auth
-* skamath upvoted "authentication" on php-horde-Horde-Auth
-* skamath upvoted "conversion" on perl-ExtUtils-ParseXS
-* skamath upvoted "c" on perl-ExtUtils-ParseXS
-* skamath upvoted "xs" on perl-ExtUtils-ParseXS
-* skamath upvoted "perl" on perl-ExtUtils-ParseXS
-* skamath upvoted "parsexs" on perl-ExtUtils-ParseXS
-* skamath upvoted "dictionary" on aspell-mr
-* skamath upvoted "thesaurus" on aspell-mr
-* skamath upvoted "aspell" on aspell-mr
-* skamath upvoted "marathi" on aspell-mr
-* skamath upvoted "dictionnaries" on aspell-mr
-* skamath upvoted "gem" on rubygem-parallel
-* skamath upvoted "ruby" on rubygem-parallel
-* skamath upvoted "library" on rubygem-parallel
-* skamath upvoted "rubygem" on rubygem-parallel
-* skamath upvoted "module" on rubygem-parallel
-* skamath upvoted "library" on libwiimote
-* skamath upvoted "console" on libwiimote
-* skamath upvoted "wii" on libwiimote
-* skamath upvoted "remote" on libwiimote
-* skamath upvoted "gaming" on libwiimote
-* skamath upvoted "network" on perl-Crypt-OpenSSL-AES
-* skamath upvoted "extension" on perl-Crypt-OpenSSL-AES
-* skamath upvoted "cryptography" on perl-Crypt-OpenSSL-AES
-* skamath upvoted "lib" on perl-Crypt-OpenSSL-AES
-* skamath upvoted "ssl" on perl-Crypt-OpenSSL-AES
-* skamath upvoted "runner" on sandbox-runner-data
-* skamath upvoted "selinux" on sandbox-runner-data
-* skamath upvoted "sandbox" on sandbox-runner-data
-* skamath upvoted "lldp" on lldpad
-* skamath upvoted "link layer discovery protocol" on lldpad
-* skamath upvoted "intel" on lldpad
-* skamath upvoted "daemon" on lldpad
-* skamath upvoted "key-value" on python-anykeystore
-* skamath upvoted "python" on python-anykeystore
-* skamath upvoted "lib" on libdsk
-* skamath upvoted "disk images" on libdsk
-* skamath upvoted "library" on libdsk
-* skamath upvoted "java" on jboss-j2eemgmt-1.1-api
-* skamath upvoted "jboss" on jboss-j2eemgmt-1.1-api
-* skamath upvoted "jee" on jboss-j2eemgmt-1.1-api
-* skamath upvoted "kde" on kredentials
-* skamath upvoted "kerberos" on kredentials
-* skamath upvoted "maven" on maven-shared
-* skamath upvoted "apache" on maven-shared
-* skamath upvoted "java" on maven-shared
-* skamath upvoted "game" on redeclipse
-* skamath upvoted "perl" on perl-X11-Protocol
-* skamath upvoted "protocol" on perl-X11-Protocol
-* skamath upvoted "raw interface" on perl-X11-Protocol
-* skamath upvoted "x11" on perl-X11-Protocol
-* skamath upvoted "module" on python-Traits
-* skamath upvoted "python" on python-Traits
-* skamath upvoted "python3" on python-moksha-common
-* skamath upvoted "extension" on python-moksha-common
-* skamath upvoted "common" on python-moksha-common
-* skamath upvoted "moksha" on python-moksha-common
-* skamath upvoted "python" on python-moksha-common
-* skamath upvoted "parser" on dotconf
-* skamath upvoted "lib" on dotconf
-* skamath upvoted "config" on dotconf
-* skamath upvoted "library" on dotconf
-* skamath upvoted "module" on dotconf
-* skamath upvoted "extension" on php-pecl-memcache
-* skamath upvoted "library" on php-pecl-memcache
-* skamath upvoted "daemon" on php-pecl-memcache
-* skamath upvoted "memcache" on php-pecl-memcache
-* skamath upvoted "lib" on php-pecl-memcache
-* skamath upvoted "server" on gmediaserver
-* skamath upvoted "multimedia" on gmediaserver
-* skamath upvoted "multimedia server" on gmediaserver
-* skamath upvoted "media server" on gmediaserver
-* skamath upvoted "gnu" on gmediaserver
-* skamath upvoted "documentation" on Fedora-UEFI_Secure_Boot_Guide-21-web-ru-RU
-* skamath upvoted "golang" on golang-github-spf13-cobra
-* skamath upvoted "secure boot" on Fedora-UEFI_Secure_Boot_Guide-21-web-ru-RU
-* skamath upvoted "php" on php-pecl-yac
-* skamath upvoted "guide" on Fedora-UEFI_Secure_Boot_Guide-21-web-ru-RU
-* skamath upvoted "github" on golang-github-spf13-cobra
-* skamath upvoted "guide" on Fedora-UEFI_Secure_Boot_Guide-21-web-ru-RU
-* skamath upvoted "russian" on Fedora-UEFI_Secure_Boot_Guide-21-web-ru-RU
-* skamath upvoted "manipulating" on php-pecl-yac
-* skamath upvoted "library" on php-pecl-yac
-* skamath upvoted "lib" on php-pecl-yac
-* skamath upvoted "module" on php-pecl-yac
-* skamath downvoted "refernce" on nodejs-mapnik-reference
-* skamath upvoted "openstreetmap" on nodejs-mapnik-reference
-* skamath upvoted "nodejs" on nodejs-mapnik-reference
-* skamath upvoted "lib" on nodejs-mapnik-reference
-* skamath upvoted "javascript" on nodejs-mapnik-reference
-* skamath upvoted "refernce" on nodejs-mapnik-reference
-* skamath upvoted "gt5" on mingw-qt5-qtsvg
-* skamath upvoted "mingw" on mingw-qt5-qtsvg
-* skamath upvoted "qt5" on mingw-qt5-qtsvg
-* skamath upvoted "svg" on mingw-qt5-qtsvg
-* skamath upvoted "mignw" on mingw-qt5-qtsvg
-* skamath upvoted "signal" on octave-signal
-* skamath upvoted "octave" on octave-signal
-* skamath upvoted "eficiency" on octave-signal
-* skamath upvoted "manipulating" on octave-signal
-* skamath upvoted "scientific" on octave-signal
-* skamath upvoted "documentation" on system-config-samba-docs
-* skamath upvoted "network neighborhood" on system-config-samba-docs
-* skamath upvoted "docs" on system-config-samba-docs
-* skamath upvoted "samba" on system-config-samba-docs
-* skamath upvoted "windows network" on system-config-samba-docs
-* skamath upvoted "maven" on maven-mapping
-* skamath upvoted "java" on maven-mapping
-* skamath's rank changed to 51
-* skamath upvoted "doc" on tcl-html
-* skamath upvoted "html" on tcl-html
-* skamath upvoted "manual" on tcl-html
-* skamath added tag "games" to childsplay
-* skamath upvoted "authentication" on authconfig
-* skamath upvoted "sysadmin" on authconfig
-* skamath upvoted "administration" on authconfig
-* skamath upvoted "fedora" on authconfig
-* skamath upvoted "configuration" on authconfig
-* skamath upvoted "module" on perl-Digest
-* skamath upvoted "library" on perl-Digest
-* skamath upvoted "perl" on perl-Digest
-* skamath upvoted "lib" on perl-Digest
-* skamath upvoted "game" on glaxium
-* skamath upvoted "shooting game" on glaxium
-* skamath upvoted "games" on glaxium
-* skamath upvoted "library" on perl-Lingua-Identify
-* skamath upvoted "lib" on perl-Lingua-Identify
-* skamath upvoted "module" on perl-Lingua-Identify
-* skamath upvoted "perl" on perl-Lingua-Identify
-* skamath upvoted "image" on eyesight
-* skamath upvoted "viewer" on eyesight
-* skamath upvoted "images" on eyesight
-* skamath upvoted "hawaii" on eyesight
-* skamath upvoted "bash" on powerline
-* skamath upvoted "powerline" on powerline
-* skamath upvoted "tmux" on powerline
-* skamath upvoted "plugin" on powerline
-* skamath upvoted "vim" on powerline
-* skamath upvoted "eficiency" on mingw-winstorecompat
-* skamath upvoted "library" on mingw-winstorecompat
-* skamath upvoted "mingw" on mingw-winstorecompat
-* skamath upvoted "manipulating" on mingw-winstorecompat
-* skamath upvoted "plugin" on rubygem-progressbar
-* skamath upvoted "prograssbar" on rubygem-progressbar
-* skamath upvoted "measurement" on ebumeter
-* skamath upvoted "audio" on ebumeter
-* skamath upvoted "ebu-r128" on ebumeter
-* skamath upvoted "plugin" on perl-Convert-NLS_DATE_FORMAT
-* skamath upvoted "lib" on perl-Convert-NLS_DATE_FORMAT
-* skamath upvoted "perl" on perl-Convert-NLS_DATE_FORMAT
-* skamath upvoted "library" on perl-Convert-NLS_DATE_FORMAT
-* skamath upvoted "date" on perl-Convert-NLS_DATE_FORMAT
-* skamath upvoted "lib" on python-cpuinfo
-* skamath upvoted "library" on python-cpuinfo
-* skamath upvoted "extension" on python-cpuinfo
-* skamath upvoted "cpuinfo" on python-cpuinfo
-* skamath upvoted "module" on python-cpuinfo
-* skamath upvoted "eficency" on perl-HTML-Format
-* skamath upvoted "manipulating" on perl-HTML-Format
-* skamath upvoted "module" on perl-HTML-Format
-* skamath upvoted "formatting" on perl-HTML-Format
-* skamath upvoted "perl" on perl-HTML-Format
-* skamath upvoted "javascript" on nodejs-assertion-error
-* skamath upvoted "assertion" on nodejs-assertion-error
-* skamath upvoted "node" on nodejs-assertion-error
-* skamath upvoted "module" on nodejs-assertion-error
-* skamath upvoted "js" on nodejs-assertion-error
-* skamath upvoted "gem" on rubygem-fog
-* skamath upvoted "ruby" on rubygem-fog
-* skamath upvoted "rubygem" on rubygem-fog
-* skamath upvoted "fog" on rubygem-fog
-* skamath upvoted "gresistor" on gresistor
-* skamath upvoted "resistor" on gresistor
-* skamath upvoted "gnome" on gresistor
-* skamath upvoted "electronics" on gresistor
-* skamath upvoted "plugins" on perl-XML-Catalog
-* skamath upvoted "cpan" on perl-XML-Catalog
-* skamath upvoted "extentions" on perl-XML-Catalog
-* skamath upvoted "perl" on perl-XML-Catalog
-* skamath upvoted "mod" on perl-XML-Catalog
-* skamath upvoted "library" on nodejs-type-detect
-* skamath upvoted "js" on nodejs-type-detect
-* skamath upvoted "plugin" on nodejs-type-detect
-* skamath upvoted "extension" on nodejs-type-detect
-* skamath upvoted "node.js" on nodejs-type-detect
-* skamath upvoted "library" on python-feedparser
-* skamath upvoted "lib" on python-feedparser
-* skamath upvoted "atom" on python-feedparser
-* skamath upvoted "parser" on python-feedparser
-* skamath upvoted "manipulating" on python-feedparser
-* skamath upvoted "game" on adonthell
-* skamath upvoted "games" on adonthell
-* skamath upvoted "rpg" on adonthell
-* skamath upvoted "disk" on wipe
-* skamath upvoted "gui" on grig
-* skamath upvoted "amateur radio" on grig
-* skamath upvoted "ham radio" on grig
-* skamath upvoted "module" on perl-MIME-Types
-* skamath upvoted "plugin" on perl-MIME-Types
-* skamath upvoted "mime" on perl-MIME-Types
-* skamath upvoted "lib" on perl-MIME-Types
-* skamath upvoted "extension" on perl-MIME-Types
-* skamath upvoted "syslog" on syslog-ng
-* skamath upvoted "system event logging" on syslog-ng
-* skamath upvoted "extension" on perl-DateTime-Precise
-* skamath upvoted "lib" on perl-DateTime-Precise
-* skamath upvoted "precise" on perl-DateTime-Precise
-* skamath upvoted "module" on perl-DateTime-Precise
-* skamath upvoted "gps" on perl-DateTime-Precise
-* skamath upvoted "module" on python-fn
-* skamath upvoted "lib" on python-fn
-* skamath upvoted "library" on python-fn
-* skamath upvoted "functional programming" on python-fn
-* skamath upvoted "python" on python-fn
-* skamath upvoted "mod" on gimp-paint-studio
-* skamath upvoted "module" on gimp-paint-studio
-* skamath upvoted "draw" on gimp-paint-studio
-* skamath upvoted "preset" on gimp-paint-studio
-* skamath upvoted "gimp" on gimp-paint-studio
-* skamath upvoted "nimbus" on nimbus
-* skamath upvoted "desktop" on nimbus
-* skamath upvoted "theme" on nimbus
-* skamath upvoted "bz2" on lbzip2-utils
-* skamath upvoted "bzip2" on lbzip2-utils
-* skamath upvoted "http" on httptunnel
-* skamath upvoted "tunnel" on httptunnel
-* skamath upvoted "gnu" on httptunnel
-* skamath added tag "image processing" to octave-image
-* skamath added tag "octave" to octave-image
-* skamath upvoted "transformation" on octave-image
-* skamath upvoted "graphics" on octave-image
-* skamath upvoted "editor" on octave-image
-* skamath upvoted "image-processing" on octave-image
-* skamath upvoted "image" on octave-image
-* skamath downvoted "graphics" on octave-image
-* skamath added tag "list split" to ghc-split
-* skamath added tag "combinator" to ghc-split
-* skamath upvoted "haskell" on ghc-split
-* skamath upvoted "split" on ghc-split
-* skamath upvoted "ghc" on ghc-split
-* skamath upvoted "library" on ghc-split
-* skamath added tag "rubygem" to rubygem-levenshtein
-* skamath added tag "ruby" to rubygem-levenshtein
-* skamath upvoted "levenshtein" on rubygem-levenshtein
-* skamath upvoted "lib" on rubygem-levenshtein
-* skamath upvoted "gen" on rubygem-levenshtein
-* skamath upvoted "gem" on rubygem-levenshtein
-* skamath upvoted "shtein" on rubygem-levenshtein
-* skamath upvoted "php" on php-pear-Crypt-CHAP
-* skamath upvoted "chap" on php-pear-Crypt-CHAP
-* skamath upvoted "pear" on php-pear-Crypt-CHAP
-* skamath upvoted "crypt" on php-pear-Crypt-CHAP
-* skamath added tag "crptography" to php-pear-Crypt-CHAP
-* skamath added tag "crypto" to php-pear-Crypt-CHAP
-* skamath upvoted "wmcalclock" on wmCalClock
-* skamath upvoted "clock" on wmCalClock
-* skamath upvoted "calendar" on wmCalClock
-* skamath added tag "utility" to ima-evm-utils
-* skamath upvoted "filesystem" on ima-evm-utils
-* skamath upvoted "evm" on ima-evm-utils
-* skamath upvoted "ima" on ima-evm-utils
-* skamath upvoted "security" on ima-evm-utils
-* skamath added tag "base" to libreoffice-base
-* skamath added tag "office tools" to libreoffice-base
-* skamath added tag "office" to libreoffice-base
-* skamath added tag "odp" to libreoffice-base
-* skamath added tag "doc" to libreoffice-base
-* skamath downvoted "offimatic" on libreoffice-base
-* skamath upvoted "office suite" on libreoffice-base
-* skamath upvoted "offimatic" on libreoffice-base
-* skamath upvoted "libreoffice" on libreoffice-base
-* skamath upvoted "database" on libreoffice-base
-* skamath upvoted "frontend" on libreoffice-base
-* skamath added tag "buildsystem" to buildsystem
-* skamath upvoted "build" on buildsystem
-* skamath added tag "archive extract" to perl-Archive-Any-Lite
-* skamath added tag "package extract" to perl-Archive-Any-Lite
-* skamath added tag "cpan" to perl-Archive-Any-Lite
-* skamath upvoted "module" on perl-Archive-Any-Lite
-* skamath upvoted "lib" on perl-Archive-Any-Lite
-* skamath upvoted "archive" on perl-Archive-Any-Lite
-* skamath upvoted "perl" on perl-Archive-Any-Lite
-* skamath upvoted "library" on perl-Archive-Any-Lite
-* skamath added tag "integrated development environment" to eclipse-platform
-* skamath added tag "c++ ide" to eclipse-platform
-* skamath added tag "java ide" to eclipse-platform
-* skamath added tag "ide" to eclipse-platform
-* skamath upvoted "eclipse" on eclipse-platform
-* skamath upvoted "c ide" on eclipse-platform
-* skamath upvoted "c++" on eclipse-platform
-* skamath downvoted "files" on eclipse-platform
-* skamath upvoted "development" on eclipse-platform
-* skamath added tag "catalyst" to perl-Catalyst-Authentication-Store-DBIx-Class
-* skamath added tag "store" to perl-Catalyst-Authentication-Store-DBIx-Class
-* skamath added tag "class" to perl-Catalyst-Authentication-Store-DBIx-Class
-* skamath upvoted "authentication" on perl-Catalyst-Authentication-Store-DBIx-Class
-* skamath upvoted "dbix" on perl-Catalyst-Authentication-Store-DBIx-Class
-* skamath upvoted "perl" on perl-Catalyst-Authentication-Store-DBIx-Class
-* skamath added tag "fedora" to sugar-hello-world
-* skamath added tag "hello world" to sugar-hello-world
-* skamath added tag "world" to sugar-hello-world
-* skamath added tag "hello" to sugar-hello-world
-* skamath upvoted "sugar world" on sugar-hello-world
-* skamath upvoted "sugar" on sugar-hello-world
-* skamath upvoted "jobid" on glite-jobid-api-c
-* skamath upvoted "library" on glite-jobid-api-c
-* skamath upvoted "glite" on glite-jobid-api-c
-* skamath upvoted "lib" on glite-jobid-api-c
-* skamath added tag "strings" to perl-FreezeThaw
-* skamath added tag "convertor" to perl-FreezeThaw
-* skamath added tag "structure" to perl-FreezeThaw
-* skamath upvoted "perl" on perl-FreezeThaw
-* skamath downvoted "jperl" on perl-FreezeThaw
-* skamath's rank changed to 56
-* skamath upvoted "programming" on lua-sql
-* skamath upvoted "lua" on lua-sql
-* skamath upvoted "bridge" on lua-sql
-* skamath upvoted "sql" on lua-sql
-* skamath upvoted "development" on lua-sql
-* skamath added tag "manipulation" to patchutils
-* skamath added tag "patching" to patchutils
-* skamath added tag "collection" to patchutils
-* skamath added tag "programs" to patchutils
-* skamath upvoted "development" on patchutils
-* skamath upvoted "chutils" on patchutils
-* skamath upvoted "patch" on patchutils
-* skamath added tag "interactive" to teeworlds
-* skamath added tag "teeworlds" to teeworlds
-* skamath added tag "gui" to teeworlds
-* skamath upvoted "shooter" on teeworlds
-* skamath upvoted "game" on teeworlds
-* skamath added tag "python2" to python-socketpool
-* skamath added tag "python3" to python-socketpool
-* skamath added tag "sockets" to python-socketpool
-* skamath added tag "socket programming" to python-socketpool
-* skamath upvoted "library" on python-socketpool
-* skamath upvoted "lib" on python-socketpool
-* skamath upvoted "ketpool" on python-socketpool
-* skamath upvoted "socketpool" on python-socketpool
-* skamath upvoted "python" on python-socketpool
-* skamath added tag "pyx" to PyX
-* skamath upvoted "python" on PyX
-* skamath upvoted "graphics" on PyX
-* skamath added tag "lcdproc" to lcdproc
-* skamath upvoted "lcd display" on lcdproc
-* skamath upvoted "realtime" on lcdproc
-* skamath upvoted "system information" on lcdproc
-* skamath upvoted "plugins" on gstreamer-plugins-bad-free
-* skamath upvoted "framework" on gstreamer-plugins-bad-free
-* skamath upvoted "gstreamer" on gstreamer-plugins-bad-free
-* skamath added tag "fork" to perl-Child
-* skamath added tag "interface" to perl-Child
-* skamath added tag "object oriented" to perl-Child
-* skamath added tag "oops" to perl-Child
-* skamath upvoted "perl" on perl-Child
-* skamath upvoted "programming" on perl-Child
-* skamath upvoted "symbols" on stix-fonts
-* skamath upvoted "scientific" on stix-fonts
-* skamath upvoted "stix" on stix-fonts
-* skamath upvoted "engineering" on stix-fonts
-* skamath upvoted "font" on stix-fonts
-* skamath added tag "httplib2" to python-httplib2
-* skamath added tag "httplib" to python-httplib2
-* skamath added tag "python3" to python-httplib2
-* skamath added tag "import" to python-httplib2
-* skamath added tag "modules" to python-httplib2
-* skamath added tag "web" to python-httplib2
-* skamath upvoted "http client" on python-httplib2
-* skamath upvoted "lib" on python-httplib2
-* skamath upvoted "module" on python-httplib2
-* skamath upvoted "library" on python-httplib2
-* skamath upvoted "python" on python-httplib2
-* skamath added tag "programming" to php-horde-Horde-Serialize
-* skamath added tag "web" to php-horde-Horde-Serialize
-* skamath added tag "encapsulation" to php-horde-Horde-Serialize
-* skamath added tag "encapuslation" to php-horde-Horde-Serialize
-* skamath added tag "data" to php-horde-Horde-Serialize
-* skamath upvoted "module" on php-horde-Horde-Serialize
-* skamath upvoted "horde" on php-horde-Horde-Serialize
-* skamath upvoted "library" on php-horde-Horde-Serialize
-* skamath upvoted "api" on php-horde-Horde-Serialize
-* skamath upvoted "php" on php-horde-Horde-Serialize
-* skamath downvoted "flak" on python-flask-silk
-* skamath upvoted "flak" on python-flask-silk
-* skamath downvoted "flak" on python-flask-silk
-* skamath upvoted "python" on python-flask-silk
-* skamath upvoted "flak" on python-flask-silk
-* skamath upvoted "flask" on python-flask-silk
-* skamath upvoted "library" on python-gudev
-* skamath upvoted "binding" on python-gudev
-* skamath upvoted "python" on python-gudev
-* skamath upvoted "udev" on python-gudev
-* skamath upvoted "gudev" on python-gudev
-* skamath added tag "html form" to perl-HTML-Form
-* skamath added tag "form" to perl-HTML-Form
-* skamath added tag "html parsing" to perl-HTML-Form
-* skamath added tag "parsing" to perl-HTML-Form
-* skamath upvoted "library" on perl-HTML-Form
-* skamath upvoted "html" on perl-HTML-Form
-* skamath upvoted "extension" on perl-HTML-Form
-* skamath upvoted "perl" on perl-HTML-Form
-* skamath upvoted "module" on perl-HTML-Form
-* skamath added tag "tinyproxy" to tinyproxy
-* skamath added tag "proxy daemon" to tinyproxy
-* skamath added tag "ssl proxy" to tinyproxy
-* skamath added tag "ssl prox" to tinyproxy
-* skamath upvoted "ssl" on tinyproxy
-* skamath upvoted "http" on tinyproxy
-* skamath upvoted "daemon" on tinyproxy
-* skamath upvoted "proxy" on tinyproxy
-* skamath added tag "imaging" to epstool
-* skamath added tag "image preview" to epstool
-* skamath added tag "utility" to epstool
-* skamath upvoted "images" on epstool
-* skamath upvoted "preview" on epstool
-* skamath upvoted "eps" on epstool
-* skamath added tag "indian" to lohit-bengali-fonts
-* skamath added tag "bengali" to lohit-bengali-fonts
-* skamath upvoted "fonts" on lohit-bengali-fonts
-* skamath upvoted "ttf" on lohit-bengali-fonts
-* skamath upvoted "lohit" on lohit-bengali-fonts
-* skamath upvoted "truetype" on lohit-bengali-fonts
-* skamath upvoted "font" on lohit-bengali-fonts
-* skamath added tag "window" to matchbox-window-manager
-* skamath upvoted "wm" on matchbox-window-manager
-* skamath upvoted "window manager" on matchbox-window-manager
-* skamath upvoted "matchbox" on matchbox-window-manager
-* skamath upvoted "desktop" on matchbox-window-manager
-* skamath added tag "api" to datanommer-commands
-* skamath added tag "terminal" to datanommer-commands
-* skamath added tag "data" to datanommer-commands
-* skamath added tag "fedora" to datanommer-commands
-* skamath upvoted "console" on datanommer-commands
-* skamath upvoted "datanommer" on datanommer-commands
-* skamath upvoted "commands" on datanommer-commands
-* skamath added tag "logs" to python-narcissus-common
-* skamath added tag "components" to python-narcissus-common
-* skamath added tag "compomemts" to python-narcissus-common
-* skamath added tag "realtime" to python-narcissus-common
-* skamath upvoted "narcissus" on python-narcissus-common
-* skamath upvoted "logging" on python-narcissus-common
-* skamath upvoted "python" on python-narcissus-common
-* skamath upvoted "visualization" on python-narcissus-common
-* skamath upvoted "fedora" on fedora-security-guide
-* skamath upvoted "security" on fedora-security-guide
-* skamath upvoted "docs" on fedora-security-guide
-* skamath upvoted "documentation" on fedora-security-guide
-* skamath upvoted "guide" on fedora-security-guide
-* skamath upvoted "module" on rubygem-will_paginate
-* skamath upvoted "lib" on rubygem-will_paginate
-* skamath upvoted "gem" on rubygem-will_paginate
-* skamath upvoted "ruby" on rubygem-will_paginate
-* skamath upvoted "library" on rubygem-will_paginate
-* skamath upvoted "log" on irclog2html
-* skamath upvoted "library" on irclog2html
-* skamath upvoted "lib" on irclog2html
-* skamath upvoted "irc" on irclog2html
-* skamath upvoted "cloghtml" on irclog2html
-* skamath upvoted "game" on grhino
-* skamath upvoted "go" on grhino
-* skamath upvoted "gnome" on grhino
-* skamath upvoted "perl" on perl-POE-Component-DBIAgent
-* skamath upvoted "database" on perl-POE-Component-DBIAgent
-* skamath upvoted "dbiagent" on perl-POE-Component-DBIAgent
-* skamath upvoted "dusmite" on dustmite
-* skamath upvoted "poe" on perl-POE-Component-DBIAgent
-* skamath upvoted "d" on dustmite
-* skamath added tag "extensions" to python-bitarray
-* skamath added tag "array" to python-bitarray
-* skamath added tag "boolean" to python-bitarray
-* skamath upvoted "bitarray" on python-bitarray
-* skamath upvoted "library" on python-tempita
-* skamath upvoted "text templating" on python-tempita
-* skamath upvoted "python" on python-bitarray
-* skamath upvoted "module" on python-tempita
-* skamath upvoted "python" on python-tempita
-* skamath upvoted "lib" on python-tempita
-* skamath upvoted "eclipse" on eclipse-m2e-cxf
-* skamath upvoted "cxf" on eclipse-m2e-cxf
-* skamath upvoted "ci" on annotation-indexer
-* skamath upvoted "jenkins" on annotation-indexer
-* skamath upvoted "continous integration" on annotation-indexer
-* skamath upvoted "unit-test" on annotation-indexer
-* skamath upvoted "java" on annotation-indexer
-* skamath added tag "network" to jung
-* skamath added tag "visualization" to jung
-* skamath added tag "graphs" to jung
-* skamath added tag "java" to jung
-* skamath added tag "framework" to jung
-* skamath added tag "jung" to jung
-* skamath added tag "programming" to perl-Shell
-* skamath added tag "coding" to perl-Shell
-* skamath added tag "code" to perl-Shell
-* skamath added tag "coce" to perl-Shell
-* skamath upvoted "lib" on perl-Convert-UUlib
-* skamath upvoted "library" on perl-Convert-UUlib
-* skamath upvoted "development" on perl-Convert-UUlib
-* skamath upvoted "perl" on perl-Convert-UUlib
-* skamath upvoted "module" on perl-Convert-UUlib
-* skamath upvoted "kde" on kf5-kcompletion
-* skamath upvoted "server" on nodejs
-* skamath upvoted "javascript" on nodejs
-* skamath upvoted "platform" on nodejs
-* skamath upvoted "node" on nodejs
-* skamath upvoted "scalable" on nodejs
-* skamath upvoted "selinux" on setools
-* skamath upvoted "analyzer" on setools
-* skamath upvoted "security" on setools
-* skamath upvoted "policy" on setools
-* skamath upvoted "security plus" on setools
-* skamath upvoted "gem" on rubygem-execjs
-* skamath upvoted "javascript" on rubygem-execjs
-* skamath upvoted "ruby" on rubygem-execjs
-* skamath upvoted "rsi" on xwrits
-* skamath upvoted "xwrits" on xwrits
-* skamath upvoted "python" on python-WSGIProxy2
-* skamath upvoted "module" on python-WSGIProxy2
-* skamath upvoted "library" on python-WSGIProxy2
-* skamath upvoted "proxy" on python-WSGIProxy2
-* skamath upvoted "wsgi" on python-WSGIProxy2
-* skamath upvoted "perl-v6" on perl-v6
-* skamath upvoted "perl" on perl-v6
-* skamath upvoted "parser" on perl-Parse-RecDescent
-* skamath upvoted "perl" on perl-Parse-RecDescent
-* skamath upvoted "libkdeedu" on libkdeedu
-* skamath upvoted "education" on libkdeedu
-* skamath upvoted "kde" on libkdeedu
-* skamath upvoted "lib" on libkdeedu
-* skamath upvoted "library" on libkdeedu
-* skamath upvoted "node.js" on nodejs-tern
-* skamath upvoted "nodejs" on nodejs-tern
-* skamath upvoted "plugin" on vim-nerdtree
-* skamath upvoted "vim" on vim-nerdtree
-* skamath upvoted "nerdtree" on vim-nerdtree
-* skamath upvoted "infiniband" on libmlx4
-* skamath upvoted "library" on libmlx4
-* skamath upvoted "lib" on perl-IO-Tty
-* skamath upvoted "perl" on perl-IO-Tty
-* skamath upvoted "pty" on perl-IO-Tty
-* skamath upvoted "module" on perl-IO-Tty
-* skamath upvoted "tty" on perl-IO-Tty
-* skamath upvoted "module" on python-telepathy
-* skamath upvoted "telepathy" on python-telepathy
-* skamath upvoted "module" on perl-DBIx-DBSchema
-* skamath upvoted "dbix" on perl-DBIx-DBSchema
-* skamath upvoted "schema" on perl-DBIx-DBSchema
-* skamath upvoted "library" on perl-DBIx-DBSchema
-* skamath upvoted "dbi" on perl-DBIx-DBSchema
-* skamath upvoted "fonts" on unifrakturmaguntia-fonts
-* skamath upvoted "font" on unifrakturmaguntia-fonts
-* skamath upvoted "cas" on perl-AuthCAS
-* skamath upvoted "plugin" on perl-AuthCAS
-* skamath upvoted "library" on perl-AuthCAS
-* skamath upvoted "extension" on perl-AuthCAS
-* skamath upvoted "lib" on perl-AuthCAS
-* skamath upvoted "library" on rubygem-rspec2-expectations
-* skamath upvoted "lib" on rubygem-rspec2-expectations
-* skamath upvoted "module" on rubygem-rspec2-expectations
-* skamath upvoted "ruby" on rubygem-rspec2-expectations
-* skamath upvoted "gem" on rubygem-rspec2-expectations
-* skamath upvoted "lib" on php-pecl-rrd
-* skamath upvoted "pecl" on php-pecl-rrd
-* skamath upvoted "rrd" on php-pecl-rrd
-* skamath upvoted "library" on php-pecl-rrd
-* skamath upvoted "php" on php-pecl-rrd
-* skamath upvoted "analytic" on trytond-analytic-invoice
-* skamath upvoted "erp" on trytond-analytic-invoice
-* skamath upvoted "business" on trytond-analytic-invoice
-* skamath upvoted "php" on php-pear-File-Find
-* skamath upvoted "lib" on php-pear-File-Find
-* skamath upvoted "extension" on php-pear-File-Find
-* skamath upvoted "filesystem" on php-pear-File-Find
-* skamath upvoted "search" on php-pear-File-Find
-* skamath upvoted "kill" on rafkill
-* skamath upvoted "rafkill" on rafkill
-* skamath upvoted "game" on rafkill
-* skamath upvoted "shooter" on rafkill
-* skamath upvoted "parse" on ghc-css-text
-* skamath upvoted "ghc" on ghc-css-text
-* skamath upvoted "parser" on ghc-css-text
-* skamath upvoted "css" on ghc-css-text
-* skamath upvoted "maven" on maven-ejb-plugin
-* skamath upvoted "haskell" on ghc-css-text
-* skamath upvoted "ejb" on maven-ejb-plugin
-* skamath upvoted "enterprise javabean" on maven-ejb-plugin
-* skamath upvoted "maven ejb" on maven-ejb-plugin
-* skamath upvoted "product.img" on fedora-productimg-workstation
-* skamath upvoted "branding" on fedora-productimg-workstation
-* skamath upvoted "installer" on fedora-productimg-workstation
-* skamath upvoted "anaconda" on fedora-productimg-workstation
-* skamath upvoted "manipulating" on apache-commons-net
-* skamath upvoted "protocol" on apache-commons-net
-* skamath upvoted "commons" on apache-commons-net
-* skamath upvoted "java" on apache-commons-net
-* skamath upvoted "apache" on apache-commons-net
-* skamath upvoted "tool" on dar
-* skamath upvoted "programming" on dar
-* skamath upvoted "module" on perl-Spoon
-* skamath upvoted "spoon" on perl-Spoon
-* skamath upvoted "extension" on perl-Spoon
-* skamath upvoted "perl" on perl-Spoon
-* skamath upvoted "doctest" on python-zc-customdoctests
-* skamath upvoted "spiffy" on perl-Spoon
-* skamath upvoted "python" on python-zc-customdoctests
-* skamath upvoted "lib" on python-zc-customdoctests
-* skamath upvoted "python zc" on python-zc-customdoctests
-* skamath upvoted "library" on python-zc-customdoctests
-* skamath upvoted "lib" on perl-OpenFrame
-* skamath upvoted "module" on perl-OpenFrame
-* skamath upvoted "openframe" on perl-OpenFrame
-* skamath upvoted "plugin" on perl-OpenFrame
-* skamath upvoted "perl" on perl-OpenFrame
-* skamath upvoted "desktop" on strigi
-* skamath upvoted "search" on strigi
-* skamath upvoted "engine" on strigi
-* skamath upvoted "index" on strigi
-* skamath upvoted "gnu" on gzip
-* skamath upvoted "plugin" on perl-Log-Dispatch
-* skamath upvoted "module" on perl-Log-Dispatch
-* skamath upvoted "dispatch" on perl-Log-Dispatch
-* skamath upvoted "perl" on perl-Log-Dispatch
-* skamath upvoted "lib" on perl-Log-Dispatch
-* skamath upvoted "ghc" on ghc-snap-server
-* skamath upvoted "hashkell" on ghc-snap-server
-* skamath upvoted "module" on ghc-snap-server
-* skamath upvoted "lib" on ghc-snap-server
-* skamath upvoted "library" on ghc-snap-server
-* skamath upvoted "audio" on kdemultimedia-kio_audiocd
-* skamath upvoted "multimedia" on kdemultimedia-kio_audiocd
-* skamath upvoted "kde" on kdemultimedia-kio_audiocd
-* skamath upvoted "qt" on kdemultimedia-kio_audiocd
-* skamath upvoted "korean" on naver-nanum-fonts
-* skamath upvoted "fonts" on naver-nanum-fonts
-* skamath upvoted "tds" on thredds
-* skamath upvoted "thredds" on thredds
-* skamath upvoted "client" on newsx
-* skamath upvoted "nntp" on newsx
-* skamath upvoted "media" on newsx
-* skamath upvoted "java" on jmdns
-* skamath upvoted "news" on newsx
-* skamath upvoted "development" on lv2-c++-tools
-* skamath upvoted "dns" on jmdns
-* skamath upvoted "bonjour" on jmdns
-* skamath upvoted "c++ tools" on lv2-c++-tools
-* skamath upvoted "c++" on lv2-c++-tools
-* skamath upvoted "lv2" on lv2-c++-tools
-* skamath upvoted "strong passwords" on pwgen
-* skamath upvoted "user accounts" on pwgen
-* skamath upvoted "password strength" on pwgen
-* skamath upvoted "perl" on perl-Text-vCard
-* skamath upvoted "vcard" on perl-Text-vCard
-* skamath upvoted "ninja" on ninja-ide
-* skamath upvoted "nija" on ninja-ide
-* skamath upvoted "python" on ninja-ide
-* skamath upvoted "ide" on ninja-ide
-* skamath upvoted "module" on perl-Mail-Mbox-MessageParser
-* skamath upvoted "parsing" on perl-Mail-Mbox-MessageParser
-* skamath upvoted "email" on perl-Mail-Mbox-MessageParser
-* skamath upvoted "mbox" on perl-Mail-Mbox-MessageParser
-* skamath upvoted "library" on perl-Mail-Mbox-MessageParser
-* skamath upvoted "minimondem" on minimodem
-* skamath upvoted "fsk" on minimodem
-* skamath upvoted "sound" on minimodem
-* skamath upvoted "ham radio" on minimodem
-* skamath upvoted "audio" on minimodem
-* skamath upvoted "farsi" on hunspell-fa
-* skamath upvoted "spell checker" on hunspell-fa
-* skamath upvoted "hunspell" on hunspell-fa
-* skamath upvoted "dictionary" on hunspell-fa
-* skamath upvoted "dictionaries" on hunspell-fa
-* skamath upvoted "system administration" on rtkit
-* skamath upvoted "processus" on rtkit
-* skamath upvoted "dbus" on rtkit
-* skamath upvoted "rtkit" on rtkit
-* skamath upvoted "thread" on rtkit
-* skamath upvoted "library" on python-gzipstream
-* skamath upvoted "module" on python-gzipstream
-* skamath upvoted "gzipstream" on python-gzipstream
-* skamath upvoted "streaming" on python-gzipstream
-* skamath upvoted "geronimo" on geronimo-jcdi-1.0-api
-* skamath upvoted "python" on python-gzipstream
-* skamath upvoted "api" on geronimo-jcdi-1.0-api
-* skamath upvoted "apache" on geronimo-jcdi-1.0-api
-* skamath upvoted "education" on katomic
-* skamath upvoted "games" on katomic
-* skamath upvoted "kde" on katomic
-* skamath upvoted "desktop" on katomic
-* skamath upvoted "ocaml" on ocaml-ocamlgraph
-* skamath upvoted "berusky" on berusky2-data
-* skamath upvoted "data" on berusky2-data
-* skamath upvoted "lossless" on libpgf
-* skamath upvoted "library" on libpgf
-* skamath upvoted "compression" on libpgf
-* skamath upvoted "pgf" on libpgf
-* skamath upvoted "graphics" on libpgf
-* skamath upvoted "osm" on mapnik
-* skamath upvoted "maps" on mapnik
-* skamath upvoted "tool" on mapnik
-* skamath upvoted "creator" on mapnik
-* skamath upvoted "openstreetmap" on mapnik
-* skamath upvoted "xml" on openjade
-* skamath upvoted "dsssl" on openjade
-* skamath upvoted "dms" on xdms
-* skamath upvoted "sgml" on openjade
-* skamath upvoted "archives" on xdms
-* skamath upvoted "xdms" on xdms
-* skamath upvoted "amiga" on xdms
-* skamath upvoted "qt" on qtwebkit
-* skamath upvoted "webkit" on qtwebkit
-* skamath upvoted "bindings" on qtwebkit
-* skamath upvoted "case" on perl-Unicode-Casing
-* skamath upvoted "perl" on perl-Unicode-Casing
-* skamath upvoted "casing" on perl-Unicode-Casing
-* skamath upvoted "kde" on kdesdk-strigi-analyzers
-* skamath upvoted "stringi" on kdesdk-strigi-analyzers
-* skamath upvoted "analyzer" on kdesdk-strigi-analyzers
-* skamath upvoted "library" on perl-HTML-StripScripts
-* skamath upvoted "html" on perl-HTML-StripScripts
-* skamath upvoted "perl" on perl-HTML-StripScripts
-* skamath upvoted "module" on perl-HTML-StripScripts
-* skamath upvoted "lib" on perl-HTML-StripScripts
-* skamath upvoted "polynomial" on Singular
-* skamath upvoted "algebra" on Singular
-* skamath upvoted "xfce" on xfce4-netload-plugin
-* skamath upvoted "network" on xfce4-netload-plugin
-* skamath upvoted "monitoring" on xfce4-netload-plugin
-* skamath upvoted "ruby" on rubygem-whiskey_disk
-* skamath upvoted "disk" on rubygem-whiskey_disk
-* skamath upvoted "gem" on rubygem-whiskey_disk
-* skamath upvoted "rubygem" on rubygem-whiskey_disk
-* skamath upvoted "whiskey" on rubygem-whiskey_disk
-* skamath upvoted "tool" on spew
-* skamath upvoted "io" on spew
-* skamath upvoted "performance" on spew
-* skamath upvoted "measurement" on spew
-* skamath upvoted "windows" on mingw-tk
-* skamath upvoted "tk" on mingw-tk
-* skamath upvoted "mingw" on mingw-tk
-* skamath upvoted "tcl" on mingw-tk
-* skamath upvoted "library" on mingw-tk
-* skamath upvoted "extension library" on perl-Test-Trap
-* skamath upvoted "development" on perl-Test-Trap
-* skamath upvoted "perl" on perl-Test-Trap
-* skamath upvoted "trap" on perl-Test-Trap
-* skamath upvoted "rack" on rubygem-rack-accept
-* skamath upvoted "module" on rubygem-rack-accept
-* skamath upvoted "rubygems" on rubygem-rack-accept
-* skamath upvoted "ruby" on rubygem-rack-accept
-* skamath upvoted "lib" on rubygem-rack-accept
-* skamath upvoted "backup" on holland
-* skamath upvoted "holland" on holland
-* skamath upvoted "python" on holland
-* skamath upvoted "database" on holland
-* skamath upvoted "devel" on perl-Devel-Autoflush
-* skamath upvoted "autoflush" on perl-Devel-Autoflush
-* skamath upvoted "perl" on perl-Devel-Autoflush
-* skamath upvoted "js" on nodejs-bluebird
-* skamath upvoted "php clib" on php-phpseclib-crypt-rc4
-* skamath upvoted "perl" on perl-Barcode-Code128
-* skamath upvoted "ean" on perl-Barcode-Code128
-* skamath upvoted "code128" on perl-Barcode-Code128
-* skamath upvoted "barcode" on perl-Barcode-Code128
-* skamath upvoted "upc" on perl-Barcode-Code128
-* skamath upvoted "crypt" on php-phpseclib-crypt-rc4
-* skamath upvoted "node.js" on nodejs-bluebird
-* skamath upvoted "php" on php-phpseclib-crypt-rc4
-* skamath upvoted "nodejs" on nodejs-bluebird
-* skamath upvoted "library" on nodejs-bluebird
-* skamath upvoted "bluebird" on nodejs-bluebird
-* skamath upvoted "todo" on gnotime
-* skamath upvoted "gnome" on gnotime
-* skamath upvoted "project management" on gnotime
-* skamath upvoted "time tracker" on gnotime
-* skamath upvoted "qt5" on mingw-qt5-qtwinextras
-* skamath upvoted "mingw" on mingw-qt5-qtwinextras
-* skamath upvoted "module" on rubygem-mail
-* skamath upvoted "library" on rubygem-mail
-* skamath upvoted "rubygem" on rubygem-mail
-* skamath upvoted "mail" on rubygem-mail
-* skamath upvoted "dsl" on rubygem-mail
-* skamath upvoted "ruby" on rubygem-mobileesp_converted
-* skamath upvoted "converterd" on rubygem-mobileesp_converted
-* skamath upvoted "rubygem" on rubygem-mobileesp_converted
-* skamath upvoted "input" on im-chooser
-* skamath upvoted "settings" on im-chooser
-* skamath upvoted "gtk" on im-chooser
-* skamath upvoted "input method" on im-chooser
-* skamath upvoted "cedilla" on im-chooser
-* skamath upvoted "filesystem" on xfsdump
-* skamath upvoted "xfs" on xfsdump
-* skamath upvoted "administration" on xfsdump
-* skamath upvoted "etl" on ETL
-* skamath upvoted "module" on perl-mime-construct
-* skamath upvoted "library" on perl-mime-construct
-* skamath upvoted "lib" on perl-mime-construct
-* skamath upvoted "mime" on perl-mime-construct
-* skamath upvoted "perl" on perl-mime-construct
-* skamath upvoted "mapping" on GMT
-* skamath upvoted "gmt" on GMT
-* skamath upvoted "eps" on GMT
-* skamath upvoted "map projections" on GMT
-* skamath upvoted "odverace" on odvorace
-* skamath upvoted "library" on python-smbc
-* skamath upvoted "samba" on python-smbc
-* skamath upvoted "smb" on python-smbc
-* skamath upvoted "client" on python-smbc
-* skamath upvoted "python" on python-smbc
-* skamath upvoted "lib" on perl-Statistics-CaseResampling
-* skamath upvoted "library" on perl-Statistics-CaseResampling
-* skamath upvoted "module" on perl-Statistics-CaseResampling
-* skamath upvoted "perl" on perl-Statistics-CaseResampling
-* skamath upvoted "plugin" on perl-Qt
-* skamath upvoted "lib" on perl-Qt
-* skamath upvoted "module" on perl-Qt
-* skamath upvoted "qt" on perl-Qt
-* skamath upvoted "extension" on perl-Qt
-* skamath upvoted "http" on golang-github-bmizerany-pat
-* skamath upvoted "net" on golang-github-bmizerany-pat
-* skamath upvoted "muxer" on golang-github-bmizerany-pat
-* skamath upvoted "golang" on golang-github-bmizerany-pat
-* skamath upvoted "mahjongg" on kshisen
-* skamath upvoted "game" on kshisen
-* skamath upvoted "kechi" on kshisen
-* skamath upvoted "xhosa" on hunspell-xh
-* skamath upvoted "spell checker" on hunspell-xh
-* skamath upvoted "hunspell" on hunspell-xh
-* skamath upvoted "hunsell" on hunspell-xh
-* skamath upvoted "dictionary" on hunspell-xh
-* skamath upvoted "gssapi" on gssntlmssp
-* skamath upvoted "ntlmssp" on gssntlmssp
-* skamath upvoted "psr" on php-psr-http-message
-* skamath upvoted "message" on php-psr-http-message
-* skamath upvoted "http" on php-psr-http-message
-* skamath upvoted "php" on php-psr-http-message
-* skamath upvoted "bug" on python-bugzilla
-* skamath upvoted "xml" on python-bugzilla
-* skamath upvoted "bugzilla" on python-bugzilla
-* skamath upvoted "python3" on python-bugzilla
-* skamath upvoted "python" on python-bugzilla
-* skamath upvoted "java" on sblim-cim-client2
-* skamath upvoted "cim" on sblim-cim-client2
-* skamath upvoted "sblim" on sblim-cim-client2
-* skamath upvoted "nodejs" on nodejs-util
-* skamath upvoted "javascript" on nodejs-util
-* skamath upvoted "util" on nodejs-util
-* skamath upvoted "node.js" on nodejs-util
-* skamath upvoted "telnet" on cocot
-* skamath upvoted "ssh" on cocot
-* skamath upvoted "converter" on cocot
-* skamath upvoted "kanji" on cocot
-* skamath upvoted "css" on csslint
-* skamath upvoted "validation" on csslint
-* skamath upvoted "analyzer" on csslint
-* skamath upvoted "felix" on felix-shell
-* skamath upvoted "apache" on felix-shell
-* skamath upvoted "daemon" on numad
-* skamath upvoted "numad" on numad
-* skamath upvoted "linux" on numad
-* skamath upvoted "numa" on numad
-* skamath upvoted "library" on libtommath
-* skamath upvoted "lib" on libtommath
-* skamath upvoted "development libraries" on libtommath
-* skamath upvoted "mathematics" on libtommath
-* skamath upvoted "module" on ghc-attoparsec-enumerator
-* skamath upvoted "haskell" on ghc-attoparsec-enumerator
-* skamath upvoted "ghc" on ghc-attoparsec-enumerator
-* skamath upvoted "lib" on ghc-attoparsec-enumerator
-* skamath upvoted "library" on ghc-attoparsec-enumerator
-* skamath upvoted "analysis" on hmmer
-* skamath upvoted "database" on hmmer
-* skamath upvoted "hmm" on hmmer
-* skamath upvoted "pkcs11" on softhsm
-* skamath upvoted "security" on softhsm
-* skamath upvoted "crypto" on softhsm
-* skamath upvoted "commons" on apache-commons-configuration
-* skamath upvoted "configuration" on apache-commons-configuration
-* skamath upvoted "plugin" on datanucleus-api-jdo
-* skamath upvoted "apache" on apache-commons-configuration
-* skamath upvoted "jdo" on datanucleus-api-jdo
-* skamath upvoted "datanucleus" on datanucleus-api-jdo
-* skamath upvoted "gem" on rubygem-oauth
-* skamath upvoted "authentication" on rubygem-oauth
-* skamath upvoted "rubygem" on rubygem-oauth
-* skamath upvoted "library" on rubygem-oauth
-* skamath upvoted "extension" on rubygem-oauth
-* skamath upvoted "code-generator" on ocaml-camlidl
-* skamath upvoted "ocaml" on ocaml-camlidl
-* skamath upvoted "card" on kpat
-* skamath upvoted "kde" on kpat
-* skamath upvoted "game" on kpat
-* skamath upvoted "bee" on beep
-* skamath upvoted "audio" on beep
-* skamath upvoted "sound" on beep
-* skamath upvoted "alert" on beep
-* skamath upvoted "beep" on beep
-* skamath upvoted "sniff" on wireshark-gnome
-* skamath upvoted "analyzer" on wireshark-gnome
-* skamath upvoted "wireshark" on wireshark-gnome
-* skamath upvoted "network" on wireshark-gnome
-* skamath upvoted "gtk" on wireshark-gnome
-* skamath upvoted "tcp" on tcpflow
-* skamath upvoted "real time" on OpenSceneGraph
-* skamath upvoted "toolkit" on OpenSceneGraph
-* skamath upvoted "network" on tcpflow
-* skamath upvoted "opengl" on OpenSceneGraph
-* skamath upvoted "scenegraph" on OpenSceneGraph
-* skamath upvoted "development" on OpenSceneGraph
-* skamath upvoted "dbus" on dbus-python
-* skamath upvoted "ipc" on dbus-python
-* skamath upvoted "python" on dbus-python
-* skamath upvoted "lite" on perl-XMLRPC-Lite
-* skamath upvoted "xmlrpc" on perl-XMLRPC-Lite
-* skamath upvoted "perl" on perl-XMLRPC-Lite
-* skamath upvoted "hdf5" on ViTables
-* skamath upvoted "module" on perl-XMLRPC-Lite
-* skamath upvoted "library" on perl-XMLRPC-Lite
-* skamath upvoted "python" on ViTables
-* skamath upvoted "vitables" on ViTables
-* skamath upvoted "xml" on txw2
-* skamath upvoted "java" on txw2
-* skamath upvoted "api" on jboss-jad-1.2-api
-* skamath upvoted "jboss" on jboss-jad-1.2-api
-* skamath upvoted "jee" on jboss-jad-1.2-api
-* skamath upvoted "java" on jboss-jad-1.2-api
-* skamath upvoted "javaee" on jboss-jad-1.2-api
-* skamath upvoted "rf" on rf
-* skamath upvoted "feedreader" on rf
-* skamath upvoted "feeds" on rf
-* skamath upvoted "php" on php-horde-Horde-Pdf
-* skamath upvoted "pdf" on php-horde-Horde-Pdf
-* skamath upvoted "library" on php-horde-Horde-Pdf
-* skamath upvoted "dell" on nagios-plugins-openmanage
-* skamath upvoted "horde" on php-horde-Horde-Pdf
-* skamath upvoted "module" on php-horde-Horde-Pdf
-* skamath upvoted "nagios" on nagios-plugins-openmanage
-* skamath upvoted "plugin" on nagios-plugins-openmanage
-* skamath upvoted "text" on perl-Text-Table-Tiny
-* skamath upvoted "perl" on perl-Text-Table-Tiny
-* skamath upvoted "ascii" on perl-Text-Table-Tiny
-* skamath upvoted "ps1" on prwd
-* skamath upvoted "shell" on prwd
-* skamath upvoted "working directory" on prwd
-* skamath upvoted "tcp" on tcping
-* skamath upvoted "network" on tcping
-* skamath upvoted "ping" on tcping
-* skamath upvoted "ip" on tcping
-* skamath upvoted "math" on perl-Math-Factor-XS
-* skamath upvoted "perl" on perl-Math-Factor-XS
-* skamath upvoted "perl factor" on perl-Math-Factor-XS
-* skamath upvoted "xs perl" on perl-Math-Factor-XS
-* skamath upvoted "node.js" on nodejs-stylus
-* skamath upvoted "structure" on perl-CGI-Struct
-* skamath upvoted "cgi" on perl-CGI-Struct
-* skamath upvoted "structures" on perl-CGI-Struct
-* skamath upvoted "perl" on perl-CGI-Struct
-* skamath upvoted "module" on perl-Crypt-SmbHash
-* skamath upvoted "hash" on perl-Crypt-SmbHash
-* skamath upvoted "smb" on perl-Crypt-SmbHash
-* skamath upvoted "perl" on perl-Crypt-SmbHash
-* skamath upvoted "games" on speed-dreams
-* skamath upvoted "speed game" on speed-dreams
-* skamath upvoted "dreams speed host" on speed-dreams
-* skamath upvoted "input" on uim
-* skamath upvoted "gtk" on uim
-* skamath upvoted "qt" on uim
-* skamath upvoted "language" on uim
-* skamath upvoted "library" on uim
-* skamath upvoted "lib" on rubygem-echoe
-* skamath upvoted "library" on rubygem-echoe
-* skamath upvoted "ruby" on rubygem-echoe
-* skamath upvoted "rybygem" on rubygem-echoe
-* skamath upvoted "c++" on ucommon
-* skamath upvoted "echoe" on rubygem-echoe
-* skamath upvoted "lib" on ucommon
-* skamath upvoted "cpp" on ucommon
-* skamath upvoted "perl log" on perl-Log-Report-Optional
-* skamath upvoted "log" on perl-Log-Report-Optional
-* skamath upvoted "c++" on gmock
-* skamath upvoted "google" on gmock
-* skamath upvoted "mock" on gmock
-* skamath upvoted "framework" on gmock
-* skamath upvoted "libintl" on ghc-hgettext
-* skamath upvoted "binding" on ghc-hgettext
-* skamath upvoted "haskell" on ghc-hgettext
-* skamath upvoted "ghc" on ghc-hgettext
-* skamath upvoted "tunel" on xl2tpd
-* skamath upvoted "vpn" on xl2tpd
-* skamath upvoted "network" on xl2tpd
-* skamath upvoted "networking" on xl2tpd
-* skamath upvoted "tunnel" on xl2tpd
-* skamath upvoted "timing diagram" on drawtiming
-* skamath upvoted "ascii" on drawtiming
-* skamath upvoted "wtiming" on drawtiming
-* skamath upvoted "verilog" on drawtiming
-* skamath upvoted "vhdl" on drawtiming
-* skamath upvoted "addon" on perl-Devel-Pragma
-* skamath upvoted "mod" on perl-Devel-Pragma
-* skamath upvoted "devel" on perl-Devel-Pragma
-* skamath upvoted "perl" on perl-Devel-Pragma
-* skamath upvoted "lexical" on perl-Devel-Pragma
-* skamath upvoted "desktop" on kdeplasma-addons
-* skamath upvoted "logicgame" on kdeplasma-addons
-* skamath upvoted "trayicon" on kdeplasma-addons
-* skamath upvoted "hardwaresettings" on kdeplasma-addons
-* skamath upvoted "video" on kdeplasma-addons
-* skamath upvoted "library" on compat-readline5
-* skamath upvoted "readline" on compat-readline5
-* skamath upvoted "compat" on compat-readline5
-* skamath upvoted "library" on python-httpretty
-* skamath upvoted "http" on python-httpretty
-* skamath upvoted "lib" on python-httpretty
-* skamath upvoted "module" on python-httpretty
-* skamath upvoted "emulator" on shellinabox
-* skamath upvoted "ajax" on shellinabox
-* skamath upvoted "terminal emulator" on shellinabox
-* skamath upvoted "terminal" on shellinabox
-* skamath upvoted "web" on shellinabox
-* skamath upvoted "perl" on perl-Math-Base85
-* skamath upvoted "library" on perl-Math-Base85
-* skamath upvoted "extension" on perl-Math-Base85
-* skamath upvoted "cpan" on perl-Math-Base85
-* skamath upvoted "extention" on perl-Math-Base85
-* skamath upvoted "rules" on perl-IPTables-Parse
-* skamath upvoted "iptables" on perl-IPTables-Parse
-* skamath upvoted "perl" on perl-IPTables-Parse
-* skamath upvoted "extension" on perl-IPTables-Parse
-* skamath upvoted "parser" on perl-IPTables-Parse
-* skamath upvoted "teeth" on toothchart
-* skamath upvoted "charts" on toothchart
-* skamath upvoted "toothchart" on toothchart
-* skamath upvoted "configuration" on wine-desktop
-* skamath upvoted "integration" on wine-desktop
-* skamath upvoted "windows" on wine-desktop
-* skamath downvoted "game" on wine-desktop
-* skamath upvoted "game" on wine-desktop
-* skamath upvoted "wine" on wine-desktop
-* skamath upvoted "emacs" on emacs-lookup
-* skamath upvoted "interface" on ocaml-easy-format
-* skamath upvoted "ocaml" on ocaml-easy-format
-* skamath downvoted "methane" on methane
-* skamath upvoted "methane" on methane
-* skamath upvoted "game" on methane
-* skamath upvoted "uniqid" on perl-Data-Uniqid
-* skamath upvoted "perl" on perl-Data-Uniqid
-* skamath upvoted "pelr" on perl-Data-Uniqid
-* skamath upvoted "x11" on libXxf86misc
-* skamath upvoted "x.org" on libXxf86misc
-* skamath upvoted "perl" on perl-File-PathList
-* skamath upvoted "pathilst" on perl-File-PathList
-* skamath upvoted "lib" on python-bna
-* skamath upvoted "module" on python-bna
-* skamath upvoted "battlenet" on python-bna
-* skamath upvoted "python" on python-bna
-* skamath upvoted "library" on python-bna
-* skamath upvoted "liblbfgs" on liblbfgs
-* skamath upvoted "library" on liblbfgs
-* skamath upvoted "library" on ocrad
-* skamath upvoted "gnu" on ocrad
-* skamath upvoted "ocrad" on ocrad
-* skamath upvoted "ocr" on ocrad
-* skamath upvoted "module" on perl-Pod-Parser
-* skamath upvoted "perl" on perl-Pod-Parser
-* skamath upvoted "parser" on perl-Pod-Parser
-* skamath upvoted "lib" on perl-Pod-Parser
-* skamath upvoted "library" on perl-Pod-Parser
-* skamath upvoted "python" on pytrailer
-* skamath upvoted "movie" on pytrailer
-* skamath upvoted "trailers" on pytrailer
-* skamath upvoted "library" on liblognorm
-* skamath upvoted "accessability" on kmag
-* skamath upvoted "a11y" on kmag
-* skamath upvoted "log" on liblognorm
-* skamath upvoted "magnifier" on kmag
-* skamath upvoted "kde" on kmag
-* skamath upvoted "screen" on kmag
-* skamath upvoted "fetch" on php-pear-Net-Curl
-* skamath upvoted "download" on php-pear-Net-Curl
-* skamath upvoted "php" on php-pear-Net-Curl
-* skamath upvoted "curl" on php-pear-Net-Curl
-* skamath upvoted "pear" on php-pear-Net-Curl
-* skamath upvoted "ruby" on rubygem-opengl
-* skamath upvoted "gem" on rubygem-opengl
-* skamath upvoted "rubygem" on rubygem-opengl
-* skamath upvoted "opengl" on rubygem-opengl
-* skamath upvoted "gem gl" on rubygem-opengl
-* skamath upvoted "development" on perl-Module-Build
-* skamath upvoted "library" on perl-Module-Build
-* skamath upvoted "lib" on perl-Module-Build
-* skamath upvoted "perl" on perl-Module-Build
-* skamath upvoted "module" on perl-Module-Build
-* skamath upvoted "account-statement" on trytond-account-statement
-* skamath upvoted "account" on trytond-account-statement
-* skamath upvoted "lib" on trytond-account-statement
-* skamath upvoted "library" on trytond-account-statement
-* skamath upvoted "statement" on trytond-account-statement
-* skamath upvoted "desktop" on lxde-common
-* skamath upvoted "lxde" on lxde-common
-* skamath upvoted "conf" on lxde-common
-* skamath upvoted "audio" on dragon
-* skamath upvoted "media player" on dragon
-* skamath upvoted "player" on dragon
-* skamath upvoted "video" on dragon
-* skamath upvoted "kde" on dragon
-* skamath upvoted "perl fuzzy" on perl-Locale-Maketext-Fuzzy
-* skamath upvoted "perl" on perl-Locale-Maketext-Fuzzy
-* skamath upvoted "hyphenation" on hyphen-ca
-* skamath upvoted "catalan" on hyphen-ca
-* skamath upvoted "browser" on ebview
-* skamath upvoted "epwing" on ebview
-* skamath upvoted "dictionary" on ebview
-* skamath upvoted "gss" on gssproxy
-* skamath upvoted "gssproxy" on gssproxy
-* skamath upvoted "gssapi" on gssproxy
-* skamath upvoted "proxy" on gssproxy
-* skamath upvoted "downloader" on autodownloader
-* skamath upvoted "real text format" on unrtf
-* skamath upvoted "rtf" on unrtf
-* skamath upvoted "converter" on unrtf
-* skamath upvoted "text" on unrtf
-* skamath upvoted "rtf2" on unrtf
-* skamath upvoted "multi user" on wemux
-* skamath upvoted "terminal" on wemux
-* skamath upvoted "multiplexing" on wemux
-* skamath upvoted "udis86" on udis86
-* skamath upvoted "code analysis" on udis86
-* skamath upvoted "binary" on udis86
-* skamath upvoted "virtualization" on virt-manager
-* skamath upvoted "guest management" on virt-manager
-* skamath upvoted "guest setup" on virt-manager
-* skamath upvoted "libvirt" on virt-manager
-* skamath upvoted "kvm" on virt-manager
-* skamath upvoted "lib" on php-pear-Net-URL2
-* skamath upvoted "php" on php-pear-Net-URL2
-* skamath upvoted "library" on php-pear-Net-URL2
-* skamath upvoted "extension" on php-pear-Net-URL2
-* skamath upvoted "plugin" on php-pear-Net-URL2
-* skamath upvoted "cli" on mailx
-* skamath upvoted "django" on python-django-avatar
-* skamath upvoted "python" on python-django-avatar
-* skamath upvoted "manipulating" on python-django-avatar
-* skamath upvoted "avatar" on python-django-avatar
-* skamath upvoted "audio" on tomahawk
-* skamath upvoted "music" on tomahawk
-* skamath upvoted "player" on tomahawk
-* skamath upvoted "qt" on tomahawk
-* skamath upvoted "gridded binary" on grib_api
-* skamath upvoted "develpoment" on grib_api
-* skamath upvoted "ap" on grib_api
-* skamath upvoted "grib" on grib_api
-* skamath upvoted "development" on grib_api
-* skamath upvoted "ibus" on sqljet
-* skamath upvoted "sqlite" on sqljet
-* skamath upvoted "database" on sqljet
-* skamath upvoted "db" on sqljet
-* skamath upvoted "development" on perl-Devel-Cover
-* skamath upvoted "cover perl" on perl-Devel-Cover
-* skamath upvoted "module" on perl-Devel-Cover
-* skamath upvoted "library" on perl-Devel-Cover
-* skamath upvoted "libvirt" on mingw-libvirt
-* skamath upvoted "libvirt}" on mingw-libvirt
-* skamath upvoted "virtualization" on mingw-libvirt
-* skamath upvoted "mingw" on mingw-libvirt
-* skamath upvoted "nfsv4" on sblim-cmpi-nfsv4
-* skamath upvoted "sblim" on sblim-cmpi-nfsv4
-* skamath upvoted "cmpi" on sblim-cmpi-nfsv4
-* skamath upvoted "ide" on kdevelop-python
-* skamath upvoted "development" on kdevelop-python
-* skamath upvoted "plugin" on kdevelop-python
-* skamath upvoted "kde" on kdevelop-python
-* skamath upvoted "python" on kdevelop-python
-* skamath upvoted "assertions" on golang-github-bmizerany-assert
-* skamath upvoted "go" on golang-github-bmizerany-assert
-* skamath upvoted "language" on GtkAda
-* skamath upvoted "gtk+" on GtkAda
-* skamath upvoted "binding" on GtkAda
-* skamath upvoted "ada" on GtkAda
-* skamath upvoted "toolkit" on GtkAda
-* skamath upvoted "rubygem" on rubygem-literati
-* skamath upvoted "ruby" on rubygem-literati
-* skamath upvoted "library" on python-arc
-* skamath upvoted "module" on python-arc
-* skamath upvoted "lib" on python-arc
-* skamath upvoted "python" on python-arc
-* skamath upvoted "autotest rpc client" on python-arc
-* skamath upvoted "lsw" on lsw
-* skamath upvoted "x11" on lsw
-* skamath upvoted "gtk" on perl-Gtk3
-* skamath upvoted "lib" on perl-Gtk3
-* skamath upvoted "binding" on perl-Gtk3
-* skamath upvoted "module" on perl-Gtk3
-* skamath upvoted "gtk3" on perl-Gtk3
-* skamath upvoted "web" on apache-commons-digester
-* skamath upvoted "eficiency" on apache-commons-digester
-* skamath upvoted "apache" on apache-commons-digester
-* skamath upvoted "xml" on apache-commons-digester
-* skamath upvoted "mapping" on apache-commons-digester
-* skamath upvoted "archive" on unp
-* skamath upvoted "unp" on unp
-* skamath upvoted "workon" on python-virtualenvwrapper
-* skamath upvoted "development" on python-virtualenvwrapper
-* skamath upvoted "python" on python-virtualenvwrapper
-* skamath upvoted "mkvirtualenv" on python-virtualenvwrapper
-* skamath upvoted "library" on python-virtualenvwrapper
-* skamath upvoted "library" on mingw-qt5-qtimageformats
-* skamath upvoted "qt5" on mingw-qt5-qtimageformats
-* skamath upvoted "windows" on mingw-qt5-qtimageformats
-* skamath upvoted "mingw" on mingw-qt5-qtimageformats
-* skamath upvoted "plugin" on mingw-qt5-qtimageformats
-* skamath upvoted "horde" on php-horde-Horde-Db
-* skamath upvoted "database" on php-horde-Horde-Db
-* skamath upvoted "module" on php-horde-Horde-Db
-* skamath upvoted "lib" on php-horde-Horde-Db
-* skamath upvoted "php" on php-horde-Horde-Db
-* skamath upvoted "kde" on kig
-* skamath upvoted "education" on kig
-* skamath upvoted "math" on kig
-* skamath upvoted "geometry" on kig
-* skamath upvoted "geometric constructions" on kig
-* skamath upvoted "module" on php-horde-Horde-Smtp
-* skamath upvoted "php horde" on php-horde-Horde-Smtp
-* skamath upvoted "plugin" on php-horde-Horde-Smtp
-* skamath upvoted "library" on php-horde-Horde-Smtp
-* skamath upvoted "audio" on exfalso
-* skamath upvoted "music" on exfalso
-* skamath upvoted "tag" on exfalso
-* skamath upvoted "python library" on APLpy
-* skamath upvoted "python" on APLpy
-* skamath upvoted "lib" on APLpy
-* skamath upvoted "openva" on openav-luppp
-* skamath upvoted "music" on openav-luppp
-* skamath upvoted "music-creation" on openav-luppp
-* skamath upvoted "multi-lingual" on gettext
-* skamath upvoted "translation" on gettext
-* skamath upvoted "gnu" on gettext
-* skamath upvoted "localization" on gettext
-* skamath upvoted "converter" on rss2email
-* skamath upvoted "smtp server" on rss2email
-* skamath upvoted "rss" on rss2email
-* skamath upvoted "smtp" on rss2email
-* skamath upvoted "status" on pidgin-musictracker
-* skamath upvoted "pidgin" on pidgin-musictracker
-* skamath upvoted "plugin" on pidgin-musictracker
-* skamath upvoted "plugin" on python-botocore
-* skamath upvoted "module" on python-botocore
-* skamath upvoted "lib" on python-botocore
-* skamath upvoted "python" on python-botocore
-* skamath upvoted "plugin" on perl-Object-InsideOut
-* skamath upvoted "lib" on perl-Object-InsideOut
-* skamath upvoted "extension" on perl-Object-InsideOut
-* skamath upvoted "insideout" on perl-Object-InsideOut
-* skamath upvoted "olpc" on sugar-abacus
-* skamath upvoted "edication" on sugar-abacus
-* skamath upvoted "education" on sugar-abacus
-* skamath upvoted "abacus" on sugar-abacus
-* skamath upvoted "spell checker" on hunspell-hil
-* skamath upvoted "dictionary" on hunspell-hil
-* skamath upvoted "hunspell" on hunspell-hil
-* skamath upvoted "dictionaries" on hunspell-hil
-* skamath upvoted "supervision" on checkdns
-* skamath upvoted "domain name server" on checkdns
-* skamath upvoted "monitoring" on checkdns
-* skamath upvoted "reporting" on checkdns
-* skamath upvoted "lib" on php-horde-Horde-Compress-Fast
-* skamath upvoted "library" on php-horde-Horde-Compress-Fast
-* skamath upvoted "module" on php-horde-Horde-Compress-Fast
-* skamath upvoted "toolkit" on fastx_toolkit
-* skamath upvoted "fastx" on fastx_toolkit
-* skamath upvoted "images" on Fedora-Fedora_Live_Images-19-web-ja-JP
-* skamath upvoted "fedora live" on Fedora-Fedora_Live_Images-19-web-ja-JP
-* skamath upvoted "live images" on Fedora-Fedora_Live_Images-19-web-ja-JP
-* skamath upvoted "japaneese" on Fedora-Fedora_Live_Images-19-web-ja-JP
-* skamath upvoted "python" on python-pyblock
-* skamath upvoted "module" on python-pyblock
-* skamath upvoted "extension" on python-pyblock
-* skamath upvoted "library" on python-pyblock
-* skamath upvoted "module" on perl-LDAP
-* skamath upvoted "ldap" on perl-LDAP
-* skamath upvoted "authentication" on perl-LDAP
-* skamath upvoted "library" on perl-LDAP
-* skamath upvoted "development" on kdesdk-kcachegrind
-* skamath upvoted "profiler" on kdesdk-kcachegrind
-* skamath upvoted "cachegrind" on kdesdk-kcachegrind
-* skamath upvoted "kde" on kdesdk-kcachegrind
-* skamath upvoted "ruby" on rubygem-htmlentities
-* skamath upvoted "html" on rubygem-htmlentities
-* skamath upvoted "rubygem" on rubygem-htmlentities
-* skamath upvoted "library" on python-pp
-* skamath upvoted "lib" on python-pp
-* skamath upvoted "python" on python-pp
-* skamath upvoted "perl" on perl-CGI-Session-Driver-memcached
-* skamath upvoted "ldap" on python-ldappool
-* skamath upvoted "ldappool" on python-ldappool
-* skamath upvoted "lib" on python-pygeoip
-* skamath upvoted "module" on python-pygeoip
-* skamath upvoted "geoip" on python-pygeoip
-* skamath upvoted "python" on python-pygeoip
-* skamath upvoted "design pattern" on loki-lib
-* skamath upvoted "lib ++" on loki-lib
-* skamath upvoted "library" on loki-lib
-* skamath upvoted "programming" on ghc-chalmers-lava2000
-* skamath upvoted "gem" on rubygem-lumberjack
-* skamath upvoted "rubygem" on rubygem-lumberjack
-* skamath upvoted "library" on rubygem-lumberjack
-* skamath upvoted "ruby" on rubygem-lumberjack
-* skamath upvoted "hardware" on ghc-chalmers-lava2000
-* skamath upvoted "ghc" on ghc-chalmers-lava2000
-* skamath upvoted "lava2000" on ghc-chalmers-lava2000
-* skamath upvoted "debug" on lsof
-* skamath upvoted "processes" on lsof
-* skamath upvoted "proc" on lsof
-* skamath upvoted "files" on lsof
-* skamath upvoted "jboss" on jboss-ejb-3.1-api
-* skamath upvoted "api" on jboss-ejb-3.1-api
-* skamath upvoted "drm" on libdrm
-* skamath upvoted "library" on libdrm
-* skamath upvoted "theorem prover" on coq
-* skamath upvoted "constructive logic" on coq
-* skamath upvoted "dependent types" on coq
-* skamath upvoted "plugin" on rubygem-pango
-* skamath upvoted "gtk" on rubygem-pango
-* skamath upvoted "pango" on rubygem-pango
-* skamath upvoted "library" on rubygem-pango
-* skamath upvoted "module" on rubygem-pango
-* skamath upvoted "spell checker" on aspell-hr
-* skamath upvoted "aspell" on aspell-hr
-* skamath upvoted "dictionaries" on aspell-hr
-* skamath upvoted "dictionary" on aspell-hr
-* skamath upvoted "lib" on perl-Astro-FITS-CFITSIO
-* skamath upvoted "library" on perl-Astro-FITS-CFITSIO
-* skamath upvoted "perl" on perl-Astro-FITS-CFITSIO
-* skamath upvoted "module" on perl-Astro-FITS-CFITSIO
-* skamath upvoted "cfitsio" on perl-Astro-FITS-CFITSIO
-* skamath upvoted "python" on python-django-dajax
-* skamath upvoted "library" on python-django-dajax
-* skamath upvoted "lib" on python-django-dajax
-* skamath upvoted "ocaml" on ocaml-mikmatch
-* skamath upvoted "expression" on ocaml-mikmatch
-* skamath upvoted "regular" on ocaml-mikmatch
-* skamath upvoted "linus torvalds" on kernel
-* skamath upvoted "core" on kernel
-* skamath upvoted "device drivers" on kernel
-* skamath upvoted "os" on kernel
-* skamath upvoted "io-multiplexer" on kernel
-* skamath upvoted "spell checker" on hunspell-uz
-* skamath upvoted "dictionary" on hunspell-uz
-* skamath upvoted "uzbek" on hunspell-uz
-* skamath upvoted "hunspell" on hunspell-uz
-* skamath upvoted "dictionaries" on hunspell-uz
-* skamath upvoted "media" on gstreamer1
-* skamath upvoted "multimedia" on gstreamer1
-* skamath upvoted "audio" on gstreamer1
-* skamath upvoted "framework" on gstreamer1
-* skamath upvoted "sip" on telepathy-rakia
-* skamath upvoted "gstreamer1" on gstreamer1
-* skamath upvoted "raki" on telepathy-rakia
-* skamath upvoted "telepathy" on telepathy-rakia
-* skamath upvoted "simulation" on smartsim
-* skamath upvoted "electronics" on smartsim
-* skamath upvoted "circuit design" on smartsim
-* skamath upvoted "libreoffice" on libreoffice-core
-* skamath upvoted "openoffice" on libreoffice-core
-* skamath upvoted "office" on libreoffice-core
-* skamath upvoted "tools" on i2c-tools
-* skamath upvoted "eficiency" on i2c-tools
-* skamath upvoted "i2c" on i2c-tools
-* skamath upvoted "manipulating" on i2c-tools
-* skamath upvoted "packaging" on koschei
-* skamath upvoted "ci" on koschei
-* skamath upvoted "koji" on koschei
-* skamath upvoted "collections" on plexus-active-collections
-* skamath upvoted "java" on plexus-active-collections
-* skamath upvoted "plexus" on plexus-active-collections
-* skamath upvoted "clean" on nodejs-clean-css
-* skamath upvoted "css" on nodejs-clean-css
-* skamath upvoted "node.js" on nodejs-clean-css
-* skamath upvoted "nodejs" on nodejs-clean-css
-* skamath upvoted "lib" on libscs
-* skamath upvoted "scs" on libscs
-* skamath upvoted "libscs" on libscs
-* skamath upvoted "library" on libscs
-* skamath upvoted "jboss" on jboss-connector-1.6-api
-* skamath upvoted "java" on jboss-connector-1.6-api
-* skamath upvoted "jee" on jboss-connector-1.6-api
-* skamath upvoted "library" on flim
-* skamath upvoted "email" on flim
-* skamath upvoted "emacs" on flim
-* skamath upvoted "mail" on flim
-* skamath upvoted "lib" on flim
-* skamath upvoted "spell checker" on hunspell-af
-* skamath upvoted "afrikaans" on hunspell-af
-* skamath upvoted "dictionary" on hunspell-af
-* skamath upvoted "pell af" on hunspell-af
-* skamath upvoted "library" on utf8cpp
-* skamath upvoted "utf8" on utf8cpp
-* skamath upvoted "c++" on utf8cpp
-* skamath's rank changed to 89
+#### Category : Fas
+* ankursinha sponsored skamath's membership in the fedora-join group
+* skamath applied for skamath's membership in the fedora-join group
+* skamath edited the following fields of skamath's FAS profile:  gpg_keyid
+* skamath applied for skamath's membership in the freemedia group
+* decause sponsored skamath's membership in the summer-coding group
 
-* **Total Entries in category :** 2194
+* **Total Entries in category :** 5
 
-* **Percentage participation in category :** 85.37
+* **Percentage participation in category :** 0.29
 
 
 #### Category : Anitya
@@ -2396,12 +1588,12 @@
 * sskamath96@gmail.com added the project "diaspora" to anitya
 * sskamath96@gmail.com mapped the name of "lime" in Fedora to "lime"
 * sskamath96@gmail.com added the project "lime" to anitya
-* sskamath96@gmail.com mapped the name of "atom" in Fedora to "atom"
 * sskamath96@gmail.com added the project "atom" to anitya
+* sskamath96@gmail.com mapped the name of "atom" in Fedora to "atom"
 
 * **Total Entries in category :** 8
 
-* **Percentage participation in category :** 0.31
+* **Percentage participation in category :** 0.46
 
 
 #### Category : Planet
@@ -2410,15 +1602,15 @@
 * skamath posted "Improving  statistics using python-fedora API"
 * skamath posted "Understanding the statscache daemon"
 * skamath posted "GSoC - Journey So Far ( Badges, Milestones and more..)"
-* skamath posted "Digging deep into datagrepper - More Statistics Features"
 * skamath posted "Getting fedstats-gsoc production ready"
+* skamath posted "Digging deep into datagrepper - More Statistics Features"
 * skamath posted "fedstats - A final overview"
 * skamath posted "[GSoC '16] Let the Coding Begin!"
 * skamath posted "[GSoC '16] Summer with Fedora"
 
 * **Total Entries in category :** 10
 
-* **Percentage participation in category :** 0.39
+* **Percentage participation in category :** 0.57
 
 
 #### Category : Bodhi
@@ -2431,19 +1623,7 @@
 
 * **Total Entries in category :** 6
 
-* **Percentage participation in category :** 0.23
-
-
-#### Category : Fas
-* ankursinha sponsored skamath's membership in the fedora-join group
-* skamath applied for skamath's membership in the fedora-join group
-* skamath edited the following fields of skamath's FAS profile:  gpg_keyid
-* skamath applied for skamath's membership in the freemedia group
-* decause sponsored skamath's membership in the summer-coding group
-
-* **Total Entries in category :** 5
-
-* **Percentage participation in category :** 0.19
+* **Percentage participation in category :** 0.34
 
 
 #### Category : Pagure
@@ -2452,3 +1632,211 @@
 * skamath pushed 1 commit to gsoc-stats (develop)
 * skamath commented on pull-request#23 of project "gsoc-stats"
 * skamath pushed 1 commit to gsoc-stats (develop)
+* skamath commented on pull-request#23 of project "gsoc-stats"
+* skamath pushed 1 commit to gsoc-stats (develop)
+* skamath pushed 1 commit to gsoc-stats (develop)
+* skamath opened pull-request#23: "Added group parsing, improved file strucute and fixed monor bugs" on project "gsoc-stats"
+* skamath pushed 1 commit to gsoc-stats (develop)
+* skamath commented on ticket gsoc-stats#19: "Import / document dependencies"
+* skamath pushed 1 commit to gsoc-stats (develop)
+* skamath pushed 1 commit to gsoc-stats (develop)
+* skamath pushed 1 commit to gsoc-stats (develop)
+* skamath commented on ticket gsoc-stats#19: "Import / document dependencies"
+* skamath opened pull-request#22: "Added gource output, tweaked code and edge case fixes" on project "gsoc-stats"
+* skamath pushed 6 commits to gsoc-stats (develop)
+* skamath set the status of ticket gsoc-stats#5 to: Fixed
+* skamath set the status of ticket gsoc-stats#18 to: Fixed
+* skamath removed the pending tags from ticket gsoc-stats#18
+* skamath removed the pending tags from ticket gsoc-stats#20
+* skamath set the status of ticket gsoc-stats#20 to: Fixed
+* skamath set the status of ticket gsoc-stats#2 to: Fixed
+* skamath pushed 1 commit to gsoc-stats (master)
+* skamath added ticket gsoc-stats#19 as a dependency of ticket gsoc-stats#21
+* skamath tagged ticket gsoc-stats#21: bug and core
+* skamath opened a new ticket gsoc-stats#21: "grip freezes while generating html reports"
+* skamath tagged ticket gsoc-stats#5: enhancement
+* skamath tagged ticket gsoc-stats#18: enhancement and pending
+* skamath tagged ticket gsoc-stats#20: enhancement and pending
+* skamath commented on ticket gsoc-stats#20: "Import usernames from .txt or .csv file"
+* skamath commented on ticket gsoc-stats#18: "Gather data for all FAS users"
+* skamath edited a comment on ticket gsoc-stats#19: "Import / document dependencies"
+* skamath tagged ticket gsoc-stats#19: pending and support
+* skamath commented on ticket gsoc-stats#19: "Import / document dependencies"
+* skamath set the status of ticket gsoc-stats#4 to: Fixed
+* skamath set the status of ticket gsoc-stats#7 to: Fixed
+* skamath commented on ticket gsoc-stats#2: "Add start time and end time arguments"
+* skamath set the status of ticket gsoc-stats#9 to: Fixed
+* skamath set the status of ticket gsoc-stats#6 to: Fixed
+* skamath set the status of ticket gsoc-stats#6 to: Fixed
+* skamath set the status of ticket gsoc-stats#3 to: Fixed
+* skamath commented on pull-request#17 of project "gsoc-stats"
+* skamath merged pull-request#17 of project "gsoc-stats"
+* skamath opened pull-request#17: "Add support for category-wise text report, updated documentation and requirements" on project "gsoc-stats"
+* skamath closed (without merging) pull-request#16 of project "gsoc-stats"
+* skamath commented on pull-request#16 of project "gsoc-stats"
+* skamath merged pull-request#14 of project "gsoc-stats"
+* skamath commented on pull-request#14 of project "gsoc-stats"
+* skamath commented on pull-request#14 of project "gsoc-stats"
+* skamath commented on pull-request#16 of project "gsoc-stats"
+* skamath opened pull-request#16: "Added subcategory support, modified structure and modified gitignore" on project "gsoc-stats"
+* skamath commented on pull-request#15 of project "gsoc-stats"
+* skamath merged pull-request#15 of project "gsoc-stats"
+* skamath opened pull-request#15: "Added interactive mode and removed renundant code" on project "gsoc-stats"
+* skamath opened pull-request#14: "Added interactive mode and removed renundant code" on project "gsoc-stats"
+* skamath opened pull-request#13: "Added version numbers for requirements" on project "gsoc-stats"
+* skamath set the status of ticket gsoc-stats#8 to: Fixed
+* skamath edited a comment on ticket gsoc-stats#8: "AttributeError: 'module' object has no attribute 'ANTIALIAS_FAST'"
+* skamath commented on pull-request#10 of project "gsoc-stats"
+* skamath closed (without merging) pull-request#10 of project "gsoc-stats"
+* skamath edited a comment on pull-request#10 of project "gsoc-stats"
+* skamath edited a comment on pull-request#10 of project "gsoc-stats"
+* skamath commented on pull-request#10 of project "gsoc-stats"
+* skamath commented on pull-request#12 of project "gsoc-stats"
+* skamath merged pull-request#12 of project "gsoc-stats"
+* skamath opened pull-request#12: "Enhancements for Python3" on project "gsoc-stats"
+* skamath edited the title fields of ticket gsoc-stats#2
+* skamath set the status of ticket gsoc-stats#1 to: Fixed
+* skamath commented on ticket gsoc-stats#1: "Handle users with no activity "
+* skamath merged pull-request#11 of project "gsoc-stats"
+* skamath commented on pull-request#11 of project "gsoc-stats"
+* skamath opened pull-request#11: "Added error handling for users with no activity" on project "gsoc-stats"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath edited a comment on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath opened pull-request#10: "Added requirements and renamed requirements.txt" on project "gsoc-stats"
+* skamath forked project "gsoc-stats" to "skamath/gsoc-stats"
+* skamath commented on ticket gsoc-stats#8: "AttributeError: 'module' object has no attribute 'ANTIALIAS_FAST'"
+* skamath assigned ticket gsoc-stats#7 to skamath
+* skamath tagged ticket gsoc-stats#7: core
+* skamath commented on ticket gsoc-stats#7: "gsoc-stats python3 compatible?"
+* skamath commented on ticket gsoc-stats#9: "New charts to show # of messages?"
+* skamath assigned ticket gsoc-stats#9 to skamath
+* skamath assigned ticket gsoc-stats#2 to skamath
+* skamath tagged ticket gsoc-stats#2: enhancement
+* skamath tagged ticket gsoc-stats#1: bug
+* skamath assigned ticket gsoc-stats#3 to skamath
+* skamath tagged ticket gsoc-stats#3: enhancement
+* skamath opened a new ticket gsoc-stats#3: "Add percentages to all formats"
+* skamath added "decause" to project gsoc-stats
+* skamath added "bee2502" to project gsoc-stats
+* skamath created a new project "gsoc-stats"
+
+* **Total Entries in category :** 98
+
+* **Percentage participation in category :** 5.6
+
+
+#### Category : Askbot
+* skamath unflagged a question as offensive...
+* skamath flagged a question as offensive!
+* skamath suggested an answer to the question 'Error using discrete Radeon graphics'
+* skamath updated the question 'Error using discrete Radeon graphics'
+* skamath altered tags on askbot question 'Error using discrete Radeon graphics'
+* skamath asked the question 'Error using discrete Radeon graphics'
+* skamath altered tags on askbot question 'Error using discrete Radeon graphics'
+
+* **Total Entries in category :** 7
+
+* **Percentage participation in category :** 0.4
+
+
+#### Category : Irc
+* skamath gave sumantrom(2) a karma cookie in #fedora-meeting.  "sumantrom++"
+* skamath gave riecatnor(19) a karma cookie in #fedora-flock-openqa.  "riecatnor++"
+* skamath gave smooge(29) a karma cookie in #fedora-admin.  "smooge++ Thanks"
+* skamath gave pnemade(26) a karma cookie in #fedora-admin.  "paragan++ Thanks!"
+* skamath gave itamarjp(15) a karma cookie in #fedora-join.  "itamarjp++"
+* itamarjp gave skamath(25) a karma cookie in #fedora-join.  "skamath++"
+* ralph gave skamath(24) a karma cookie in #fedora-admin.  "skamath++ :)"
+* skamath gave jkurik(19) a karma cookie in #fedora-meeting.  "jkurik++"
+* langdon gave skamath(23) a karma cookie in #fedora-commops.  "skamath++"
+* skamath gave langdon(21) a karma cookie in #fedora-commops.  "jflory7++ langdon++"
+* cprofitt gave skamath(22) a karma cookie in #fedora-meeting.  "jflory7++ skamath++"
+* skamath gave lajuggler(2) a karma cookie in #fedora-meeting.  "s. :) award3535++ adamw++ sumantro++ lajuggler++"
+* skamath gave award3535(6) a karma cookie in #fedora-meeting.  "s. :) award3535++ adamw++ sumantro++ lajuggler++"
+* skamath gave adamwill(44) a karma cookie in #fedora-meeting.  "s. :) award3535++ adamw++ sumantro++ lajuggler++"
+* skamath gave sumantro(2) a karma cookie in #fedora-meeting.  "s. :) award3535++ adamw++ sumantro++ lajuggler++"
+* skamath gave zoglesby(9) a karma cookie in #fedora-meeting.  "zoglesby++ Never saw that ticket before"
+* woohuiren gave skamath(21) a karma cookie in #fedora-meeting.  "skamath++"
+* skamath gave woohuiren(7) a karma cookie in #fedora-meeting.  "GIANT_CRAB++"
+* skamath gave kevin(92) a karma cookie in #fedora-meeting.  "nirik++"
+* skamath gave jbwillia(23) a karma cookie in #fedora-commops.  "Southern_Gentlem++"
+* skamath gave ralph(81) a karma cookie in #fedora-commops.  "Yep! threebean++"
+* skamath gave linuxmodder(21) a karma cookie in #fedora-commops.  "Cool :) linuxmodder++"
+* skamath gave markotaris(1) a karma cookie in #fedora-meeting.  "markotaris++"
+* skamath gave fedora(4) a karma cookie in #fedora-meeting.  "decause++ fedora++"
+* skamath gave kushal(24) a karma cookie in #fedora-meeting.  "kushal++"
+* skamath gave roshi(16) a karma cookie in #fedora-meeting.  "roshi++"
+* devyani7 gave skamath(20) a karma cookie in #fedora-commops.  "dhanesh95++ skamath++"
+* skamath gave devyani7(11) a karma cookie in #fedora-commops.  "devyani7++"
+* bee2502 gave skamath(19) a karma cookie in #fedora-commops.  "skamath++"
+* skamath gave bee2502(15) a karma cookie in #fedora-commops.  "bee2502++"
+* skamath gave x3mboy(3) a karma cookie in #fedora-meeting.  "x3mboy++"
+* skamath gave decause(73) a karma cookie in #fedora-meeting.  "pycon++ decause++"
+* skamath gave jzb(12) a karma cookie in #fedora-meeting.  "jzb++ trishnag++"
+* skamath gave puiterwijk(86) a karma cookie in #fedora-meeting.  "puiterwijk++ basset++"
+* skamath gave basset(6) a karma cookie in #GlitterGallery.  "basset++"
+* skamath gave sayanchowdhury(14) a karma cookie in #fedora-meeting.  "sayan++"
+* decause gave skamath(18) a karma cookie in #fedora-meeting.  "skamath++"
+* skamath gave trishnag(10) a karma cookie in #fedora-meeting.  "trishnag++"
+* skamath gave dhanvi(9) a karma cookie in #fedora-meeting.  "c0mrad3++"
+* trishnag gave skamath(17) a karma cookie in #fedora-meeting.  "skamath++"
+* jflory7 gave skamath(16) a karma cookie in #fedora-meeting.  "skamath++ for the super cool statistic generation tool :)"
+* skamath gave dhanesh95(8) a karma cookie in #GlitterGallery.  "dhanesh95++"
+* dhanesh95 gave skamath(15) a karma cookie in #fedora-meeting.  "skamath++"
+* skamath gave jflory7(69) a karma cookie in #fedora-meeting.  "jflory7++"
+* skamath gave basset(4) a karma cookie in #GlitterGallery.  "basset++"
+* skamath gave allangardner(2) a karma cookie in #fedora-meeting.  "vivekanand1101++ Mathnerd314++"
+* skamath gave vivekanand1101(3) a karma cookie in #fedora-meeting.  "vivekanand1101++ Mathnerd314++"
+* pingou gave skamath(14) a karma cookie in #fedora-apps.  "skamath++"
+* skamath gave mailga(17) a karma cookie in #fedora-meeting.  "mailga++"
+* skamath gave sayanchowdhury(9) a karma cookie in #fedora-hubs.  "pingou++ sayan++ devyani7++ mizmo++"
+* skamath gave skrzepto(7) a karma cookie in #fedora-hubs.  "skrzepto++ radhikak++"
+* skamath gave lmacken(26) a karma cookie in #fedora-summer-coding.  "lmacken++"
+* lmacken gave skamath(13) a karma cookie in #fedora-summer-coding.  "skamath++"
+* skamath gave adamwill(37) a karma cookie in #fedora-admin.  "adamw++"
+* skamath gave duffy(45) a karma cookie in #fedora-meeting.  "mizmo++"
+* skamath gave farhaan(7) a karma cookie in #fedora-meeting.  "fhackdroid++"
+* skamath gave linuxhippie(7) a karma cookie in #fedora-meeting.  "LinuxHippie++ cprofitt++ dhanesh95++"
+
+* **Total Entries in category :** 57
+
+* **Percentage participation in category :** 3.26
+
+
+#### Category : Kerneltest
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (PASS)
+* skamath ran a test of 4.5.7-202.fc23.x86_64 (FAIL)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+* skamath ran a test of 4.6.3-300.fc24.x86_64 (PASS)
+
+* **Total Entries in category :** 27
+
+* **Percentage participation in category :** 1.54
